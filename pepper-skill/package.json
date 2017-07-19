@@ -1,0 +1,29 @@
+{
+  "name": "pepper-skill",
+  "version": "1.0.0",
+  "description": "red pepper alexa skill server",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.5",
+    "vows": "^0.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therata2eproject/pepper-skill.git"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "redpepper"
+  ],
+  "author": "Adnan Warsi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therata2eproject/pepper-skill/issues"
+  },
+  "homepage": "https://github.com/therata2eproject/pepper-skill#readme"
+}

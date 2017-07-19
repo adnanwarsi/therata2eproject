@@ -1,0 +1,306 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (S
+        (NP (DT a) (NN medium) (NN size))
+        (VP (VBG mixing)
+          (NP (NN bowl)))))
+    (, ,)
+    (ADVP (RB lightly))
+    (VP (VB beat)
+      (NP (CD two) (NNS eggs)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Add)
+      (NP
+        (NP (NN ground) (NN chuck))
+        (, ,)
+        (NP (NN bread) (NNS crumbs))
+        (, ,)
+        (NP (NN milk))
+        (, ,)
+        (NP (JJ grated) (NN cheese))
+        (, ,)
+        (NP (JJ minced) (JJ garlic) (, ,) (JJ parsley) (, ,) (JJ oregano) (, ,) (JJ red) (NN pepper))
+        (, ,)
+        (NP (JJ black) (NN pepper))
+        (CC and)
+        (NP (NN salt))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Gently))
+    (VP (VB combine)
+      (PP (IN until)
+        (ADJP (JJ incorporated))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Overmixing))
+    (VP (MD will)
+      (VP
+        (VP (VB pack)
+          (NP (DT the) (NN meat)))
+        (CC and)
+        (VP (VB create)
+          (NP (JJ dense) (NNS meatballs)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT a) (JJ large) (NN skillet)))
+    (, ,)
+    (PP (IN over)
+      (NP (NN medium-low)))
+    (, ,)
+    (NP (NN heat))
+    (VP (VBP olive)
+      (NP (NN oil)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN Once)
+      (S
+        (NP (DT the) (NN oil))
+        (VP (VBZ is)
+          (ADJP (JJ hot)))))
+    (, ,)
+    (VP (VB toss)
+      (NP (NNS meatballs))
+      (PP (IN in)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Turn)
+      (NP
+        (NP
+          (NP (DT every) (CD two) (NNS minutes))
+          (NP
+            (QP (CC or)
+              (RB so))))
+        (PRN (-LRB- -LRB-)
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (PRP they))
+              (VP (VBP turn)
+                (NP (JJ brown)))))
+          (-RRB- -RRB-)))
+      (, ,)
+      (S
+        (VP (VBG being)
+          (ADJP (JJ careful)
+            (S (RB not)
+              (VP (TO to)
+                (VP (VB burn)
+                  (NP (PRP them)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (DT the) (NNS meatballs))
+        (VP (VBP have)
+          (VP (VBN been)
+            (VP (VBN browned))))))
+    (, ,)
+    (VP (VB transfer)
+      (PP (TO to)
+        (NP
+          (NP (DT a) (NN plate))
+          (VP (VBN covered)
+            (PP (IN with)
+              (NP (DT a) (NN paper) (NN towel)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN As)
+      (S
+        (NP (DT the) (NN oil))
+        (VP (VBZ cools))))
+    (, ,)
+    (VP (VB transfer)
+      (PP (TO to)
+        (NP (DT a) (JJ large) (NN pot)))
+      (PP (IN by)
+        (S
+          (VP (VBG pouring)
+            (NP (PRP it))
+            (PP (IN through)
+              (NP (DT a) (NN mesh) (NN sieve)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (VBG Depending)
+      (PP (IN on)
+        (SBAR
+          (WHADJP (WRB how) (JJ much))
+          (S
+            (NP (EX there))
+            (VP (VBZ is)
+              (VP (VBN left)))))))
+    (, ,)
+    (NP (PRP you))
+    (VP (MD may) (RB not)
+      (VP (VB want)
+        (S
+          (VP (TO to)
+            (VP (VB put)
+              (NP (PRP it))
+              (PP (DT all) (IN in)))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNS Toss))
+    (PP (IN in)
+      (NP (NN onion)
+        (CC and)
+        (NN garlic)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (MD will)
+      (VP (VB be)
+        (NP
+          (NP (DT the) (NN start))
+          (PP (IN of)
+            (NP (PRP$ your) (NN sauce))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VP (VB Let)
+        (NP (DT the)
+          (ADJP (JJ onion)
+            (CC and)
+            (JJ garlic))
+          (NN cook)))
+      (, ,) (RB then)
+      (VP (VB add)
+        (NP (DT the) (NNP Prego))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Stir)
+      (PP (IN until)
+        (NP (JJ combined))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Add)
+      (NP (NN parsley) (, ,) (NN basil) (, ,) (NN sugar) (, ,) (NN salt)
+        (CC and)
+        (JJ red) (NN pepper)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VP (VB Turn)
+        (NP (NN heat))
+        (PP (IN on)
+          (PP (TO to)
+            (ADJP (JJ low)))))
+      (CC and)
+      (VP (VB let)
+        (NP (NN sauce) (NN simmer))
+        (PP (IN for)
+          (NP (CD 2-3) (NNS minutes)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Carefully))
+    (VP (VB place)
+      (NP (DT the) (NNS meatballs))
+      (PP (IN over)
+        (NP (NN top))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Cover)
+      (PP (IN with)
+        (NP
+          (NP (DT a) (NN lid)
+            (CC and)
+            (NN simmer))
+          (PP (IN for)
+            (NP
+              (QP (CD 30) (TO to) (CD 45))
+              (NNS minutes))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN While)
+      (S
+        (NP (NNS meatballs))
+        (VP (VBP are)
+          (VP (VBG simmering)))))
+    (, ,)
+    (VP (VB cook)
+      (NP (NN pasta)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NN Drain)
+        (CC and)
+        (NN divide))
+      (PP (IN between)))
+    (VP
+      (VP (VBZ bowls))
+      (CC or)
+      (VP (VBZ plates)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VP (VB Scoop)
+        (NP
+          (NP (DT a) (NN ladle))
+          (PP (IN of)
+            (NP (NN sauce))))
+        (PP (IN over)
+          (NP
+            (NP (DT each) (`` `) (NN bed) ('' '))
+            (PP (IN of)
+              (NP (NN pasta))))))
+      (, ,) (RB then)
+      (VP (VB top)
+        (PP (IN with)
+          (NP (CD 3-5) (NNS meatballs)))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Garnish)
+      (PP (IN with)
+        (NP (JJ additional) (NN parmesan) (NN romano) (NN cheese))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Serve)
+      (ADVP (RB immediately)))
+    (. .)))

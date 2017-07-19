@@ -1,0 +1,16 @@
+grill
+healthy
+italian
+vegan
+vegetarian
+pakistani
+indian
+thai
+chinese
+seafood
+soup
+salad
+european breakfast
+american breakfast vegetarian
+mediterranean lunch
+mediterranean dinners

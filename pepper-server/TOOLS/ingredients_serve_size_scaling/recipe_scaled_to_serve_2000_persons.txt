@@ -1,0 +1,160 @@
+
+
+
+
+
+
+
+
+{
+    "pinterestid": "161918549081817630",
+    "cookingtime": "15 mins",
+    "url": "http://littlespicejar.com/asian-sesame-chicken-salad/",
+    "source": "Little Spice Jar",
+    "servings": "3 large salads",
+    "description": "A copycat recipe for Panera's Asian Sesame Chicken Salad. Crispy, fresh romaine, sliced almonds, sesame seeds, tender sliced grilled\u2026",
+    "ingredients": [
+        {
+            "category": "Meat",
+            "prompt": "12 oz Chicken, cooked"
+        },
+        {
+            "category": "Meat",
+            "prompt": "4 Hearts romaine lettuce"
+        },
+        {
+            "category": "Produce",
+            "prompt": "1/3 cup Cilantro"
+        },
+        {
+            "category": "Produce",
+            "prompt": "2 whole cloves Garlic"
+        },
+        {
+            "category": "Produce",
+            "prompt": "1 15 oz can Mandarin oranges"
+        },
+        {
+            "category": "Condiments",
+            "prompt": "2 tbsp Soy sauce"
+        },
+        {
+            "category": "Pasta &amp; Grains",
+            "prompt": "1/2 cup Wonton"
+        },
+        {
+            "category": "Baking &amp; Spices",
+            "prompt": "1 tbsp Sesame seeds, toasted"
+        },
+        {
+            "category": "Baking &amp; Spices",
+            "prompt": "1/4 cup Sugar"
+        },
+        {
+            "category": "Oils &amp; Vinegars",
+            "prompt": "1/4 cup Canola oil"
+        },
+        {
+            "category": "Oils &amp; Vinegars",
+            "prompt": "1/2 cup Rice vinegar"
+        },
+        {
+            "category": "Oils &amp; Vinegars",
+            "prompt": "1 tbsp Sesame oil, toasted"
+        },
+        {
+            "category": "Nuts &amp; Seeds",
+            "prompt": "1/3 cup Almonds"
+        }
+    ],
+    "cookingsteps": [
+        {
+            "prompt": "Place the rice vinegar in a small saucepan over medium heat and allow it to just come to a gentle boil, add the sugar and garlic cloves and let the sugar dissolves, about 1 minute. Remove the rice vinegar mixture from the stove and discard the garlic cloves. Place the rice vinegar mixture in a mason jar and add the sesame oil, canola oil, soy sauce and toasted sesame seeds. Allow the dressing to come to room temperature, about 10-15 minutes. Screw on the lid and give it a good shake until the dressing mixes together. Please note, homemade salad dressing will separate as it sits, just give it a good couple shakes before pouring on salad."
+        },
+        {
+            "prompt": "In a large bowl, combine all the ingredients for the salad and top with the sesame vinaigrette. Serve immediately."
+        }
+    ],
+    "name": "Asian Sesame Chicken Salad",
+    "image": "https://s-media-cache-ak0.pinimg.com/originals/7c/12/4b/7c124bef0ceae7285dee9505863c662a.jpg"
+}
+
+
+
+
+
+
+
+
+{
+    "pinterestid": "161918549081817630",
+    "cookingtime": "15 mins",
+    "url": "http://littlespicejar.com/asian-sesame-chicken-salad/",
+    "source": "Little Spice Jar",
+    "servings": "2000 large salads",
+    "description": "A copycat recipe for Panera's Asian Sesame Chicken Salad. Crispy, fresh romaine, sliced almonds, sesame seeds, tender sliced grilled\u2026",
+    "ingredients": [
+        {
+            "category": "Meat",
+            "prompt": "500 pounds 4 ozs  Chicken, cooked"
+        },
+        {
+            "category": "Meat",
+            "prompt": "2668 Hearts romaine lettuce"
+        },
+        {
+            "category": "Produce",
+            "prompt": "13 gallons 7 pints and 1/3 cup Cilantro"
+        },
+        {
+            "category": "Produce",
+            "prompt": "1334 whole cloves Garlic"
+        },
+        {
+            "category": "Produce",
+            "prompt": "667 15 oz can Mandarin oranges"
+        },
+        {
+            "category": "Condiments",
+            "prompt": "5 gallons 1 pint 1 cup 6 tbsps  Soy sauce"
+        },
+        {
+            "category": "Pasta &amp; Grains",
+            "prompt": "20 gallons 6 pints 1 and 1/2 cup Wonton"
+        },
+        {
+            "category": "Baking &amp; Spices",
+            "prompt": "2 gallons 4 pints 1 cup 11 tbsps  Sesame seeds, toasted"
+        },
+        {
+            "category": "Baking &amp; Spices",
+            "prompt": "10 gallons 3 pints and 3/4 cup Sugar"
+        },
+        {
+            "category": "Oils &amp; Vinegars",
+            "prompt": "10 gallons 3 pints and 3/4 cup Canola oil"
+        },
+        {
+            "category": "Oils &amp; Vinegars",
+            "prompt": "20 gallons 6 pints 1 and 1/2 cup Rice vinegar"
+        },
+        {
+            "category": "Oils &amp; Vinegars",
+            "prompt": "2 gallons 4 pints 1 cup 11 tbsps  Sesame oil, toasted"
+        },
+        {
+            "category": "Nuts &amp; Seeds",
+            "prompt": "13 gallons 7 pints and 1/3 cup Almonds"
+        }
+    ],
+    "cookingsteps": [
+        {
+            "prompt": "Place the rice vinegar in a small saucepan over medium heat and allow it to just come to a gentle boil, add the sugar and garlic cloves and let the sugar dissolves, about 1 minute. Remove the rice vinegar mixture from the stove and discard the garlic cloves. Place the rice vinegar mixture in a mason jar and add the sesame oil, canola oil, soy sauce and toasted sesame seeds. Allow the dressing to come to room temperature, about 10-15 minutes. Screw on the lid and give it a good shake until the dressing mixes together. Please note, homemade salad dressing will separate as it sits, just give it a good couple shakes before pouring on salad."
+        },
+        {
+            "prompt": "In a large bowl, combine all the ingredients for the salad and top with the sesame vinaigrette. Serve immediately."
+        }
+    ],
+    "name": "Asian Sesame Chicken Salad",
+    "image": "https://s-media-cache-ak0.pinimg.com/originals/7c/12/4b/7c124bef0ceae7285dee9505863c662a.jpg"
+}

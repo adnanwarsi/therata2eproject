@@ -1,0 +1,83 @@
+{
+    "diets": [
+        "Gluten free"
+    ], 
+    "name": "The BEST Chicken Marinade Recipe - Mom On Timeout", 
+    "pinterestid": "54254370490568187", 
+    "ingredients": [
+        {
+            "category": "Meat", 
+            "prompt": "6 Chicken breast or 3.5 lb chicken"
+        }, 
+        {
+            "category": "Produce", 
+            "prompt": "2 tsp Garlic powder"
+        }, 
+        {
+            "category": "Produce", 
+            "prompt": "2 tsp Rosemary, dried"
+        }, 
+        {
+            "category": "Condiments", 
+            "prompt": "1/2 cup Balsamic vinegar"
+        }, 
+        {
+            "category": "Condiments", 
+            "prompt": "2 tbsp Dijon or spicy brown mustard"
+        }, 
+        {
+            "category": "Condiments", 
+            "prompt": "1/8 cup Lemon juice"
+        }, 
+        {
+            "category": "Condiments", 
+            "prompt": "1/4 cup Soy sauce"
+        }, 
+        {
+            "category": "Condiments", 
+            "prompt": "1/4 cup Worcestershire sauce"
+        }, 
+        {
+            "category": "Baking &amp; Spices", 
+            "prompt": "1 tsp Black pepper, ground"
+        }, 
+        {
+            "category": "Baking &amp; Spices", 
+            "prompt": "3/4 cup Brown sugar"
+        }, 
+        {
+            "category": "Baking &amp; Spices", 
+            "prompt": "2 tsp Salt"
+        }, 
+        {
+            "category": "Oils &amp; Vinegars", 
+            "prompt": "1/2 cup Olive oil, extra virgin"
+        }
+    ], 
+    "url": "http://www.momontimeout.com/2016/05/the-best-chicken-marinade-recipe/", 
+    "cookingsteps": [
+        {
+            "prompt": "Marinate for at least 4 hours and up to 24 hours."
+        }, 
+        {
+            "prompt": "Preheat grill to medium high heat and lightly oil the grates."
+        }, 
+        {
+            "prompt": "Remove the chicken from the marinade, letting the excess drip off."
+        }, 
+        {
+            "prompt": "Grill chicken for 5 to 6 minutes on each side or until cooked through. Baste the chicken occasionally with the leftover marinade."
+        }, 
+        {
+            "prompt": "Remove chicken from grill and tent with foil. Let chicken rest for at least 5 minutes before serving"
+        }, 
+        {
+            "prompt": "If you bring the remaining marinade up to a boil, let simmer until slightly reduced, it makes a wonderful sauce to go on top of the chicken."
+        }
+    ], 
+    "image": "http://www.momontimeout.com/wp-content/uploads/2016/05/best-chicken-marinade-easy.jpg", 
+    "source": "Mom On Timeout", 
+    "servings": "6 servings", 
+    "cookingtime": "55 mins", 
+    "description": "Look no further for the Best Chicken Marinade recipe ever! This easy recipe is sure to become your new favorite! Moist chicken and amazing flavor!"
+}

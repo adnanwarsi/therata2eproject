@@ -1,0 +1,986 @@
+<?xml version="1.0"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Adeeb Warsi</Author>
+  <LastAuthor>Adeeb Warsi</LastAuthor>
+  <Created>2016-08-28T18:01:39Z</Created>
+  <Version>14.0</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10800</WindowHeight>
+  <WindowWidth>25600</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="233" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="15">
+   <Column ss:Index="2" ss:Width="1535"/>
+   <Row>
+    <Cell><Data ss:Type="String">Cuisine</Data></Cell>
+    <Cell><Data ss:Type="String">Fun facts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Italian</Data></Cell>
+    <Cell><Data ss:Type="String">February 13th is National “Eat Italian Food” Day</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Italian</Data></Cell>
+    <Cell><Data ss:Type="String">Prosciutto&#160;was banned for export to the U.S. until 1989.&#160;Mortadella&#160;and&#160;Speck&#160;were&#160;outlawed until 2000. Other meats, including&#160;cotechino&#160;and&#160;zampone,&#160;are still banned today.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Italian</Data></Cell>
+    <Cell><Data ss:Type="String">Italians do not put meatballs on spaghetti: the average Italian meal is divided in two parts, primo piatto and secondo piatto.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Italian</Data></Cell>
+    <Cell><Data ss:Type="String">It was not until the 1700’s until tomato sauce was included with spaghetti in Italian kitchens.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Italian</Data></Cell>
+    <Cell><Data ss:Type="String">Italian wedding soup is not a traditional soup served at weddings.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Italian</Data></Cell>
+    <Cell><Data ss:Type="String">The term Neapolitan Ice Cream originated in the U.S. in the late 19th century, and is presumably a reference to the 3 layered ice cream cakes of Tortoni, a Neapolitan.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Italian</Data></Cell>
+    <Cell><Data ss:Type="String">There are more than 600 pasta shapes produced worldwide.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Italian</Data></Cell>
+    <Cell><Data ss:Type="String">In the 13th century, the Pope set quality standards for pasta.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Italian</Data></Cell>
+    <Cell><Data ss:Type="String">The average person in Italy eats more than 51 pounds of pasta every year. The average person in North America eats about 15-1/2 pounds per year.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Italian</Data></Cell>
+    <Cell><Data ss:Type="String">Most Italians eat pasta at least once a day. But that doesn’t mean they eat the same thing every day! There so many ways to eat pasta, with a variety of different toppings and sauces, that they never get bored.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Italian</Data></Cell>
+    <Cell><Data ss:Type="String">Each region in Italy has it’s favourite ways to eat pasta. In Rome, two classics are the carbonara (with eggs and pancetta, which is like bacon) and the cacio e pepe (with cheese and pepper).</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Mexican</Data></Cell>
+    <Cell><Data ss:Type="String">Some traditional Mexican food recipes call for ingredients such as iguana and rattlesnake!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Mexican</Data></Cell>
+    <Cell><Data ss:Type="String">Mexican food today actually has a rich history – many of Mexico’s more traditional recipes hail from the Aztecs and Mayans.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Mexican</Data></Cell>
+    <Cell><Data ss:Type="String">You can thank Spaniards somewhat for the Mexican food we know today; the traditional Indian foods (inherited from the aforementioned Mayan and Aztec recipes) were changed as the Spanish colonized Mexico, bringing their own cooking ideas, methods and ingredients.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Mexican</Data></Cell>
+    <Cell><Data ss:Type="String">Authentic Mexican food is actually quite healthy: it’s high in vitamins and minerals and low in fat. Many people consider it the perfect blend of the important food groups: meat, dairy, grains, and vegetables.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Mexican</Data></Cell>
+    <Cell><Data ss:Type="String">Traditional Mexican food includes all parts of the cow’s meat: the udder, stomach, tongue, even the uterus and testicles.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Mexican</Data></Cell>
+    <Cell><Data ss:Type="String">TacoTimeCanada.com reports that tortillas once came in cans, and were popular in this form of packaging from the 1940s to about the 1980s.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Mexican</Data></Cell>
+    <Cell><Data ss:Type="String">Every region within Mexico has its own type of Mexican food. Northern Mexican likes its dishes with meat, while Mexico’s southern states prefer chicken and vegetables as the main ingredients. Both regions, however, tend to use the meat as a relish, instead of the main ingredient.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Mexican</Data></Cell>
+    <Cell><Data ss:Type="String">However, the number one ingredient in traditional Mexican food isn’t meat, veggies or chicken: it’s chili.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Mexican</Data></Cell>
+    <Cell><Data ss:Type="String">Even traditional Mexican desserts have chili within them. The chili helps create a nice melding of hot and sweet.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Mexican</Data></Cell>
+    <Cell><Data ss:Type="String">One family in Mexico can consume up to two pounds of tortillas a day.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Thai</Data></Cell>
+    <Cell><Data ss:Type="String">Thai cuisine is a perfect blend of flavours – salty, sweet, sour, bitter and spicy. Almost every Thai dish combines all five tastes.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Thai</Data></Cell>
+    <Cell><Data ss:Type="String">The top ten Thai dishes best liked by people around the world includes Tom Yam Kung,&#160;Kaeng Khiao Wan Kai (Green chicken curry)&#160;and&#160;Pad Thai.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Thai</Data></Cell>
+    <Cell><Data ss:Type="String">Thai cuisine is so popular around the world that, two Thai dishes – Pad Thai (stir-fried noodles) and Tom Yum Goong (Spicy and Sour Shrimp soup) – are available in every corner of the world.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Thai</Data></Cell>
+    <Cell><Data ss:Type="String">Thai people never waste rice on the plate, or step on rice because they consider rice as sacred and believe that every grain of rice has a divine element in it.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Thai</Data></Cell>
+    <Cell><Data ss:Type="String">There is no such a thing is baking in Thailand. None of the food is baked, and most household don’t have an oven.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Thai</Data></Cell>
+    <Cell><Data ss:Type="String">Eating a meal is generally treated as a celebration therefore it’s quite common to see large groups of individuals eating together. Thai culture treats eating alone as a bad luck gesture hence, all dishes have to be shared and enjoyed together.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Thai</Data></Cell>
+    <Cell><Data ss:Type="String">Thai cutlery&#160;generally consists of a fork and a large spoon (tablespoon). The use of chopsticks arises only when eating noodles.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Thai</Data></Cell>
+    <Cell><Data ss:Type="String">The formal presentation of food is an important aspect of Thai food culture. It was developed primarily in the palace to please the King of Siam,&#160;Thai food&#160;presentation is among the most exquisite in the world.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Spanish</Data></Cell>
+    <Cell><Data ss:Type="String">Spain with a 44 % of market share is by far the most important producer of olive oil in the world. This is more than twice the Italian production and four times Greek production!&#160;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Spanish</Data></Cell>
+    <Cell><Data ss:Type="String">Spain is the number one in terms of area covered by vineyards. Around 15.5 % of the world vineyards are in Spain!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Spanish</Data></Cell>
+    <Cell><Data ss:Type="String">Around 75 % of the world saffron production is in Spain! Saffron is one of the essential ingredients of the paella dish!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Spanish</Data></Cell>
+    <Cell><Data ss:Type="String">The wine Sherry comes from a city of southern Spain called Jerez, a corruption of the Persian name for the city (Sheriz).</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Spanish</Data></Cell>
+    <Cell><Data ss:Type="String">Tortillas in Spain are omelettes! Spanish omelette is commonly known as&#160;Spanish tortilla.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Spanish</Data></Cell>
+    <Cell><Data ss:Type="String">Spain is the 5th exporter of wine to the U.S.A. &#160;(after Italy, Australia, France and Chile).</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Spanish</Data></Cell>
+    <Cell><Data ss:Type="String">Most famous&#160;wines in Spain&#160;are red ones, but the majority of the vineyards are of white grapes!&#160;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Spanish</Data></Cell>
+    <Cell><Data ss:Type="String">Tomatoes, potatoes, cacao, tobacco were imported to Europe by Spaniards. See&#160;Spanish food influences and history.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Spanish</Data></Cell>
+    <Cell><Data ss:Type="String">Tapas are not a typical dishes or food, tapas are more a way to eat them. The word&#160;'tapa'&#160;means cover and&#160;Tapas&#160;originally were slices of cheese or something else used to cover a drink in order to keep flies and mosquitos away!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Spanish</Data></Cell>
+    <Cell><Data ss:Type="String">Spain is the second country in numbers of bars per inhabitant, just after Cyprus.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Indian</Data></Cell>
+    <Cell><Data ss:Type="String">According to Indian food theory, there are six different tastes: sweet, sour, salty, spicy, bitter, and astringent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Indian</Data></Cell>
+    <Cell><Data ss:Type="String">Love eating samosas?&#160;Here’s a shocker for you. It’s not Indian</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Indian</Data></Cell>
+    <Cell><Data ss:Type="String">India consumes 50% of the world’s whiskey</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Indian</Data></Cell>
+    <Cell><Data ss:Type="String">India has the world’s lowest meat consumption per person</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Indian</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;70% of all the world’s spices come from India</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Indian</Data></Cell>
+    <Cell><Data ss:Type="String">The crystallization and making of sugar from sugarcane juice began in India</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Indian</Data></Cell>
+    <Cell><Data ss:Type="String">Did you know that by the 5th century AD, crystallized sugar was referred to as khanda&#160;and this is where the word candy is derived from</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Indian</Data></Cell>
+    <Cell><Data ss:Type="String">Chicken tikka masala, the hugely popular Indian curry, is NOT Indian. It was invented in Glasgow, Scotland</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">French</Data></Cell>
+    <Cell><Data ss:Type="String">Approximately 500 million snails&#160;are consumed per year in France.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">French</Data></Cell>
+    <Cell><Data ss:Type="String">The legal drinking age is 18 for liquors containing over 21 percent alcohol but just 16 for most other alcoholic beverages. Many teenagers drink wine with their parents at home, although it is often watered down to begin with.&#160;Wine is considered a very important part of the meal&#160;and the French are the second biggest consumers of alcohol per capita in the western world after Luxembourg.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">French</Data></Cell>
+    <Cell><Data ss:Type="String">McDonalds outlets in France serve beer and you can order a&#160;Croque McDuo! The prices are nearly double those in the USA and triple those in Hong Kong but most locals don’t mind as the reason for the price difference is that 90% of all ingredients are sourced locally. Only the best for the French McDonalds!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">French</Data></Cell>
+    <Cell><Data ss:Type="String">The French value mealtimes so much that a &#160;two hour lunch break&#160;is not uncommon. Outside of the major cities, don’t be surprised if all shops and government buildings are closed between 12pm and 2pm.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">French</Data></Cell>
+    <Cell><Data ss:Type="String">A massive&#160;ten billion baguettes&#160;are baked and sold each year in France and there are strict laws governing their production. To call itself a baguette it must only contain three ingredients – flour, yeast and salt; absolutely no preservatives – and each must weight precisely 250 grams.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">French</Data></Cell>
+    <Cell><Data ss:Type="String">The French consume an average of 25 kilograms per person, per year, which makes them the&#160;largest consumer of cheese in the world. It is unsurprising therefore that the country produces a huge variety consisting of over 300 different cheeses. Cheese is served as a dish on its own as part of a multi-course meal, after the main course and before the dessert.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">French</Data></Cell>
+    <Cell><Data ss:Type="String">An average of two recipe books are published each day&#160;in France.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">French</Data></Cell>
+    <Cell><Data ss:Type="String">There are over 5,000 restaurants in Paris&#160;alone.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">French</Data></Cell>
+    <Cell><Data ss:Type="String">Some cheeses made from goats’ milk are covered with charcoal ash before being stored away to mature, which helps to absorb any surface moisture and preserves them for long periods.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">French</Data></Cell>
+    <Cell><Data ss:Type="String">French food is extremely varied as&#160;each region has its own distinctive cuisine and style, crafted from local produce and determined by the seasons. For example, the Alps region is known for its warming cheese-focused dishes such as fondue and raclette, Provencal food embraces olive oils, fresh tomatoes and wild herbs, and in Normandy the food is rich with butter and creme fraiche, balanced by apples.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Chinese</Data></Cell>
+    <Cell><Data ss:Type="String">Did you know that Chinese food has&#160;5 Key Flavors&#160;that must be balanced according to Traditional Chinese Medicine — sweet, sour, salty, bitter, and spicy?</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Chinese</Data></Cell>
+    <Cell><Data ss:Type="String">The colder, drier north favors wheat production, so&#160;northerners&#160;eat dumplings, wheat noodles, steamed buns, and stuffed buns mostly.&#160;In the south, Chinese eat bowls of rice or rice noodles with almost every meal (as well as far greater varieties of fruit and veg), and only occasionally eat wheat.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Chinese</Data></Cell>
+    <Cell><Data ss:Type="String">Foreigners are often shocked&#160;what Chinese eat. Many Chinese dishes make foreigners feel weird or squeamish, like dog hotpot, insects, scorpions, snakes, rats, pig's ears, heads, feet, hearts, lungs, liver, kidneys, intestines, and boiled blood.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Chinese</Data></Cell>
+    <Cell><Data ss:Type="String">Chinese eat far more fruit/vegetables than in the West — about&#160;twice as much dietary fiber… resulting in bowel movements twice the size of Western ones!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Chinese</Data></Cell>
+    <Cell><Data ss:Type="String">Crazy variety&#160;is not limited to China's &quot;meats&quot;… Many of&#160;China's vegetables&#160;and fruit you won't have seen or heard of before, like pomeloes, bitter cucumber, yard-long yams, tree fungi, and dozens of untranslatable weed-like plants.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Chinese</Data></Cell>
+    <Cell><Data ss:Type="String">Wet markets&#160;(where live/freshly-butchered animals and freshly picked foods are sold) abound in China — almost one per city block. Many Chinese go every day. Fridge freezers are catching on, but fresh veg is still a must. Tins are despised.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Chinese</Data></Cell>
+    <Cell><Data ss:Type="String">Also, according to Chinese medicine&#160;food must be eaten in season&#160;to combat too much yin (cold weather) and yang (hot weather), dryness, or dampness. E.g. huge white radishes (with high yang) are very popular in winter.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Chinese</Data></Cell>
+    <Cell><Data ss:Type="String">Chinese don't like waste, so whole animals are often served. E.g. fish are not filleted, just gutted, with head and bones intact. Sometimes bones are soft enough to chew up; sometimes they must be de-mouthed (onto a side plate).</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Chinese</Data></Cell>
+    <Cell><Data ss:Type="String">Chinese believe meat near the bones is the best, and that marrow is very nutritious, so&#160;bones are deliberately chopped to splinters&#160;to release the marrow — watch out while eating. Bone broth is popular.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Chinese</Data></Cell>
+    <Cell><Data ss:Type="String">Chinese don't eat with knives and forks, traditionally, which is seen as violent or barbaric, but with&#160;chopsticks. As chopsticks don't actually chop, all food is very soft or chopped up into bite-size pieces before cooking.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Chinese</Data></Cell>
+    <Cell><Data ss:Type="String">That's an unremarkable average of 2 or 3 pairs of chopsticks used a month for its approaching 1.4 billion population. The government has imposed a disposable chopstick tax to reduce usage. Most (disposable) chopsticks are softwood or bamboo, so that's about 100 square miles or the area of Queens of trees/bamboo… or 50,000 tonnes — imagine trucks of chopsticks lined up end-to-end for 30 miles.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Chinese</Data></Cell>
+    <Cell><Data ss:Type="String">Like Bubba's shrimp in&#160;Forest Gump, there are many&#160;ways&#160;to cook&#160;Chinese&#160;food.&#160;For example, a fish could be steamed, boiled, stewed, quick-fried, stir-fried, deep-fried, roasted, sautéed, marinated in brine, pickled in vinegar, soy-sauced, or sweet-and-sour-sauced.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Chinese</Data></Cell>
+    <Cell><Data ss:Type="String">Chinese chefs, particularly&#160;Jiangsu cuisine&#160;experts, go overboard on presentation. They believe&#160;&quot;the first bite is with the eyes&quot;. Dishes are served in precise patterns or lifelike shapes, brightened by intricate vegetable carvings and decorative herbs.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Chinese</Data></Cell>
+    <Cell><Data ss:Type="String">Chinese attach particular meanings to certain foods based on shapes, colors, pronunciations, and legends. Superstition and tradition dictate certain foods must be eaten for certain festivals/events to invoke a blessing. For example, ingot-shaped dumplings mean wealth at New Year, and round mooncakes represent family reunion at Mid-Autumn. See The Symbolism of Chinese Foods.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Chinese</Data></Cell>
+    <Cell><Data ss:Type="String">In traditional Chinese meals, dishes are shared communally. Dishes are served in the middle of a table, and people sit with their rice bowls around it. In restaurants, especially for tables seating 10 or 12, there are usually lazy Susan turntables to permit easy sharing among diners. See What Restaurants Are Like in China.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Chinese</Data></Cell>
+    <Cell><Data ss:Type="String">The honored guest&#160;is customarily seated furthest from the door with the fish, chicken, duck… heads pointing his way.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">English</Data></Cell>
+    <Cell><Data ss:Type="String">It was the&#160;Romans&#160;who made&#160;oysters popular in Britain and were responsible for establishing their cultivation .&#160; The rich waters of Camulodunum (Colchester today) are&#160; ideal for cultivating the delicious&#160;Colchester oysters&#160;.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">English</Data></Cell>
+    <Cell><Data ss:Type="String">In Spring, you can trace the routes of the Roman Army through the&#160;south of England&#160;by following the white blossom on tall, wild cherry trees. Roman soldiers brought cherries from Italy and spat the pips out as they marched.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">English</Data></Cell>
+    <Cell><Data ss:Type="String">The world’s most eaten ‘convenience’ food, the humble&#160;sandwich&#160;was named after an English aristocrat. &#160; The&#160;Earl of Sandwichhad such a passion for gambling, that he didn’t want to have to stop playing – gambling addiction?&#160; To ensure his game was not interrupted and to keep his hands clean for the cards, the&#160;Earl of Sandwich&#160;asked for meat to be put between two slices of bread.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">English</Data></Cell>
+    <Cell><Data ss:Type="String">King James I of England and VI of Scotland imported 10,000 mulberry trees to start a silk industry. Unfortunately, he ordered the wrong variety and the silk worms wouldn’t eat the leaves. The mulberry tree ‘berries,’ however, made&#160;excellent jam. </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">English</Data></Cell>
+    <Cell><Data ss:Type="String">Bletted’ Medlars&#160;were a much loved after dinner treat in Victorian homes in November and December. The fruit was gathered from trees in September, laid in sawdust and kept until the flesh turned dark and soft, as they had to be ‘rotten to be ripe’.&#160; I’ll give this one a miss!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">English</Data></Cell>
+    <Cell><Data ss:Type="String">It is not only&#160;Stilton&#160;cheese that is important to the people of the&#160;Heart of England. In 1734, the Mayor of Nottingham was bowled over with a 100 lb. wheel of cheese during a riot after stall-holders at an annual street market had increased cheese prices by more than a third.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">English</Data></Cell>
+    <Cell><Data ss:Type="String">The world’s first&#160;chocolate bar&#160;was made in&#160;Bristol&#160;in the late 1720s&#160;by Joseph Fry. His company was eventually taken over by Cadbury, another British, family owned firm.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">English</Data></Cell>
+    <Cell><Data ss:Type="String">Mint sauce&#160;became the ‘essential’ accompaniment to roast lamb in Britain thanks to Queen Elizabeth I. To stop her subjects eating lamb and mutton (and help the wool industry), she decreed that the meat could only be served with bitter herbs. Enterprising cooks discovered that mint made the meat taste better, not worse.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">English</Data></Cell>
+    <Cell><Data ss:Type="String">Ice cream&#160;was so popular in London in the 19th century that massive ‘ice wells’ were dug in the city. Ice was imported from America, and later from Norway to fill them.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Alabama:&#160;The official nut of Alabama is the&#160;pecan, which explains the popularity of comforting pecan pie in this southern state. It hosts a&#160;pecan festival&#160;every fall with country music, carnival rides, and a western show.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Alaska:&#160;This chilly state is more than frost and snow. Berries can often be foraged out in the nature, and&#160;wild Alaskan blueberries&#160;are more nutritious than common blueberries.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Arizona:&#160;Yuma County, Arizona, is the nation's&#160;winter lettuce&#160;capital, thanks to its 350 days of sunshine a year. This sunny county provides America with 90% of its leafy greens from November through March and hosts its own veggie festival called &quot;Yuma Lettuce Days&quot; every year.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Arkansas:&#160;Prefer your veggies on the crispy side? The first&#160;fried dill pickle&#160;ever sold was at the Duchess Drive-In in Atkins, Arkansas, in 1963. If you're looking to try the original, you can get your fix at the&#160;Atkins Picklefest&#160;each May.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">California:&#160;Rolling pastures and bright skies make for happy cows. The Golden State is the United States' #1&#160;dairy&#160;producer, churning out tons of butter, milk, and, of course, ice cream each year. Better yet: 99% of California dairy farms are family owned!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Colorado:&#160;You've got the Rocky Mountain State to thank for your cookout favorite — thecheeseburger. Drive-in owner Louis E. Ballast trademarked the &quot;cheeseburger&quot; on March 5, 1935. He never formally enforced his trademark, and the Humpty Dumpty Barrel restaurant, where the cheeseburger was created, no longer stands, but you can find a stone carving on the side of the road that designates the site of its birth.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Connecticut:&#160;This state is for suckers. No, really — the&#160;lollypop&#160;was first invented in New Haven, Connecticut, in 1908 by George Smith, who enjoyed going to the races so much that he named his creation after a competitor of the time, a horse named Lolly Pop.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Delaware:&#160;In 2009, the country's first state declared&#160;peach pie&#160;its official dessert. The campaign was started by fifth and sixth graders who chose the dessert because of Delaware's peach farming history.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Florida:&#160;Guacamole fans, rejoice. The first&#160;avocado&#160;tree in the United States was planted in Florida in 1833, making taco night in American homes infinitely better since.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Georgia:&#160;Your PB&amp;J wouldn't be quite the same without this state. Georgia is the number one&#160;peanut&#160;producer in the U.S., and half of its crop gets processed into peanut butter — creamy&#160;and&#160;crunchy.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Hawaii:&#160;Need your caffeine fix? Hawaii is the only U.S. state to grow&#160;coffee&#160;beans. The Kona region of the Big Island is home to 650-700 coffee farms alone and produces 3 million pounds of coffee beans each year.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Idaho:&#160;Yes, we want fries with that. While&#160;potatoes&#160;are grown in all 50 states of the U.S., Idaho remains the country's biggest producer, harvesting about 12 billion pounds annually.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Illinois:&#160;Chicago's famous&#160;deep-dish pizza&#160;isn't an Italian export, but rather an American original. Chicago restaurant Pizza Uno first created the dish in 1943, and it has become the city's most iconic food since.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Indiana:&#160;The Hoosier State is one of the country's biggest&#160;corn&#160;producers, harvesting over 1 billion bushels in 2013. The state takes great pride in its kernel production and even has a town named Popcorn.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Iowa:&#160;We have found your new vacation destination,&#160;ice cream&#160;lovers. Le Mars, Iowa, was deemed the &quot;Ice Cream Capital of the World&quot; in 1994, and produces more ice cream from a single company,&#160;Blue Bunny, than any other city in the world.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Kansas:&#160;This midwestern state harvests so much&#160;wheat&#160;in a year that its annual harvest could bake 36 billion loaves of bread — enough to feed the world's population for about two weeks.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Kentucky:&#160;This state's popular food export is no secret: Colonel Harland Sanders cooked the first batch of Kentucky Fried Chicken at Sanders Cafe in Corbin, Kentucky. The recipe has changed a few times over the years, and the first bucket of KFC chicken sold in 1957.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Louisiana:&#160;This state's flavors are so intricate that it has its own cuisine.&#160;Cajun&#160;food is derived from French-speaking Arcadian immigrants who came to Louisiana in the 18th century. It is known for its aromatic preparation of vegetables, rice, and seafood.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Maine:&#160;Get your butter and bibs. Maine's&#160;lobster&#160;harvest hit an all-time high in 2013, with fishermen bringing in over 100 million pounds of the crustacean. Lobsters are harvested year round in Maine, despite extreme cold winter temperatures.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Maryland:&#160;Maine's not the only crustacean capital in the country. Maryland&#160;blue crabs are a classic Chesapeake delicacy that locals (and visitors!) enjoy steamed, sautéed, or mixed into soups and dips.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Massachusetts:&#160;It wouldn't be New England without a bowl of &quot;chowdah,&quot; and Bay Staters take their soup so seriously that rumor has it that it's actually illegal to put tomatoes in&#160;New England clam chowder.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Michigan:&#160;If you've ever sipped a can of&#160;ginger ale&#160;to quell an upset stomach, you have this state to thank. The first soda — or &quot;pop&quot; — made in the country was Vernor's Ginger Ale in 1866.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Minnesota:&#160;Pass the bread basket! This midwestern state is nicknamed the &quot;Bread and Butter&#160;State&quot; because of its plentiful wheat fields and butter-making plants.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Mississippi:&#160;Sweet potatoes&#160;have been growing in the United States since before Columbus came over in 1492. Vardaman, Mississippi, is the Sweet Potato Capital of the World and hosts an annual&#160;sweet potato festival&#160;featuring a pie eating contest, live entertainment, and a Sweet Potato King &amp; Queen competition.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Missouri:&#160;The St. Louis World's Fair in 1904 forever changed frozen dessert history when an ice cream vendor ran out of cups and asked a nearby waffle vendor to roll up some waffles, creating the first&#160;ice cream cones.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Montana:&#160;Vegetables can be pretty sweet. Montana is such a big producer of&#160;sugar beets&#160;— light brown beets that you can cook to create a molasses — that they're the mascot of Chinook High School.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Nebraska:&#160;Got steak? Nebraska's license plates in the 50's and 60's read &quot;The Beef State&quot; because&#160;beef&#160;is the state's single largest industry, boosting the state economy by $12.1 billion.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Nevada:&#160;If you're looking to get the biggest meal for your buck, a trip to Las Vegas will leave you with a full belly. The casino city is also known as the world capital of&#160;buffets, with about 50 total in the city and approximately 20 on the Strip alone.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">New Hampshire:&#160;A visit to&#160;Stonyfield Farm&#160;in Londonderry, New Hampshire, can show you how&#160;yogurt&#160;and other dairy products are produced ethically. This organic, non-GMO company is the third most popular yogurt producer in the country, and you've probably spotted their products in your dairy aisle. Bonus: They'll even let you taste some free samples.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">New Jersey:&#160;Need a french fry fix at 2 a.m.? No problem. New Jersey is known as thediner&#160;capital of the world thanks to the hundreds of greasy spoons within the Garden States borders. Estimates say there are approximately 525 statewide.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">New Mexico:&#160;The&#160;chile pepper&#160;is the state vegetable of the Land of Enchantment. These spicy veggies go great in many New Mexican meals — just be sure not to rub your eyes after handling them.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">New York:&#160;After a particularly picky customer at Moon's Lake House in Saratoga Springs, New York, complained about the thickness of his french fries in 1853, Chef George Crum sliced some potatoes paper thin, creating the first&#160;potato chips.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">North Carolina:&#160;Pharmacist Caleb Davis Bradham invented&#160;Pepsi-Cola&#160;in New Bern, North Carolina, in 1867. Although now a beloved soft drink, Pepsi was originally touted as a healthy drink that aided in digestion.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">North Dakota:&#160;Nearly 90% of this rural state is farmland, making it the nation's leading producer of&#160;barley,&#160;lentils,&#160;canola, and more.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Ohio:&#160;Internationally recognized horticulturalist Alexander W. Livingston developed the Paragon tomato, the first commercially grown&#160;tomato, in 1870 in Reynoldsburg, Ohio, giving the town the title, &quot;Birthplace of the Tomato.&quot;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Oklahoma:&#160;While it's considered a fruit pretty much everywhere else, the&#160;watermelon was declared the state&#160;vegetable&#160;of Oklahoma in 2007. Since watermelons come from cucumber and gourd families, the state decided that they should be considered vegetables.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Oregon:&#160;99% of all&#160;hazelnuts&#160;in the U.S. are grown in Oregon's Willamette Valley, keeping the country's chocolate-hazelnut cravings completely satisfied.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Pennsylvania:&#160;The&#160;Philly Cheesesteak&#160;made its debut in 1930 when Pat Olivieri, a hot dog vendor, decided to put some beef on his grill and put it on a sandwich. Eventually Pat's King of Steaks opened and the cheesesteak's popularity skyrocketed.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Rhode Island:&#160;A cup of Joe isn't necessary to get your java fix in this state. Rhode Island adopted&#160;coffee milk&#160;as its state beverage in 1993. Similar to chocolate milk, the drink is made by mixing a sweet, concentrated coffee syrup with cold milk.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">South Carolina:&#160;The first recorded effort to cultivate&#160;rice&#160;in the U.S. happened in Charleston, South Carolina, in 1685. Because of this historical connection to the grain, the state is sometimes called &quot;The Rice State.&quot;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">South Dakota:&#160;This state has maintained its culinary connection to native culture.&#160;Fry bread&#160;— the official state bread — has its origins in the Navajo tribe.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Tennessee:&#160;Originally developed as a snack sold to Appalachian coal miners,&#160;moon pieswere first made in Chattanooga Bakery in Tennessee. The cookies are made with a marshmallow sandwiched between two graham crackers, dipped in chocolate.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Texas:&#160;This north-of-the-border state produces 1/3 of all the&#160;tortillas&#160;in the United States— they are a Tex-Mex staple, after all.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Utah:&#160;Approximately 2 billion&#160;cherries&#160;are grown in Utah annually, making it the official state fruit. After World War II, the Japanese also sent cherry trees to Utah as a sign of friendship.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Vermont:&#160;The state capital, Montpelier, is the single largest producer of&#160;maple syrup&#160;in the U.S. In 2013 alone, the syrup crop came in at 1,320,000 gallons, the largest in 70 years.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Virginia:&#160;This seaside state is known as the&#160;oyster&#160;capital of the east coast, thanks to its plentiful seafood yields. The world's only oyster museum is also located in Chincoteague Island, Virginia.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Washington:&#160;If every&#160;apple&#160;picked in Washington in a single year was placed side-by-side, they would circle around the earth 29 times. Even more impressive? Every apple in the state is hand-picked.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">West Virginia:&#160;The calzone-esque&#160;pepperoni roll&#160;originated as a meal for West Virginian coal minors. They are made out of bread rolls with pepperoni and sometimes cheese baked into the middle.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Wisconsin:&#160;Home of the cheeseheads, Wisconsin produces more than 600 different varieties of&#160;cheese. Today the state is home to 11,000 dairy farms and more than 1.27 million cows.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">American</Data></Cell>
+    <Cell><Data ss:Type="String">Wyoming:&#160;Harkening back to its cowboy roots, Wyoming has its own type of feast: a&#160;milk can dinner. Vegetables, meat, and water or beer are placed in a 10-gallon milk can and then cooked over a fire for a couple hours.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">A survey showed 29% of adults say they have been splashed or scalded by hot drinks while dunking biscuits.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Ortharexia Nervosa is an eating disorder where the sufferer is obsessed with eating healthy food.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Ketchup was sold in the 1830’s as medicine.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Dry swallowing one teaspoon of sugar can commonly cure hic-ups.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">In Kentucky, it is illegal to carry an ice cream cone in your back pocket.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">The fear of cooking is known as Mageirocophobia and is a recognised phobia.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">The tea bag was introduced in 1908 by Thomas Sullivan of New York.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">The tall chef’s hat is called a toque.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Arachibutyrophobia is the fear of peanut butter sticking to the roof of the mouth.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">In South Africa, termites and ants are often roasted and eaten by the handful, like popcorn.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Every time you lick a stamp, you consume 1/10 of a calorie.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Pearls melt in vinegar.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">The ’57’ on the Heinz ketchup bottle represents the number of pickle types the company once had.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Marmite was first introduced into the UK in 1902.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">The ancient Greeks chewed a gum-like substance called mastic that came from the bark of a tree.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Honeybee workers must visit 2 million flowers to make one pound of honey.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">The fear of vegetables is called Lachanophobia.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Almonds are a member of the peach family.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">If you boil beetroot in water, and then massage the water into your scalp each night, it works as an effective cure for dandruff.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">In the United States, lettuce is the second most popular fresh vegetable.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Grape growing is the largest food industry in the world as there are more than 60 species and 8000 varieties of grapes.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">The average person eats eight pounds of&#160;grapes&#160;each year.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">There are more than 7,000 varieties of apples grown in the world.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">A cluster of bananas id formerly called a ‘hand’. Along that theme, a single banana is called a ‘finger’.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Onion is Latin for ‘large pearl’.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Apples, pears, cherries and strawberries are all members of the rose family.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">The word vegetable has no scientific definition, so it’s still acceptable to call a tomato a vegetable.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">In the Philippines, it is considered good luck if a coconut is cleanly split open without jagged edges.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">When cranberries are ripe, they bounce like a rubber ball.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">The most amount of grapes eaten in 3 minutes is 133. This record was set in 2001 by Mat Hand, from the UK.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">There are more than 10,000 varieties of tomatoes.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">In 2001, there were more than 300 banana-related accidents in Britain, most involving people slipping on skins.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">If you want to speed up the ripening of a&#160;pineapple, so that you can eat it faster, then you can do it by standing it upside down (on the leafy end).</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Carrots have zero fat content.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Peanuts can be used to make dynamite.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">A watermelon is over 92% water by weight.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Alliumphobia is the fear of garlic.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">A row of corn always has an even number.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">The pumpkin originated in Mexico about 9,000 years ago.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Square watermelons sell for about $85.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Turnips are high in fibre, Vitamin C, Calcium and Potassium.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Eating a lot of beetroot turns your pee into a pink colour.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Biting a wooden spoon whilst chopping an&#160;onion&#160;will stop your eyes from watering.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Each pineapple plant only produces just one pineapple per year.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Lettuce is a member of the sunflower family.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Blueberries are a good source of Vitamin C and fibre.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Pumpkin flowers are edible.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Peaches are the third most popular fruit grown in America.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">We are eating 900% more broccoli than we did 20 years ago.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">There are more than 600&#160;pasta&#160;shapes produced worldwide.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Geomelophagia is someone who has the urge to eat raw potatoes.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">9th August is officially&#160;National Rice Pudding Day.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Rice can be used in beer, dog food, baby food, breakfast cereals, snacks, frozen foods and sauces!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">October is National Pasta Month.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Canadian neurosurgeon Dr. Wilder Penfield, while operating on epilepsy patients, discovered the ‘Toast Centre’ of the human brain, which is wholly dedicated to detecting when toast is burning!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">16 billion jelly beans are made for Easter. stacked end to end, the jelly beans would circle the globe nearly 3 times!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Before 1991 Twix Bars were internationally knows as ‘Raider’.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">5The Arabs invented caramel.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Before Walkers owned&#160;Wotsits, they sold a rival known as Cheetos on the UK market.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Pringles&#160;were first sold in America in 1968 but were not popular until the mid 1970’s.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Saddam Hussein liked Bounty Bars!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Frank Mars invented the Snickers chocolate bar. He named it Snickers after his favourite&#160;horse.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">The M’s in M &amp; M’s stand for ‘Mars &amp; Murrie’, the co-creators of the candy.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Twinkies originally had banana flavoured filling, but switched to vanilla when World War 2 bought the banana trade to a halt.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Cadbury’s Cream Eggs first went on sale in 1971.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">In 2006, Shari’s Berries pioneered the concept of delivering chocolate dipped fruits nationwide in freeze packs.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">The Kit Kat was originally made by Rowntree Limited, until 1988 when they were bought out by Nestle.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Juicy Fruit and Wrigley’s Spearmint gums are more than 100 years old!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Hundreds and Thousands (Sprinkles, Nonpareils, Jimmies) are small round balls of brightly coloured sugar used as decorations on cakes, cookies, trifles and other desserts. Their use dates back at least to the early 19th century.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Gummy Bears are only 79 millimetres long in length.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Chocolate can kill&#160;dogs; it directly affects their heart and nervous system.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Deep fried chocolate bars contain about 850 calories per bar.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">The world’s oldest chocolates are 106 years old. A tin of chocolates from the coronation of King Edward VII from 1902.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Yorkie Chocolate Bars are not for girls!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Sugar is the only taste that humans are born craving.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">The Swiss eat the most chocolate, followed by the English.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">The Bourbon biscuit was introduced in 1910 originally under the name Creola.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">In 15th century France, chocolate could only be eaten by members of the royal court.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Gorgonzola&#160;cheese dates back to the year 879!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Many mass-produced ice creams have seaweed in them.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Cheese products contain less than 51% cheese.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Some yoghurt contain beef or pork gelatin.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">The weight of a Babybel is 21 grammes.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">An average American will eat the equivalent of 28&#160;pigs&#160;in their life.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">National Pigs-in-a-Blanket Day&#160;is celebrated on 24th April every year.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">The first soup was made from hippopotamus and dates back to 6000 B.C.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Baked beans are low in fat and have a lot of fibre and protein.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Worcestershire sauce is made from dissolved fish.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Pescetarians are vegetarians who eat fish.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">The largest item on any menu in the world is the roast camel.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Egg yolks are one of the few foods that naturally contain Vitamin D.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">The average hot dog is consumed in 6 bites.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Until well into the sixteenth century,&#160;bacon&#160;was a Middle English term used to refer to all pork in general.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">In America, anchovies always rank last on the list of favourite toppings.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">The world average of the amount of meat eaten per year is: 173 lbs per person.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">French fries came from Belgium, but are most popular in the US.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">An average person will consume 12 pubic hairs in their fast food every year!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">KFC (Kentucky Fried Chicken) was founded by Colonel Harland Sanders in 1952.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">We eat 300 million portions of fish and chips in Britain each year.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">General fun facts</Data></Cell>
+    <Cell><Data ss:Type="String">Chicken McNuggets contain beef additives.</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageLayoutZoom>0</PageLayoutZoom>
+   <Selected/>
+   <LeftColumnVisible>1</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>8</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

@@ -1,0 +1,160 @@
+(ROOT
+  (NP
+    (NP (NNP Cut) (NN chicken))
+    (PP (IN in)
+      (NP (CD one) (NN inch) (NNS pieces)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VP (VB Boil)
+        (NP (NN rice)))
+      (CC and)
+      (VP (VB set)
+        (ADVP (RB aside))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Heat) (NN oil))
+      (PP (IN in)
+        (NP (DT a) (JJ non-stick) (NN pan))))
+    (, ,)
+    (VP (VBP add)
+      (NP
+        (NP (NNP cinnamon))
+        (, ,)
+        (NP (NN bay) (NNS leaves))
+        (, ,)
+        (NP (NNS cloves))
+        (, ,)
+        (NP (NN cumin) (NNS seeds))
+        (, ,)
+        (NP (JJ green) (NNS cardamoms))
+        (CC and)
+        (NP (NNP sauté)))
+      (PP (IN for)
+        (NP
+          (NP (NN half))
+          (NP (DT a) (NN minute)))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Add)
+      (NP (JJ sliced) (NNS onions)
+        (CC and)
+        (NNS sauté)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VP (VB Add)
+        (NP (JJ slit) (JJ green) (NNS chillies)
+          (CC and)
+          (NN chicken) (NNS cubes)))
+      (CC and)
+      (VP (VB continue)
+        (PP (TO to)
+          (NP (NNP sauté)))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Add)
+      (NP (JJ turmeric) (NN powder)
+        (CC and)
+        (NN mix)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Add)
+      (NP
+        (NP (NNS tomatoes))
+        (CC and)
+        (NP (NN salt)
+          (CC and)
+          (NN mix))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Add)
+      (NP
+        (NP (JJ ginger-garlic) (NNS paste))
+        (, ,)
+        (NP (JJ red) (NN chili) (NN powder))
+        (CC and)
+        (NP (NN yogurt))))
+    (. .)))
+
+(ROOT
+  (NP (CD Mix) (RB well) (. .)))
+
+(ROOT
+  (S
+    (VP (VB Add)
+      (NP (PDT half) (DT the) (JJ fried) (JJ brown) (NN onions)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Add)
+      (NP (DT the) (JJ boiled) (NN rice))
+      (PP (IN on)
+        (NP (NN top))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Sprinkle) (NN garam) (NN masala) (NN powder))
+      (, ,)
+      (NP (NN ginger) (NNS strips))
+      (, ,)
+      (NP (NN mint) (NNS leaves))
+      (CC and)
+      (NP (NN coriander)))
+    (VP (VBZ leaves))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Sprinkle) (NN milk))
+    (, ,)
+    (VP (VBD rose)
+      (NP
+        (NP (NN water))
+        (CC and)
+        (NP (VBG remaining) (JJ browned) (NNS onions))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Cover)
+      (CC and)
+      (VB cook)
+      (PP (IN on)
+        (NP (JJ low) (NN heat)))
+      (PP (IN for)
+        (NP
+          (QP (RB about) (CD ten))
+          (NNS minutes))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Garnish))
+      (PP (IN with)
+        (NP (DT the) (NN egg))))
+    (VP
+      (VP (VBZ slices))
+      (CC and)
+      (VP (VBP serve)
+        (ADJP (JJ hot))))
+    (. .)))

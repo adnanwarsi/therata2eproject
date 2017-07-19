@@ -1,0 +1,110 @@
+
+Number of cooking steps sentences is 23 before NLP parsing
+Number of NLP sentences parsed is 23 
+
+COOKING STEP [01] : In a medium size mixing bowl, lightly beat two eggs
+LOOK AHEAD VERSION: beat two eggs  
+
+
+
+COOKING STEP [02] : Add ground chuck, bread crumbs, milk, grated cheese, minced garlic, parsley, oregano, red pepper, black pepper and salt
+LOOK AHEAD VERSION: Add ground chuck  bread crumbs  milk  grated cheese  minced garlic parsley oregano red pepper  black pepper  and salt   
+
+
+
+COOKING STEP [03] :  Gently combine until incorporated
+LOOK AHEAD VERSION: combine until incorporated   
+
+
+
+COOKING STEP [04] :  Overmixing will pack the meat and create dense meatballs
+
+
+
+COOKING STEP [05] : In a large skillet, over medium-low, heat olive oil
+
+
+
+COOKING STEP [06] : Once the oil is hot, toss meatballs in
+LOOK AHEAD VERSION: toss meatballs  in  
+
+
+
+COOKING STEP [07] :  Turn every two minutes or so (when they turn brown), being careful not to burn them
+LOOK AHEAD VERSION: Turn every two minutes  or so    when  they  turn brown       being careful not to burn them        
+
+
+
+COOKING STEP [08] :  When the meatballs have been browned, transfer to a plate covered with a paper towel
+LOOK AHEAD VERSION: transfer to a plate  covered with a paper towel      
+
+
+
+COOKING STEP [09] : As the oil cools, transfer to a large pot by pouring it through a mesh sieve
+LOOK AHEAD VERSION: transfer to a large pot   by pouring it  through a mesh sieve      
+
+
+
+COOKING STEP [10] :  Depending on how much there is left, you may not want to put it all in
+
+
+
+COOKING STEP [11] : Toss in onion and garlic
+
+
+
+COOKING STEP [12] :  This will be the start of your sauce
+
+
+
+COOKING STEP [13] :  Let the onion and garlic cook, then add the Prego
+
+
+
+COOKING STEP [14] :  Stir until combined
+LOOK AHEAD VERSION: Stir until combined   
+
+
+
+COOKING STEP [15] : Add parsley, basil, sugar, salt and red pepper
+LOOK AHEAD VERSION: Add parsley basil sugar salt and red pepper  
+
+
+
+COOKING STEP [16] :  Turn heat on to low and let sauce simmer for 2-3 minutes
+
+
+
+COOKING STEP [17] : Carefully place the meatballs over top
+LOOK AHEAD VERSION: place the meatballs  over top   
+
+
+
+COOKING STEP [18] :  Cover with a lid and simmer for 30 to 45 minutes
+LOOK AHEAD VERSION: Cover with a lid and simmer  for 30 to 45  minutes     
+
+
+
+COOKING STEP [19] : While meatballs are simmering, cook pasta
+LOOK AHEAD VERSION: cook pasta  
+
+
+
+COOKING STEP [20] :  Drain and divide between bowls or plates
+
+
+
+COOKING STEP [21] : Scoop a ladle of sauce over each ‘bed’ of pasta, then top with 3-5 meatballs
+
+
+
+COOKING STEP [22] :  Garnish with additional parmesan romano cheese
+LOOK AHEAD VERSION: Garnish with additional parmesan romano cheese   
+
+
+
+COOKING STEP [23] :  Serve immediately
+LOOK AHEAD VERSION: Serve immediately  
+
+
+

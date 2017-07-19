@@ -1,0 +1,59 @@
+{
+    "reviewCount": "6", 
+    "name": "Grilled Steak Tips with Chimichurri Recipe", 
+    "ingredients": [
+        {
+            "prompt": "1 pound beef tips, or more to taste"
+        }, 
+        {
+            "prompt": "1 tablespoon canola oil"
+        }, 
+        {
+            "prompt": "salt and ground black pepper to taste"
+        }, 
+        {
+            "prompt": "1 cup minced flat-leaf parsley"
+        }, 
+        {
+            "prompt": "1/2 cup olive oil"
+        }, 
+        {
+            "prompt": "1/4 cup red wine vinegar"
+        }, 
+        {
+            "prompt": "1 small red onion, minced"
+        }, 
+        {
+            "prompt": "3 cloves garlic, minced"
+        }, 
+        {
+            "prompt": "2 tablespoons pureed chipotle peppers in adobo sauce"
+        }, 
+        {
+            "prompt": "2 tablespoons smoked paprika"
+        }, 
+        {
+            "prompt": "1 tablespoon dried oregano"
+        }
+    ], 
+    "url": "http://allrecipes.com/recipe/grilled-steak-tips-with-chimichurri/detail.aspx", 
+    "cookingsteps": [
+        {
+            "prompt": "Preheat an outdoor grill for high heat and lightly oil the grate."
+        }, 
+        {
+            "prompt": "Toss beef tips with canola oil in a bowl; season with salt and pepper."
+        }, 
+        {
+            "prompt": "Grill steak tips until they are beginning to firm but still slightly pink in the center, 2 to 3 minutes per side."
+        }, 
+        {
+            "prompt": "Mix parsley, olive oil, red wine vinegar, red onion, garlic, chipotle peppers, paprika, and oregano together in a bowl; toss with grilled steak tips."
+        }
+    ], 
+    "image": "http://images.media-allrecipes.com/userphotos/720x405/3372675.jpg", 
+    "aggregateRating": "4.17", 
+    "rating_scale": "5", 
+    "cookingtime": "24 m", 
+    "description": "This recipe combines beef tips with smoked paprika, chipotle, red wine vinegar, and parsley for a unique Argentinean chimichurri main dish."
+}

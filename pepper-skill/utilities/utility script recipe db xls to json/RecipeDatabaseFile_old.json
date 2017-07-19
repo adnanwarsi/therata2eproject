@@ -1,0 +1,1520 @@
+{
+    "recipe": [
+        {
+            "recipename": "Italian Meatballs",
+            "cuisine": "Italian",
+            "tags": [
+                "Main Dishes",
+                "Italian"
+            ],
+            "servings": "5",
+            "ingredient \rcount": "21",
+            "cookingtime \r(m)": "70",
+            "calories": "920",
+            "caloriesperserving": "184",
+            "source": "Yummly",
+            "author": "Mary",
+            "description": "Ground or minced meat rolled into a small ball, sometimes along with other ingredients, such as bread crumbs, minced onion, eggs, butter and seasoning",
+            "ingredients": [
+                "1 1/4 lbs ground chuck",
+                "1/2 cup Italian style breadcrumbs",
+                "2 large eggs (lightly beaten)",
+                "1 tsp milk",
+                "1/4 cup grated parmesan romano",
+                "2 cloves garlic (minced)",
+                "1 tbsp parsley (Evenly chopped)",
+                "1/8 tsp dried oregano",
+                "1/4 tsp red pepper Flakes",
+                "1/4 tsp ground black pepper",
+                "1/2 tsp salt",
+                "4 tbsps olive oil (for frying)",
+                "3 cups pasta sauce (traditional Prego, or 1, 28 oz whole tomatoes, pureed)",
+                "1/2 yellow onion  (diced)",
+                "2 cloves garlic (minced)",
+                "1 tbsp parsley (Evenly chopped)",
+                "1/2 tsp basil (Evenly chopped)",
+                "1 tsp granulated sugar",
+                "1/2 tsp salt",
+                "1/4 tsp red pepper flakes ",
+                "1 lb pasta of choice, cooked and drained"
+            ],
+            "cookingsteps": [
+                {
+                    "prompt": "In a medium size mixing bowl, lightly beat two eggs."
+                },
+                {
+                    "prompt": "Add ground chuck, bread crumbs, milk, grated cheese, minced garlic, parsley, oregano, red pepper, black pepper and salt."
+                },
+                {
+                    "prompt": "Gently combine until incorporated. Overmixing will pack the meat and create dense meatballs."
+                },
+                {
+                    "prompt": "In a large skillet, over medium-low, heat olive oil."
+                },
+                {
+                    "prompt": "Once the oil is hot, toss meatballs in. Turn every two minutes or so (when they turn brown), being careful not to burn them. When the meatballs have been browned, transfer to a plate covered with a paper towel.",
+                    "duration": "two minutes"
+                },
+                {
+                    "prompt": "As the oil cools, transfer to a large pot by pouring it through a mesh sieve. Depending on how much there is left, you may not want to put it all in."
+                },
+                {
+                    "prompt": "Toss in onion and garlic. This will be the start of your sauce. Let the onion and garlic cook, then add the Prego. Stir until combined."
+                },
+                {
+                    "prompt": "Add parsley, basil, sugar, salt and red pepper. Turn heat on to low and let sauce simmer for 2-3 minutes.",
+                    "duration": "2 to 3 minutes"
+                },
+                {
+                    "prompt": "Carefully place the meatballs over top. Cover with a lid and simmer for 30 to 45 minutes.",
+                    "duration": "30 to 45 minutes"
+                },
+                {
+                    "prompt": "While meatballs are simmering, cook pasta. Drain and divide between bowls or plates."
+                },
+                {
+                    "prompt": "Scoop a ladle of sauce over each bed of pasta, then top with 3-5 meatballs. Garnish with additional parmesan romano cheese. Serve immediately."
+                }
+            ],
+            "url": "http://www.yummly.com/recipe/Italian-Meatballs-1607068?columns=3&position=6%2F60",
+            "imagename": "ItalianMeatballs_Main_1",
+            "serial #": "1",
+            "historical facts": "No one knows for sure where the first meatball came from, however, recipes for meatballs from the time of the Romans exist as as early as 25 AD. The meatball has also been found in other parts of the world, acquiring the name kofta (possibly from the Persian word koffteh, meaning pounded meat."
+        },
+        {
+            "recipename": "Traditional Italian Spaghetti Aglio e Olio",
+            "cuisine": "Italian",
+            "tags": [
+                "Main Dishes",
+                "Italian",
+                "Sauteeing"
+            ],
+            "servings": "4",
+            "ingredient \rcount": "5",
+            "cookingtime \r(m)": "15",
+            "calories": "490",
+            "caloriesperserving": "122.5",
+            "source": "Cooking with Manuela",
+            "author": "Manuela",
+            "description": "Spaghetti drizzled with hot and garlic-infused olive oil. A classic Italian dish, so simple and yet so delicious.",
+            "ingredients": [
+                "3 garlic cloves",
+                "3 peperoncini (dry hot peppers)",
+                "a small bunch of fresh Italian parsley, chopped",
+                "4-5 tablespoons of extra virgin olive oil",
+                "12 oz of spaghetti pasta (thin or angel hair)"
+            ],
+            "cookingsteps": [
+                {
+                    "prompt": "Bring a large pot of salted water to a boil. When it boils, cook the spaghetti following the time direction on the box. Make sure to cook the pasta al dente, so my suggestion is to set the timer for one minute less than indicated on the box. Taste the pasta before draining.",
+                    "duration": "one minute"
+                },
+                {
+                    "prompt": "Saute the garlic cut in slices, with the peperoncino broken in pieces, for a couple of minutes in the olive oil. Turn off the heat once the garlic is slightly golden.",
+                    "duration": "couple of minutes"
+                },
+                {
+                    "prompt": "Drain the spaghetti. Drizzle with the olive oil infused with the garlic. You can remove the garlic and peperoncino if you prefer, or leave it with the pasta, for a bolder flavor. "
+                },
+                {
+                    "prompt": "Sprinkle with the chopped parsley and serve immediately.Enjoy!"
+                }
+            ],
+            "url": "http://www.yummly.com/recipe/Traditional-Italian-Spaghetti-Aglio_-Olio-and-Peperoncino-1800659?columns=3&position=109%2F180",
+            "imagename": "TraditionalItalianSpaghettiAglioeOlio_Main_2",
+            "serial #": "2",
+            "historical facts": "Spaghetti aglio e olio, or \"spaghetti with garlic and oil\" in Italian, is a traditional Italian pasta dish coming from Naples.Many New York Italian-Americans refer to the dish as \"alla-ul\", due to the influence of Southern Italian pronunciation in the area."
+        },
+        {
+            "recipename": "Creamy Italian baked eggs",
+            "cuisine": "Italian",
+            "tags": [
+                "Breakfast and Brunch",
+                "Italian"
+            ],
+            "servings": "4",
+            "ingredient \rcount": "7",
+            "cookingtime \r(m)": "20",
+            "calories": "210",
+            "caloriesperserving": "52.5",
+            "source": "Homemade Hooplah",
+            "author": "Anns",
+            "description": "Sunny side up eggs baked on a bed of marinara, milk, and cheese. Serve with garlic bread for that extra dose of Italian flair.",
+            "ingredients": [
+                "1 1/2 cups marinara sauce (either from a jar or homemade)",
+                "3 tbsps milk",
+                "1/2 cup parmesan cheese (shredded)",
+                "4 eggs",
+                "1 pinch salt (to taste)",
+                "1 pinch pepper (to taste)",
+                "2 tbsps basil (fresh and chopped)"
+            ],
+            "cookingsteps": [
+                {
+                    "prompt": "Preheat oven to 425 degrees F. Line a baking sheet with aluminum foil."
+                },
+                {
+                    "prompt": "Pick and prepare your baking dish. This recipe can be made with a 10-inch pan or ramekin, two 8oz pans or ramekins, or four 6oz pans or ramekins. If using the 10-inch, all ingredients can be cooked in the same dish. If using the 8oz or the 6oz, ingredients can be split between the containers by dividing in half or in fourths, respectively. When you've chosen your baking dish, spray it lightly with nonstick cooking spray. "
+                },
+                {
+                    "prompt": "Place the prepared dish on the foiled lined baking sheet."
+                },
+                {
+                    "prompt": "Pour marinara into your chosen baking dish and smooth it out with a spoon. Tip: spread marinara so there's a slight slip around the sides of the dish to help contain the eggs and the milk."
+                },
+                {
+                    "prompt": "Drizzle the milk on top of the marinara, then sprinkle the top with parmesan cheese. "
+                },
+                {
+                    "prompt": "Gently crack the eggs into the skillet, careful not to break the yolks. Season the top of the eggs with salt and pepper, to taste."
+                },
+                {
+                    "prompt": "For baking: If using the 10 inch, bake for 10-15 minutes or until the whites of the eggs are opaque and the yolks are cooked to desired doneness. If using the 8oz or the 6oz, cook for 7-11 minutes or until the whites of the eggs are opaque and the yolks are cooked to desired doneness.",
+                    "duration": "10 to 15 minutes"
+                },
+                {
+                    "prompt": "Serve creamy italian baked eggs immediately with a fresh baguette or warm garlic bread."
+                }
+            ],
+            "url": "http://www.yummly.com/recipe/Creamy-Italian-Baked-Eggs-1703246?columns=3&position=133%2F180",
+            "imagename": "CreamyItalianBakedEggs_Main_3",
+            "serial #": "3",
+            "historical facts": "Food historians tell us that the practice of eating eggs is ancient, but they do not venture an exact place, date, or reason. The domestication of fowl (esp. chicken) greatly increased the availabiltiy of eggs to ancient peoples. This is thought by some to have begun in China in 6,000BC."
+        },
+        {
+            "recipename": "Chicken Tikka masala",
+            "cuisine": "Indian",
+            "tags": [
+                "Main Dishes",
+                "Barbecue",
+                "Indian",
+                "Grilling"
+            ],
+            "servings": "4",
+            "ingredient \rcount": "20",
+            "cookingtime \r(m)": "80",
+            "calories": "650",
+            "caloriesperserving": "162.5",
+            "source": "House of Nash Eats",
+            "author": "Amy",
+            "description": "Tender chunks of chicken marinated in yogurt and spices, then grilled and served up in a creamy, spicy tomato based sauce with garlic naan and rice. Chicken Tikka Masala is the most popular Indian dish in the Western world and for good reason. ItÕs unbelievably delicious.",
+            "ingredients": [
+                "Following are Marinade items",
+                "1 cup plain yogurt",
+                "1 1/2 tbsps lemon juice",
+                "1 tsp cayenne pepper (ground red)",
+                "2 tsps cumin",
+                "1 tsp black pepper",
+                "1 tsp ground cinnamon",
+                "1 tsp garam masala",
+                "1/2 tsp ground ginger",
+                "1/4 tsp salt",
+                "3 boneless skinless chicken breasts (cut into 1-inch chunks)",
+                "Following are Masala Sauce",
+                "1 tbsp butter",
+                "3 cloves garlic (minced)",
+                "2 tsps ground coriander",
+                "2 tsps ground cumin",
+                "1 tsp paprika",
+                "1 tsp garam masala",
+                "1/2 tsp salt",
+                "1 1/2 cups tomato sauce",
+                "1 1/2 cups heavy cream",
+                "1/4 cup chopped fresh cilantro"
+            ],
+            "cookingsteps": [
+                {
+                    "prompt": "Combine all marinade ingredients in a glass container. "
+                },
+                {
+                    "prompt": "Add chicken pieces, cover with a tightly sealed lid, and toss to coat. Allow chicken to marinate for 1 hour.",
+                    "duration": "1 hour"
+                },
+                {
+                    "prompt": "In a large saucepan over medium heat, melt the butter. "
+                },
+                {
+                    "prompt": "Stir in the garlic and cook until fragrant, stirring frequently."
+                },
+                {
+                    "prompt": "Add the coriander, cumin, paprika, garam masala and salt and stir to combine."
+                },
+                {
+                    "prompt": "Stir in the tomato sauce and simmer for 15 minutes until thickened.",
+                    "duration": "15 minutes"
+                },
+                {
+                    "prompt": "Meanwhile, thread the chicken onto soaked skewers. Discard remaining marinade."
+                },
+                {
+                    "prompt": "Grill the chicken on a hot grill for 5 minutes on each side until the chicken is done.",
+                    "duration": "5 minutes"
+                },
+                {
+                    "prompt": "Remove the chicken from the skewers and keep warm."
+                },
+                {
+                    "prompt": "Transfer the chicken to the simmering sauce and stir in the cream. Allow to simmer another 10 minutes or so until sauce thickens slightly. ",
+                    "duration": "10 minutes"
+                },
+                {
+                    "prompt": "Transfer to a serving dish and garnish with the cilantro. Serve with basmati rice and garlic naan."
+                }
+            ],
+            "url": "http://www.yummly.com/recipe/Chicken-Tikka-Masala-1832711?columns=3&position=1%2F54",
+            "imagename": "ChickenTikkaMasala_Main_4",
+            "serial #": "4",
+            "historical facts": "The origin of the dish is disputed. One explanation is that it originated in an Indian restaurant in the United Kingdom, but probably from the British Bangladeshi community. A specific version of the British explanation recounts how a Pakistani chef, Ali Ahmed Aslam, from Glasgow, invented this dish by improvising a sauce made from yogurt, cream and spices.\r"
+        },
+        {
+            "recipename": "Indian Butter Chicken",
+            "cuisine": "Indian",
+            "tags": [
+                "Main Dishes",
+                "Indian"
+            ],
+            "servings": "4",
+            "ingredient \rcount": "17",
+            "cookingtime \r(m)": "30",
+            "calories": "890",
+            "caloriesperserving": "222.5",
+            "source": "The kitchen paper",
+            "author": "Kim",
+            "description": "Butter chicken is an Indian dish of chicken in a mildly spiced curry sauce. It is served in India and abroad. The dish has its roots in Punjabi cuisine and was developed by the Moti Mahal restaurant in Delhi, India.",
+            "ingredients": [
+                "6 tbsps butter (divided)",
+                "2 lbs chicken breasts (cut into 1\" chunks)",
+                "1 yellow onion (diced)",
+                "3 garlic cloves (minced)",
+                "3 tsps garam masala",
+                "1 tbsp ginger (fresh grated)",
+                "1 tsp chili powder",
+                "1 tsp ground cumin",
+                "1/2 tsp cayenne pepper",
+                "1 1/2 cups tomato sauce (or one 14 oz can would work)",
+                "2 cups cream",
+                "salt",
+                "pepper",
+                "lime",
+                "cilantro",
+                "naan",
+                "rice"
+            ],
+            "cookingsteps": [
+                {
+                    "prompt": "Using 2 tablespoon of butter in a large skillet over medium-high heat, brown the pieces of the chicken so each side is browned. They do not need to be fully cooked all the way through. Work in batches, and set aside when you're done."
+                },
+                {
+                    "prompt": "Melt another 2 tablespoon of butter in the pan over medium heat. Add the onion, and cook until beginning to soften, for about three minutes.",
+                    "duration": "three minutes"
+                },
+                {
+                    "prompt": "Add the garlic, garam masala, ginger, chili powder, cumin, and cayenne. Stir to combine, and cook for about 45 seconds before adding the tomato sauce."
+                },
+                {
+                    "prompt": "Bring the mixture to a simmer and let cook for five minutes before adding the cream.",
+                    "duration": "five minutes"
+                },
+                {
+                    "prompt": "Bring the mixture back to a simmer, add the browned chicken, and let it simmer for 10-15 minutes. Keep the heat low here, not a rolling boil, and feel free to cook longer for more tender chicken.",
+                    "duration": "10 to 15 minutes"
+                },
+                {
+                    "prompt": "Stir in the remaining 2 tablespoon of butter, and season with salt and pepper, to taste."
+                },
+                {
+                    "prompt": "Serve garnished with lime and cilantro, alongside rice and naan."
+                }
+            ],
+            "url": "http://www.yummly.com/recipe/Indian-Butter-Chicken-1583933?columns=3&position=14%2F54",
+            "imagename": "IndianButterChicken_Main_5",
+            "serial #": "5",
+            "historical facts": "Butter chicken originated in Delhi, the capital territory of India, sometime during the 1950s. So the story goes, the cooks of Moti Mahal restaurant would mix leftover marinade juices with butter and tomato, and then stew the tandoor-cooked chicken in it. Moti Mahal quickly became a famous attraction of Delhi, and it wasn't long before butter chicken proliferated throughout the world.\r"
+        },
+        {
+            "recipename": "Indian Lemon Rice",
+            "cuisine": "Indian",
+            "tags": [
+                "Side Dishes",
+                "Indian",
+                "Vegetarian"
+            ],
+            "servings": "4",
+            "ingredient \rcount": "12",
+            "cookingtime \r(m)": "60",
+            "calories": "160",
+            "caloriesperserving": "40",
+            "source": "Avocado Pesto",
+            "author": "Jiad",
+            "description": "Lemon rice is a delicious south Indian dish. Lemon juice gives a very refreshing and tangy flavor to the rice",
+            "ingredients": [
+                "1 cup rice (long grained)",
+                "2 green chilies (finely chopped)",
+                "1 in ginger (piece, peeled and finely chopped)",
+                "1/4 cup peanuts",
+                "1/4 tsp turmeric",
+                "salt (to taste)",
+                "2 lemon (juiced)",
+                "cilantro (for garnish)",
+                "2 tsps olive oil",
+                "1 tsp cumin seed",
+                "1 tsp mustard seeds",
+                "1 tsp urad dal"
+            ],
+            "cookingsteps": [
+                {
+                    "prompt": "Add rice to a pot, pouring enough water to cover the rice by 2 inches and let sit for 30-45 minutes.",
+                    "duration": "30 to 45 minutes"
+                },
+                {
+                    "prompt": "Rinse the rice until water runs clear. Add a little bit less than 2 cups water to the pot and bring to a boil."
+                },
+                {
+                    "prompt": "Add turmeric and salt. Reduce heat and simmer, covered, for 15 minutes or until rice is cooked through.",
+                    "duration": "15 minutes"
+                },
+                {
+                    "prompt": "Remove from heat and let sit, covered for 5 minutes. ",
+                    "duration": "5 minutes"
+                },
+                {
+                    "prompt": "Over medium heat add 2 teaspoons olive oil to pan. "
+                },
+                {
+                    "prompt": "Add mustard seeds, cumin seeds and urad dal to pan. When mustard seeds start to pop add green chilies, ginger and peanuts. Cook over medium heat 2-3 minutes, stirring occassionally.",
+                    "duration": "2 to 3 minutes"
+                },
+                {
+                    "prompt": "Add cooked rice to spice mix and stir to combine. Remove from heat and add lemon juice. Garnish with chopped cilantro."
+                }
+            ],
+            "url": "http://www.yummly.com/recipe/Indian-Lemon-Rice-750599?columns=3&position=16%2F54",
+            "imagename": "IndianLemonRice_Main_6",
+            "serial #": "6",
+            "historical facts": "It is presumed that India is the country where lemons were first grown. In the period of Ancient Rome, this citrus fruit has entered in Europe, somewhere near southern Italy. Around 700 AD, Persians, Iraqis and Egyptians had started cultivating lemons. Apart from lemon juice, lemon zest and pulp is also extensively used in making enormous lemon dishes such as lemon pudding, lemon rice and lemon zest chicken. "
+        },
+        {
+            "recipename": "American Breakfast Pancakes",
+            "cuisine": "American",
+            "tags": [
+                "Breakfast and Brunch",
+                "frying",
+                "vegetarian"
+            ],
+            "servings": "4",
+            "ingredient \rcount": "6",
+            "cookingtime \r(m)": "20",
+            "calories": "210",
+            "caloriesperserving": "52.5",
+            "source": "Julian the thinker",
+            "author": "Julian",
+            "description": " Flat cake, often thin, and round, prepared from a starch-based batter that may also contain eggs, milk and butter and cooked on a hot surface such as a griddle or frying pan, often with oil or butter. ",
+            "ingredients": [
+                "1 eggs",
+                "1 cup self raising flour",
+                "3/4 cup milk",
+                "2 tbsps sugar",
+                "3 drops vanilla extract",
+                "maple syrup (to serve)"
+            ],
+            "cookingsteps": [
+                {
+                    "prompt": "Whisk all the ingredients together in a bowl until smooth."
+                },
+                {
+                    "prompt": "Warm up a non-stick frying pan on a medium heat and using a tablespoon pour the batter onto the frying pan, formulating individual pancakes."
+                },
+                {
+                    "prompt": "Turn when you start seeing the little bubbles, fry for a little longer and enjoy."
+                }
+            ],
+            "url": "http://www.yummly.com/recipe/American-Breakfast-Pancakes-1746877?columns=3&position=1%2F64",
+            "imagename": "AmericanBreakfastPancakes_Main_7",
+            "serial #": "7",
+            "historical facts": "Pancakes are ancient food. The word pancakes appears in print as early as 1430. Pancakes may have been around since Neolithic humans domesticated einkorn wheat, ground it into flour mixed with birdÕs egg and goatÕs milk and poured the batter on a heated rock."
+        },
+        {
+            "recipename": "Beefy American Goulash",
+            "cuisine": "American",
+            "tags": [
+                "Main Dishes"
+            ],
+            "servings": "8",
+            "ingredient \rcount": "13",
+            "cookingtime \r(m)": "65",
+            "calories": "450",
+            "caloriesperserving": "56.25",
+            "source": "Emily Bites",
+            "author": "Emily",
+            "description": "Originally a dish of seasoned beef, core ingredients of American goulash now usually include elbow macaroni, cubed steak, ground beef or hamburger, and tomatoes in some form, whether canned whole, as tomato sauce, tomato soup, and/or tomato paste. In some areas it is called slumgullion.",
+            "ingredients": [
+                "2 lbs lean ground beef",
+                "2 yellow onion (medium, diced)",
+                "3 garlic cloves (minced)",
+                "3 cups water",
+                "30 ozs tomato sauce",
+                "29 ozs diced tomatoes",
+                "2 tbsps italian seasoning",
+                "3 bay leaves",
+                "3 tbsps low sodium soy sauce",
+                "1 tbsp seasoning salt",
+                "1 tsp paprika",
+                "1/2 tsp black pepper",
+                "12 ozs elbow macaroni (uncooked)"
+            ],
+            "cookingsteps": [
+                {
+                    "prompt": "Place the ground beef in a large dutch oven and bring over medium heat. "
+                },
+                {
+                    "prompt": "Cook, breaking up with a spoon or spatula, until the meat is browned and in small pieces. "
+                },
+                {
+                    "prompt": "Add the onions and garlic and stir together. Continue to cook for another 5 minutes or until onions are translucent. ",
+                    "duration": "5 minutes"
+                },
+                {
+                    "prompt": "Add the water, tomato sauce, diced tomatoes, Italian seasoning, bay leaves, soy sauce, seasoned salt, paprika and black pepper and stir together. "
+                },
+                {
+                    "prompt": "Bring to a boil and then reduce heat. Cover the pot and simmer for 15-20 minutes.",
+                    "duration": "15 to 20 minutes"
+                },
+                {
+                    "prompt": "Add the macaroni and stir until well combined. Re-cover the pot and simmer for 20-25 minutes until the macaroni is cooked through. ",
+                    "duration": "20 to 25 minutes"
+                },
+                {
+                    "prompt": "Remove from heat, stir and remove the bay leaves. Allow to sit for 15 minutes before serving.",
+                    "duration": "15 minutes"
+                }
+            ],
+            "url": "http://www.yummly.com/recipe/Beefy-American-Goulash-1834498?columns=3&position=2%2F64",
+            "imagename": "BeefyAmericanGoulash_Main_8",
+            "serial #": "8",
+            "historical facts": "The name originates from the Hungarian \"guly‡s\". The word \"gulya\" means \"herd of cattle\" in Hungarian, and \"guly‡s\" means \"herdsman\" or \"cowboy\". The word guly‡s originally meant only \"herdsman\", but over time the dish became guly‡shœs (goulash meat) Ð that is to say, a meat dish which was prepared by herdsmen. "
+        },
+        {
+            "recipename": "All American Roast Beef",
+            "cuisine": "American",
+            "tags": [
+                "Main Dishes",
+                "Sunday Lunch",
+                "Roasting"
+            ],
+            "servings": "4",
+            "ingredient \rcount": "6",
+            "cookingtime \r(m)": "105",
+            "calories": "890",
+            "caloriesperserving": "222.5",
+            "source": "Recipe station",
+            "author": "Judy",
+            "description": "A dish of beef which is roasted in an oven. Essentially prepared as a main meal, the leftovers can be and are often served within sandwiches and sometimes are used to make hash",
+            "ingredients": [
+                "3 1/2 lbs rump roast (Boneless, pick an end cut with a layer of fat if you can) ",
+                "1 tbsp olive oil",
+                "10 garlic (slivers of)",
+                "salt",
+                "pepper",
+                "You will need a meat thermometer",
+                "The beef should be brought to close to room temperature before you start to roast it so that it cooks more evenly. So, remove it from the refrigerator at least 1 hour, preferably 2 hours, before cooking. Open the wrapping, sprinkle all sides with salt, and wrap it up again."
+            ],
+            "cookingsteps": [
+                {
+                    "prompt": "Preheat your oven to 375¡F (190¡C). Pat the roast dry with paper towels. Use the tip of a sharp knife to make 8 to 10 small incisions around the roast. "
+                },
+                {
+                    "prompt": "Put a sliver of garlic into each cut. "
+                },
+                {
+                    "prompt": "Rub olive oil all over the roast. "
+                },
+                {
+                    "prompt": "Sprinkle with salt and pepper."
+                },
+                {
+                    "prompt": "Place the roast directly on the middle oven rack, fatty side up, with a roasting pan to catch the drippings on the rack beneath it. Placing the roast directly on the rack like this with a pan on the rack below creates a convection type environment in the oven, allowing the hot air to more easily circulate around the roast, so you donÕt have to turn the roast as it cooks. Place the roast fat-side up so that as the fat melts it bathes the entire roast in flavor."
+                },
+                {
+                    "prompt": "Cook the roast initially at 375¡F (190¡C) for half an hour, to brown it.",
+                    "duration": "half an hour"
+                },
+                {
+                    "prompt": "Lower the heat to 225¡F (107¡C). The roast should take somewhere from 1.5 to 2.5 hours additionally to cook. The shape of the roast will affect the cooking time. When juices start to drip from the roast, and it is browned on the outside, check the roastÕs internal temperature with a meat thermometer. Remove the roast from the oven when the internal temperature of the roast is 135¡ to 140¡F (57¡C to 60¡C).",
+                    "duration": "1.5 to 2.5 hours"
+                },
+                {
+                    "prompt": "Place the roast on a cutting board and tent it with aluminum foil to keep it warm. Let it rest for 15 to 30 minutes before cutting.",
+                    "duration": "15 to 30 minutes"
+                },
+                {
+                    "prompt": "Thinly slice the roast to serve."
+                }
+            ],
+            "url": "http://www.yummly.com/recipe/All-American-Roast-Beef-1108654?columns=3&position=49%2F49",
+            "imagename": "AllAmericanRoastBeef_Main_9",
+            "serial #": "9",
+            "historical facts": "Roast beef is a signature national dish of England and holds cultural meaning for the English dating back to the 1731 ballad \"The Roast Beef of Old England\". The dish is so synonymous with England and its cooking methods from the 18th century that the French nickname for the English is \"les Rosbifs\"."
+        },
+        {
+            "recipename": "Warm French Lentils",
+            "cuisine": "French",
+            "tags": [
+                "Main Dishes",
+                "French",
+                "vegetarian"
+            ],
+            "servings": "4",
+            "ingredient \rcount": "17",
+            "cookingtime \r(m)": "45",
+            "calories": "370",
+            "caloriesperserving": "92.5",
+            "source": "Art of natural living",
+            "ingredients": [
+                "1 cup French lentils (or other lentil, picked through for pebbles and rinsed)",
+                "3 cups water",
+                "1 bay leaf",
+                "1 olive oil (table spoon)",
+                "1 onions (diced)",
+                "2 carrots (diced)",
+                "2 celery ribs (diced, or 1/2 celery root)",
+                "2 garlic cloves (minced)",
+                "3 sprigs thyme leaves (de-stemmed)",
+                "2 tbsps red wine vinegar",
+                "3 tbsps olive oil",
+                "2 tsps dijon",
+                "yellow mustard",
+                "salt",
+                "pepper",
+                "1 handful parsley leaves (roughly chopped)",
+                "2 ozs feta cheese crumbles (dairy or vegan)"
+            ],
+            "cookingsteps": [
+                {
+                    "prompt": "Bring the lentils, water, bay leaf, and a large pinch of salt to a boil over medium-high heat. "
+                },
+                {
+                    "prompt": "Reduce to medium to low, cover, and let cook until lentils are tender, about 20 minutes. ",
+                    "duration": "20 minutes"
+                },
+                {
+                    "prompt": "Drain and discard bay leaf."
+                },
+                {
+                    "prompt": "Meanwhile, heat a tablespoon of olive in a large skillet. "
+                },
+                {
+                    "prompt": "Add the chopped onion, carrot, celery, garlic, and thyme and a large pinch or two of salt. Cook until vegetables are softened, 8-10 minutes.",
+                    "duration": "8 to 10 minutes"
+                },
+                {
+                    "prompt": "To make the vinaigrette, whisk together the red wine vinegar, 3 tablespoons olive oil, mustard, salt and pepper."
+                },
+                {
+                    "prompt": "Combine the drained lentils, cooked vegetables, and vinaigrette. Taste and adjust vinegar, oil, mustard, and salt as desired. "
+                },
+                {
+                    "prompt": "Top with chopped parsley and crumbled cheese. We liked it best warm, but can also be served cold or room temperature."
+                }
+            ],
+            "url": "http://www.yummly.com/recipe/Warm-French-Lentils-1782514?columns=3&position=1%2F69",
+            "imagename": "WarmFrenchLentils_Main_10",
+            "serial #": "10",
+            "historical facts": "Lentils may be the oldest cultivated legume in history. Archeological digs have produced artifacts dating lentils clear back to 8,000 to 7,000BC! French Lentils are a bit spicy with a mottled, dark green appearance."
+        },
+        {
+            "recipename": "Thai Green Curry",
+            "cuisine": "Thai",
+            "tags": [
+                "Main Dishes",
+                "Thai",
+                "Asian",
+                "Sauteeing"
+            ],
+            "servings": "5",
+            "ingredient \rcount": "24",
+            "cookingtime \r(m)": "85",
+            "caloriesperserving": "0",
+            "source": "Noms for the poor",
+            "author": "Liz",
+            "description": "This curry is full of bright flavours, and manages to be filling and comforting without being heavy. This recipe makes a lot, but taste as good if not better the next day. You can of course use just about any vegetables you have on hand rather than the ones listed, like carrots, peas, green beans, etc - another wonderful aspect of this recipe.",
+            "ingredients": [
+                "1/3 cup Thai green curry paste",
+                "1 tbsp oil",
+                "2 400 mL cans full-fat coconut milk ",
+                "2 cups vegetable broth",
+                "2 stalks lemongrass, peeled & halved",
+                "2 thick slices galangal (Thai ginger) OR ginger",
+                "2 1/2 cups (350 g) extra firm tofu, cut into cubes",
+                "2 heads broccoli, chopped",
+                "2 bell peppers, seeded & chopped",
+                "2 baby eggplants, halved & sliced",
+                "1 tbsp lime juice",
+                "salt, to taste",
+                "1 cup uncooked brown rice + 2 1/4 cups water"
+            ],
+            "cookingsteps": [
+                {
+                    "prompt": "Prepare your rice. Place the uncooked rice and water in a pot with a generous pinch of salt and cover. Bring to a boil over high heat"
+                },
+                {
+                    "prompt": "Turn the heat down to low and simmer, covered, until all the water as been absorbed, 40 - 60 minutes. ",
+                    "duration": "40  to  60 minutes"
+                },
+                {
+                    "prompt": "Once cooked, remove the lid and let stand for 10 minutes before fluffing with a fork.",
+                    "duration": "10 minutes"
+                },
+                {
+                    "prompt": "Heat a heavy-bottomed pot over low to medium heat, then add oil and curry paste. Saute for about 3 minutes.",
+                    "duration": "3 minutes"
+                },
+                {
+                    "prompt": "Stir in the coconut milk and vegetable broth. "
+                },
+                {
+                    "prompt": "Add the peeled & halved stalks of lemon grass, the galangal slices, and the cubes of tofu. "
+                },
+                {
+                    "prompt": "Bring to a simmer and continue to cook uncovered over medium to low heat for at least 20 minutes to let the flavours deepen, stirring occasionally. After 20 minutes, you can remove the stalks of lemongrass, or leave them in if you want the flavour to be more pronounced.",
+                    "duration": "20 minutes"
+                },
+                {
+                    "prompt": "While the curry is cooking, wash and prep your vegetables. "
+                },
+                {
+                    "prompt": "Once the curry has stewed for at least 20 minutes, add the chopped vegetables.",
+                    "duration": "20 minutes"
+                },
+                {
+                    "prompt": "Cover the pot and lower the heat slightly, cooking the curry until the eggplant is soft and cooked through, about 8 - 15 minutes.",
+                    "duration": "8  to  15 minutes"
+                },
+                {
+                    "prompt": "Once the vegetables have cooked, turn off the heat and stir in the lime juice. Season with salt, to taste. Serve immediately over rice."
+                }
+            ],
+            "url": "http://www.yummly.com/recipe/Thai-Green-Curry-1761769?columns=3&position=8%2F56",
+            "imagename": "ThaiGreenCurry_Main_11",
+            "serial #": "11",
+            "historical facts": "Some historical anecdotes suggest that Thai Green curry is of Asian origin but authentic Thai green curry recipe underwent several changes since then, incorporating the taste preferences of many curry lovers across the world."
+        },
+        {
+            "recipename": "Pad Thai",
+            "cuisine": "Thai",
+            "tags": [
+                "Main Dishes",
+                "Thai",
+                "Asian",
+                "Frying",
+                "Boiling",
+                "Stir Frying"
+            ],
+            "servings": "4",
+            "ingredient \rcount": "16",
+            "cookingtime \r(m)": "30",
+            "calories": "810",
+            "caloriesperserving": "202.5",
+            "source": "Jessie",
+            "description": "A popular street food, vendors would wrap the noodles up in a bundle of banana leaves to feed hungry folks on the go. It was officially promoted by the Thai government during World War II, as part of an effort to reduce wartime consumption of rice",
+            "ingredients": [
+                "12 oz. (350g) flat rice noodles",
+                "boiling water",
+                "4 Tbsp. vegetable oil",
+                "2 Tbsp. cilantro, chopped",
+                "1 small hot red chile, seeded and finely chopped",
+                "9 oz. (250g) large shrimp, peeled and deveined",
+                "4 shallots, finely chopped",
+                "4 large eggs, beaten",
+                "1 Tbsp. sugar",
+                "2 Tbsp. oyster sauce",
+                "1 Tbsp. Thai fish sauce",
+                "2 Tbsp. fresh lime juice",
+                "9 oz. (250g) bean sprouts",
+                "4 scallions, white and green parts, sliced",
+                "1 cup unsalted roasted peanuts",
+                "1 lime cut into 4 wedges, for garnish"
+            ],
+            "cookingsteps": [
+                {
+                    "prompt": "Set a kettle of water on the stove over high heat to boil. Grab your rice noodles and toss them in a large mixing bowl."
+                },
+                {
+                    "prompt": "When your water is boiling, pour enough into the bowl to submerge your noodles."
+                },
+                {
+                    "prompt": "With a pair of tongs, scoot the noodles around to loosen them up and separate them."
+                },
+                {
+                    "prompt": "Cover the bowl with some aluminum foil and let them soak for about 15 minutes, or until soft. (Give one a taste to see if theyÕre ready.)",
+                    "duration": "15 minutes"
+                },
+                {
+                    "prompt": "Drain the noodles and set them aside."
+                },
+                {
+                    "prompt": "In a small bowl, add the lime juice, oyster sauce, and fish sauce.Mix together to combine well. Set aside for a few minutes.",
+                    "duration": "few minutes"
+                },
+                {
+                    "prompt": "DonÕt start cooking until you can give it your full attention for 5 or 10 minutes. Once you start, the whole thing comes together really, really fast.",
+                    "duration": "10 minutes"
+                },
+                {
+                    "prompt": "Heat a wok or large frying pan on the stove over high heat. Add 2 tablespoons of the oil, and the chopped cilantro and chili pepper."
+                },
+                {
+                    "prompt": "Toss in the shrimp. Stir to coat with oil, cilantro, and chili. Stir them around constantly, making sure to flip them over on both sides, for about a minute, until theyÕre just opaque.",
+                    "duration": "about a minute"
+                },
+                {
+                    "prompt": "They should be opaque on both sides, and will only be about 1/2 cooked through at this point."
+                },
+                {
+                    "prompt": "Yank them out of the pan and set them aside for a minute on a plate.",
+                    "duration": "for a minute"
+                },
+                {
+                    "prompt": "Keep the heat on high (or drop it a little if your pan is starting to smoke).Add the remaining 2 tablespoons of oil to the hot pan. Toss in the chopped shallots. Stir fry for 1 minute.",
+                    "duration": "1 minute"
+                },
+                {
+                    "prompt": "Pour in the eggs."
+                },
+                {
+                    "prompt": "Toss in the sugar."
+                },
+                {
+                    "prompt": "Begin to stir the eggs immediately so they break up into bits as they cook. Cook for about 1 minute, until the eggs are totally scrambled.",
+                    "duration": "1 minute"
+                },
+                {
+                    "prompt": "Pour in the mixture of lime juice, fish sauce, and oyster sauce."
+                },
+                {
+                    "prompt": "Stir around to distribute the sauce. Add the noodles to the pot."
+                },
+                {
+                    "prompt": "Toss in the bean sprouts and shrimp."
+                },
+                {
+                    "prompt": "Stir fry for another 2 minutes. This will help the all the flavors marry together and finish cooking those shrimp.",
+                    "duration": "2 minutes"
+                },
+                {
+                    "prompt": "Sprinkle in the sliced scallions and half of the peanuts. Stir fry for another minute.",
+                    "duration": "another minute"
+                },
+                {
+                    "prompt": "Pour the whole pan out into a large serving bowl. Garnish with lime wedges and the rest of the peanuts. Serve immediately."
+                },
+                {
+                    "prompt": ""
+                }
+            ],
+            "url": "http://www.yummly.com/recipe/Pad-Thai-1764933?columns=3&position=15%2F56",
+            "imagename": "PadThai_Main_12",
+            "serial #": "12",
+            "historical facts": "Plaek Phibunsongkhram, first prime minister of Thailand, promoted pad Thai in his campaign to establish Thai nationalism. Thailand was a main exporter of rice, and the government hoped to increase the amount available for export. At the time, wheat noodles were very popular in Thailand, but Plaek sought to eliminate Chinese influence. As a result, a new noodle named sen chan was created."
+        },
+        {
+            "recipename": "Grilled Tandoori Chicken",
+            "cuisine": "Indian",
+            "tags": [
+                "Main Dishes",
+                "Barbeque",
+                "Indian",
+                "Marinating",
+                "Grilling"
+            ],
+            "servings": "4",
+            "ingredient \rcount": "12",
+            "cookingtime \r(m)": "45",
+            "calories": "180",
+            "caloriesperserving": "45",
+            "source": "Creme De La Crumb",
+            "author": "Andy",
+            "description": "Tandoori chicken is a traditional Indian dish full of bold and spicy flavors! A 30 minute marinade and a few minutes on the grill will deliver this tasty dish.",
+            "ingredients": [
+                "4 boneless skinless chicken breasts",
+                "1/2 cup plain yogurt",
+                "1 tbsp lemon juice",
+                "1 tbsp onion powder",
+                "1 tbsp minced garlic",
+                "1 tbsp garam masala",
+                "1 tbsp cilantro leaves",
+                "1 tbsp paprika",
+                "1 tsp coriander",
+                "1 tsp cumin",
+                "1/2 tsp ginger",
+                "1/4 tsp cayenne pepper"
+            ],
+            "cookingsteps": [
+                {
+                    "prompt": "Whisk together all marinade ingredients. "
+                },
+                {
+                    "prompt": "Place marinade in a large zip lock bag and add chicken breasts. Allow to marinate at least 30 minutes or overnight.",
+                    "duration": "30 minutes"
+                },
+                {
+                    "prompt": "Remove chicken from bag and discard marinade. Cook chicken on the grill over medium heat 5-6 minutes on each side or until cooked through.",
+                    "duration": "5 to 6 minutes"
+                },
+                {
+                    "prompt": "Suggested serving options: cooked rice, lime wedges for drizzling, extra cilantro, indian flatbread (naan) and mango chutney"
+                }
+            ],
+            "url": "http://www.yummly.com/recipe/Grilled-Tandoori-Chicken-1809100?columns=3&position=13%2F78",
+            "imagename": "GrilledTandooriChicken_Main_13",
+            "serial #": "13",
+            "historical facts": "Tandoori chicken as a dish originated in the Punjab before the independence of India and Pakistan. Although tandoor cooked chicken dates back to as early as the Mughal era, the dish is believed to be invented by Kundan Lal Gujral, a man who ran a restaurant called Moti Mahal in Peshawar."
+        },
+        {
+            "recipename": "Grilled Cheese Sandwich",
+            "cuisine": "American",
+            "tags": [
+                "Lunch",
+                "vegetarian"
+            ],
+            "servings": "1",
+            "ingredient \rcount": "4",
+            "cookingtime \r(m)": "15",
+            "calories": "660",
+            "caloriesperserving": "660",
+            "source": "New York Times cooking",
+            "author": "Evan",
+            "description": "According to food historians, popular across the world in many cultures; evidence indicates that in the U.S., the modern version of the grilled cheese sandwich originated in the 1920s when inexpensive sliced bread and American cheese became easily available.",
+            "ingredients": [
+                "2 slices bread (either soft sandwich squares or large peasant-style slices, not more than 1/2 inch thick)",
+                "Butter",
+                "Mayonnaise",
+                "2 ozs shredded cheddar cheese (or other cheese, depending on size of bread)"
+            ],
+            "cookingsteps": [
+                {
+                    "prompt": "Heat a heavy pan over medium-low heat."
+                },
+                {
+                    "prompt": "Thinly spread one side of each bread slice with butter. Spread the other side of each slice with mayonnaise and place the bread, mayonnaise-side-down, in the pan. "
+                },
+                {
+                    "prompt": "Divide the cheese evenly on top of the buttered slices. Adjust the heat so the bread sizzles gently."
+                },
+                {
+                    "prompt": "When the cheese is about halfway melted, use a spatula to flip one slice over on top of the other, and press lightly to melt. Keep turning the sandwich, pressing gently, until the sandwich is compact, both sides are crusty, and the cheese is melted."
+                }
+            ],
+            "url": "http://www.yummly.com/recipe/Grilled-Cheese-Sandwich-1072039?columns=3&position=10%2F80",
+            "imagename": "GrilledCheeseSandwich_Main_14",
+            "serial #": "14",
+            "historical facts": "While similar recipes are mentioned in Ancient Roman textsÑand, letÕs face it, the French have been making their famous croque monsieurs since the early 1900s, todayÕs notion of the grilled cheese is commonly traced back to the 1920s, when the Iowa man considered Òthe father of sliced breadÓ invented a bread slicer that made distributing white bread easy and affordable. "
+        },
+        {
+            "recipename": "Hakka Noodles",
+            "cuisine": "Asian",
+            "tags": [
+                "Mian Dishes",
+                "Boiling",
+                "Noodles",
+                "Asian"
+            ],
+            "servings": "4",
+            "ingredient \rcount": "14",
+            "cookingtime \r(m)": "35",
+            "calories": "330",
+            "caloriesperserving": "82.5",
+            "source": "Simplyvegetarian777",
+            "author": "simplyvegetarian",
+            "description": "Hakka noodles is a Chinese preparation where boiled noodles are stir fried with sauces and vegetables or meats. A hakka noodle is made from unleavened dough( rice or wheat flour) that is cooked in a boiling liquid. Depending upon the type, noodles may be dried or refrigerated before cooking.",
+            "ingredients": [
+                "4 cups noodles",
+                "1 tbsp garlic",
+                "vegetables",
+                "4 cups carrots",
+                "cabbage",
+                "spring onions",
+                "bell pepper",
+                "green beans",
+                "oil",
+                "spices",
+                "11/2 tbsps vegetable oil",
+                "11/2 tbsps dark soy sauce",
+                "3 tbsps vinegar",
+                "salt (to taste)"
+            ],
+            "cookingsteps": [
+                {
+                    "prompt": "Boil the noodles in the big pot and wash them under cold water thoroughly. Always under cook your noodles a little."
+                },
+                {
+                    "prompt": "Take the wok and heat oil in it. Add garlic in it and cook on high flame for few seconds till slightly golden."
+                },
+                {
+                    "prompt": "Keep the flame high and add all the vegetables together. Keep tossing and stirring the vegetables continuously for 3-4 minutes. The point is to make cook them while keeping them crispy and not make them mushy and wimpy.",
+                    "duration": "3 to 4 minutes"
+                },
+                {
+                    "prompt": "Now add the cooked noodles, dark soy sauce, little salt and chili vinegar to the wok. Toss and stir again on high flame for another 2 minutes.",
+                    "duration": "2 minutes"
+                },
+                {
+                    "prompt": "Serve it hot along with the side of chili vinegar and soy sauce. An amazingly delicious meal is ready!"
+                }
+            ],
+            "url": "http://www.yummly.com/recipe/Hakka-Noodles-1840500?columns=3&position=6%2F76",
+            "imagename": "HakkaNoodles_Main_15",
+            "serial #": "15",
+            "historical facts": "Hakka cuisine, is the cooking style of the Hakka people, who may also be found in other parts of Taiwan and in countries with significant overseas Taiwanese communities. It concentrates on the texture of food Ð the hallmark of Hakka cuisine. Whereas preserved meats feature in Hakka delicacy, stewed, braised, roast meats Ð 'texturized' contributions to the Hakka palate Ð have a central place in their repertoire."
+        },
+        {
+            "recipename": "Fast Fish Skillet",
+            "cuisine": "American",
+            "tags": [
+                "Main Dishes",
+                "Fish",
+                "Stir Fry"
+            ],
+            "servings": "4",
+            "ingredient \rcount": "7",
+            "cookingtime \r(m)": "50",
+            "calories": "70",
+            "caloriesperserving": "17.5",
+            "source": "Kraft",
+            "author": "Janet",
+            "description": "Fast fish skillet description placeholder",
+            "ingredients": [
+                "4 tilapia fillets (1 lb)",
+                "1/4 cup  Italian Vinaigrette Dressing made with Extra Virgin Olive Oil, ",
+                "1 Tbsp. pesto",
+                "1 yellow pepper, chopped",
+                "1 zucchini, cut lengthwise, then crosswise into slices",
+                "1 cup grape tomatoes",
+                "3 Tbsp. thinly sliced fresh basil"
+            ],
+            "cookingsteps": [
+                {
+                    "prompt": "Brush fish with 2 Tbsp. dressing; cook in skillet on medium heat 3 to 4 min. on each side or until fish flakes easily with fork. "
+                },
+                {
+                    "prompt": "Transfer to plate; cover to keep warm."
+                },
+                {
+                    "prompt": "Add remaining dressing, pesto, vegetables and tomatoes to skillet; cook 5 min. or until heated through, stirring frequently. "
+                },
+                {
+                    "prompt": "Spoon over fish.Top with basil."
+                }
+            ],
+            "url": "http://www.yummly.com/recipe/Fast-Fish-Skillet-1235037?columns=3&position=45%2F74",
+            "imagename": "FastFishSkillet_Main_16",
+            "serial #": "16",
+            "historical facts": "Blah Blah Blah"
+        },
+        {
+            "recipename": "Grilled Beef Kofta Kebabs",
+            "cuisine": "Middle Eastern",
+            "tags": [
+                "Appetizer",
+                "Grilling",
+                "Browning"
+            ],
+            "servings": "24",
+            "ingredient \rcount": "14",
+            "cookingtime \r(m)": "30",
+            "calories": "2160",
+            "caloriesperserving": "90",
+            "source": "Earth food and fire",
+            "author": "Markus",
+            "description": "In Lebanon,ÊkaftaÊis usually prepared by mixing the ground beef with onion, parsley, allspice, black pepper and salt.",
+            "ingredients": [
+                "2 lbs ground beef (or lamb)",
+                "5 cloves minced garlic",
+                "2 onions (small, finely minced)",
+                "1/2 bunch chives (finely chopped)",
+                "3 tsps ground cumin",
+                "1 tbsp cinnamon",
+                "2 tbsps coriander (ground)",
+                "1 tsp ground allspice",
+                "1 tsp ground ginger",
+                "11/2 tsps ground black pepper",
+                "21/2 tsps salt",
+                "3/4 tsp chili flakes (or ground pepper flakes)",
+                "1 whole eggs",
+                "24 bamboo shoots (or wood skewers)"
+            ],
+            "cookingsteps": [
+                {
+                    "prompt": "Mix the ground beef with spices, herb and egg."
+                },
+                {
+                    "prompt": "Let the mix stand covered to marinade and develop a stronger more robust flavor. "
+                },
+                {
+                    "prompt": "Shape little 3 inch long cigar shaped rolls with the meat, and skewer them with a wooden skewer."
+                },
+                {
+                    "prompt": "Grill the kebabs over a barbeque or fire until golden brown and cooked all the way through for about 10 minutes.",
+                    "duration": "10 minutes"
+                },
+                {
+                    "prompt": "Serve the skewers with tzatziki, fresh parsley and cucumbers."
+                }
+            ],
+            "url": "http://www.yummly.com/recipe/Grilled-Beef-Kofta-Kebabs-1717886?columns=3&position=22%2F62",
+            "imagename": "GrilledBeefKoftaKebab_Main_17",
+            "serial #": "17",
+            "historical facts": "Kebabs, by name, indicate a Middle Eastern origin, back to, possibly, Assyria . But the practice predates them likely by tens (if not hundreds) of thousands of years. The practice of amassing pieces too small to be individually skewered as Kofta probably didn't take long to follow as wasting food was not an ancient value."
+        },
+        {
+            "recipename": "Thai Salad with Grilled Beef",
+            "cuisine": "Asian",
+            "tags": [
+                "Salads",
+                "Main Dishes",
+                "Barbeque",
+                "Asian",
+                "Summer",
+                "Thai"
+            ],
+            "servings": "6",
+            "ingredient \rcount": "18",
+            "cookingtime \r(m)": "95",
+            "calories": "340",
+            "caloriesperserving": "56.666666669999998",
+            "source": "Food.com",
+            "author": "Food",
+            "description": "Thai Salad with Grilled Beef description placeholder",
+            "ingredients": [
+                "2 tbsps chopped garlic",
+                "1/4 tsp pepper",
+                "1 1/2 tsps salt",
+                "1 lb flank steak",
+                "1/2 cup rice vinegar",
+                "1/3 cup peanut oil",
+                "1 tbsp sugar",
+                "1 tsp minced garlic",
+                "1/2 tsp crushed red pepper flakes",
+                "11/2 tsps soy sauce",
+                "1 dash hot pepper sauce",
+                "11/2 tsps fresh ginger (minced)",
+                "2 tbsps lime juice",
+                "1 cucumber (medium, peeled and cut in half lengthwise and thinly slice)",
+                "1 red bell pepper (cut in thin strips)",
+                "4 cups iceberg lettuce (in thin shreds)",
+                "4 green onions (sliced)",
+                "1/2 cup salted peanuts (chopped)"
+            ],
+            "cookingsteps": [
+                {
+                    "prompt": "Combine chopped garlic, pepper and salt in small bowl and grind into paste. Spread over steak and marinade at least 1 hour.",
+                    "duration": "1 hour"
+                },
+                {
+                    "prompt": "Over medium charcoal fire, grill steak to preferred doneness. ut into thin strips about 2 inches long. "
+                },
+                {
+                    "prompt": "While beef is grilling, whisk together the vinegar, oil, sugar, minced garlic, pepper flakes, soy sauce, hot pepper sauce, ginger and lime juice."
+                },
+                {
+                    "prompt": "To assemble the salad, toss the beef with the cucumbers, bell pepper, lettuce, onions and dressing. "
+                },
+                {
+                    "prompt": "Arrange on 6 plates and sprinkle with peanuts."
+                }
+            ],
+            "url": "http://www.yummly.com/recipe/Thai-Salad-With-Grilled-Beef-Recipezaar?columns=3&position=21%2F85",
+            "imagename": "ThaiSaladWithGrilledBeef_Main_18",
+            "serial #": "18",
+            "historical facts": "An authentic Thai salad recipe seldom uses uncooked vegetables or fruit as the primary ingredients. Instead, minced meat, seafood or noodles dominate each recipe. The only thing in common with Western-style salads is the use of a souring ingredient Ð in Thailand that is invariably lime juice. "
+        },
+        {
+            "recipename": "Caramelized Salmon",
+            "cuisine": "All",
+            "tags": [
+                "Main Dishes"
+            ],
+            "servings": "2",
+            "ingredient \rcount": "4",
+            "cookingtime \r(m)": "25",
+            "caloriesperserving": "0",
+            "source": "Morsels of Life",
+            "author": "Yummly",
+            "description": "Try this sweetly savory caramelized salmon - all you need is 4 ingredients and less than thirty minutes from fridge to table. You'll have one scrumptious salmon!",
+            "ingredients": [
+                "257 grams salmon fillets (I used a skinless fillet, and I'd recommend one with the skin on.)",
+                "1/4 cup sugar",
+                "1 1/2 tbsps sea salt",
+                "1/2 tbsp pepper"
+            ],
+            "cookingsteps": [
+                {
+                    "prompt": "Gather all materials."
+                },
+                {
+                    "prompt": "Combine sugar, salt, and pepper. Dip each fillet into mixture, making sure to cover all surfaces."
+                },
+                {
+                    "prompt": "Heat a bit of oil in a pan, and cook the salmon for about 5 minutes on each side. (Optional - broil the salmon with a bit of extra sugar/salt/pepper mixture for some extra caramelization.",
+                    "duration": "5 minutes"
+                },
+                {
+                    "prompt": ""
+                }
+            ],
+            "url": "http://www.yummly.com/recipe/Caramelized-Salmon-1741600?columns=4&position=12%2F37",
+            "imagename": "CaramelizedSalmon_Main_19, CaramelizedSalmon_Step1_19, CaramelizedSalmon_Step2_19, CaramelizedSalmon_Step3_19",
+            "serial #": "19",
+            "historical facts": "Blah Blah Blah"
+        },
+        {
+            "recipename": "Nihari",
+            "cuisine": "Indian",
+            "tags": [
+                "Main Dishes",
+                "Indian",
+                "Pakistani",
+                "Frying",
+                "Browning",
+                "Boiling"
+            ],
+            "servings": "4",
+            "ingredient \rcount": "16",
+            "cookingtime \r(m)": "50",
+            "caloriesperserving": "0",
+            "source": "National Made Easy",
+            "author": "Kirin",
+            "description": "Nihari is a stew consisting of slow-cooked meat mainly beef or lamb along with bone marrow, garnished to taste and occasionally served with cooked brain. This dish was first developed in the 18th century, in either Delhi or Lucknow, in the kitchens of Mughal nobility.",
+            "ingredients": [
+                "Beef : 1 kg, boiled",
+                "Onion : 1",
+                "National Red Chili Powder : 2 teaspoon",
+                "National Turmeric Powder : half teaspoon",
+                "Lemons : 2",
+                "Coriander Powder : 2 teaspoons",
+                "Ginger Garlic Paste : 2 teaspoons",
+                "Green Chilies : 6",
+                "National Garam Masala Powder : : 1 teaspoon",
+                "National Salt : As required",
+                "Oil : 1 cup",
+                "Chicken/Beef Stock : 4 cups",
+                "Fresh Coriander : half bunch",
+                "Flour : 4 tablespoons",
+                "Fresh Mint : half bunch",
+                "National Nihari Masala : 1 packet (50 grams)"
+            ],
+            "cookingsteps": [
+                {
+                    "prompt": "Lightly toast the National Nihari Masala in a pan and grind to a fine powder."
+                },
+                {
+                    "prompt": "Mix in the red chili, turmeric, garam masala and coriander powders and salt, and divide the mixture into half."
+                },
+                {
+                    "prompt": "Dissolve one half into a glass of water."
+                },
+                {
+                    "prompt": "Now heat half the oil and fry the ginger garlic paste along with the masala-water mix."
+                },
+                {
+                    "prompt": "When the masala starts to bubble rapidly add the meat and brown it well."
+                },
+                {
+                    "prompt": "Pour in the stock and bring to a rolling boil, then reduce the heat to a slow simmer."
+                },
+                {
+                    "prompt": "Brown the flour, mix with some water, and add to the pot."
+                },
+                {
+                    "prompt": "Cook for 10 minutes. In a separate pan, heat the remaining oil.",
+                    "duration": "10 minutes"
+                },
+                {
+                    "prompt": "Slice the onion and fry it until golden brown and sprinkle the remaining masala mix on top."
+                },
+                {
+                    "prompt": "Now spread the fried onions and oil on top of the meat mixture and serve hot with lemon wedges, green chilies, fresh mint and fresh coriander."
+                }
+            ],
+            "url": "http://www.yummly.com/recipe/Nihari-1739944?columns=3&position=1%2F18",
+            "imagename": "Nihari_main_20",
+            "serial #": "20",
+            "historical facts": "The word ÒNiharÓ originated from the Arabic word, ÒNaharÓ which means ÒmorningÓ. It was originally eaten by Nawabs in the Mughal Empire as a breakfast item after their morning prayers. Nihari was developed in Old Delhi, India, during the reign of the Mughal Empire. It later became a regular breakfast dish for the working class due to its energy-boosting properties."
+        },
+        {
+            "recipename": "French Roasted Chicken",
+            "cuisine": "French",
+            "tags": [
+                "Main Dishes",
+                "Sunday Lunch"
+            ],
+            "servings": "4",
+            "ingredient \rcount": "8",
+            "cookingtime \r(m)": "80",
+            "caloriesperserving": "0",
+            "source": "What a girl eats",
+            "author": "Cynthia",
+            "description": "French roasted chicken is a little fancier, but hardly any more work than, Italian Lemon Chicken ",
+            "ingredients": [
+                "5 lbs roasting chickens",
+                "1/4 cup herbes de provence",
+                "4 tbsps unsalted butter (softened slightly)",
+                "2 tbsps olive oil",
+                "3 cloves minced garlic",
+                "1 tbsp kosher salt",
+                "3/4 tsp black pepper",
+                "1 whole lemon (organic, pierced all over with a knife or fork)"
+            ],
+            "cookingsteps": [
+                {
+                    "prompt": "Preheat oven to 475 degrees F."
+                },
+                {
+                    "prompt": "Remove giblets from chicken, pat dry. (This will enable the herb butter to stick to the bird better). "
+                },
+                {
+                    "prompt": "Mix herbs, butter, garlic, olive oil, salt and pepper together in a small bowl. Slide your hand under the skin, between the breast meat to loosen, and rub herb butter all over, including some under the skin of the bird. "
+                },
+                {
+                    "prompt": "Insert the whole lemon into the cavity of the chicken, and truss legs together with twine."
+                },
+                {
+                    "prompt": "Place chicken on a wire roasting rack set inside a pan.Roast chicken until skin turns brown, about 30-40 minutes. ",
+                    "duration": "30 to 40 minutes"
+                },
+                {
+                    "prompt": "Baste with any herb butter in the roasting pan, and reduce heat to 350 degrees F. and continue to cook until a thermometer inserted into the thickest part of the thigh reaches 165 degrees F, about 30-35 minutes more.",
+                    "duration": "30 to 35 minutes"
+                },
+                {
+                    "prompt": "Let chicken rest on platter, covered loosely with foil for 15 minutes before serving",
+                    "duration": "15 minutes"
+                }
+            ],
+            "url": "http://www.yummly.com/recipe/French-Roasted-Chicken-1642831?columns=3&position=28%2F66",
+            "imagename": "FrenchRoastedChicken_Main_21",
+            "serial #": "21",
+            "historical facts": "Roast chicken is chicken prepared as food by roasting whether in a home kitchen, over a fire, or with a professional rotisserie. Generally, the chicken is roasted with its own fat and juices by circulating the meat during roasting, and therefore, are usually cooked exposed to fire or heat with some type of rotary grill so that the circulation of these fats and juices is as efficient as possible. "
+        },
+        {
+            "recipename": "American Chop Suey",
+            "cuisine": "American",
+            "tags": [
+                "Main Dishes",
+                "Browning",
+                "sauteeing",
+                "Boiling"
+            ],
+            "servings": "4",
+            "ingredient \rcount": "23",
+            "cookingtime \r(m)": "30",
+            "calories": "1530",
+            "caloriesperserving": "382.5",
+            "source": "Chef Fanatic",
+            "author": "Chef Fanatic",
+            "description": "American chop suey is an American pasta dish popular in New England. It is related to other popular and similarly regional pasta dishes, like chili mac.",
+            "ingredients": [
+                "500 grams lean ground beef",
+                "400 grams elbow macaroni",
+                "250 grams tomato sauce",
+                "crushed tomatoes",
+                "1 onions",
+                "salt",
+                "pepper",
+                "cheese (your choice)",
+                "chili powder",
+                "17 2/3 ozs lean ground beef",
+                "14 ozs elbow macaroni",
+                "9 ozs tomato sauce",
+                "crushed tomatoes",
+                "1 onions",
+                "salt",
+                "pepper",
+                "2 cups lean ground beef",
+                "5 handfuls elbow macaroni",
+                "2 cans tomato sauce",
+                "crushed tomatoes",
+                "1 onions",
+                "salt",
+                "pepper"
+            ],
+            "cookingsteps": [
+                {
+                    "prompt": "In a large pan over medium heat, saute the ground beef and the onion  for 5 to 10 minutes , or until meat is brown. Add some water if it dries too much.",
+                    "duration": "5 to 10 minutes"
+                },
+                {
+                    "prompt": "Boil some  salted water in a large pot."
+                },
+                {
+                    "prompt": "Pour the two cans of tomato sauce, salt, pepper and chilli powder into the pan and stir well to combine. Cook for about 15 minutes.",
+                    "duration": "15 minutes"
+                },
+                {
+                    "prompt": "In the meanwhile, start cooking the macaroni according to package directions."
+                },
+                {
+                    "prompt": "Once the pasta is done, drain thoroughly and mix the pasta and the meat sauce."
+                },
+                {
+                    "prompt": "Top ther cheese  of your choice. Serve. "
+                }
+            ],
+            "url": "http://www.yummly.com/recipe/American-Chop-Suey-1810742?columns=3&position=31%2F74",
+            "imagename": "AmericanChopSuey_Main_22",
+            "serial #": "22",
+            "historical facts": "American chop suey is an American pasta dish popular in New England. Despite its name, it has only a very distant relation to Chinese and American Chinese cuisine. Though this comfort food is influenced by Italian-American cuisine as well as older New England meals,\" it is known as \"American chop suey\" both because it is a sometimes-haphazard hodgepodge of meat, vegetables and Italian seasonings."
+        },
+        {
+            "recipename": "Olive Pesto Pasta",
+            "cuisine": "Italian",
+            "tags": [
+                "Main Dishes",
+                "Italian",
+                "vegetarian"
+            ],
+            "servings": "4",
+            "ingredient \rcount": "7",
+            "cookingtime \r(m)": "20",
+            "calories": "350",
+            "caloriesperserving": "87.5",
+            "source": "Diethood",
+            "author": "Susan",
+            "description": "Pesto alla genovese, the quintessential pesto recipe, is made with Genovese basil, coarse salt, garlic, Ligurian extra virgin olive oil (Taggiasco), European pine nuts (sometimes toasted) and a grated cheese like Parmigiano Reggiano or Grana Padano and pecorino sardo or pecorino romano.",
+            "ingredients": [
+                "8 ozs fettuccine pasta (whole wheat)",
+                "1 cup pimento stuffed olives",
+                "2 cups fresh basil leaves (packed)",
+                "1/4 cup dried tomatoes",
+                "4 cloves garlic",
+                "1/4 cup pinenuts",
+                "1/4 cup Star Extra Virgin Olive Oil"
+            ],
+            "cookingsteps": [
+                {
+                    "prompt": "Prepare pasta according to the directions on the package."
+                },
+                {
+                    "prompt": "In a food processor, combine olives, basil, sun-dried tomatoes, garlic, pine nuts, and olive oil; pulse until smooth."
+                },
+                {
+                    "prompt": "Reserve a couple tablespoons of the pasta water and drain out the rest."
+                },
+                {
+                    "prompt": "Add the pesto (a few tablespoons at a time because you may not need all of it) and reserved pasta water to the prepared fettuccine; gently mix and stir until everything is well combined. Serve."
+                },
+                {
+                    "prompt": ""
+                }
+            ],
+            "url": "http://www.yummly.com/recipe/Olive-Pesto-Pasta-1840150?columns=3&position=7%2F59",
+            "imagename": "OlivesPestoPasta_Main_23",
+            "serial #": "23",
+            "historical facts": "Pesto is a sauce originating in Genoa, which is located in the northern region of Italy. The name Pesto originates from the Genoese word pest‰, which means to pound or to crush. This refers to the way in which the authentic sauce is prepared, with a mortar and pestle. However, the translation may be a bit misleading because the preparation does not consist of pounding, rather it is of grounding."
+        },
+        {
+            "recipename": "Gosht Ki Biryani",
+            "cuisine": "Indian",
+            "tags": [
+                "Main Dishes",
+                "Indian",
+                "Sunday Lunch",
+                "Marinating"
+            ],
+            "servings": "4",
+            "ingredient \rcount": "29",
+            "cookingtime \r(m)": "90",
+            "calories": "1060",
+            "caloriesperserving": "265",
+            "source": "Maunika Gowardhan",
+            "author": "Diane",
+            "description": "The word ÒbiryaniÓ comes from the Persian word ÒbirianÓ which means Òfried before cooking.Ó One could conclude that the biryani originated in Iran (modern day Persia). Another interesting story traces the origins of the dish to Mumtaz Mahal(1593-1631), Shah Jahan's queen who inspired the Taj Mahal",
+            "ingredients": [
+                "600 grams lamb shoulder (on the bone cut into cubes)",
+                "1 tsp ground turmeric",
+                "3 tbsps greek yogurt",
+                "1 pinch salt",
+                "4 tbsps vegetable oil",
+                "1 bay leaf",
+                "5 green cardamom pods",
+                "4 clove",
+                "3 cms cinnamon sticks (broken)",
+                "2 onions (medium, finely sliced)",
+                "6 cloves garlic (pounded to a paste)",
+                "2 ginger (peeled, pounded to a paste)",
+                "1 tsp chili powder (Kashmiri red)",
+                "1 tsp ground cumin",
+                "1/2 tsp ground fennel",
+                "2 tbsps tomato purŽe",
+                "80 ml water",
+                "2 tbsps melted butter",
+                "1 pinch saffron (infused in 2tbsp of warm water)",
+                "1 tbsp mint (finely chopped)",
+                "1 tbsp coriander (finely chopped)",
+                "purple onion",
+                "lemon wedges",
+                "chutney",
+                "500 grams basmati rice (washed & drained)",
+                "2 bay leaves",
+                "3 green cardamom pods",
+                "1 water (or vegetable stock)",
+                "salt (to taste)"
+            ],
+            "cookingsteps": [
+                {
+                    "prompt": "In a mixing bowl add the lamb, turmeric powder, Greek yoghurt and salt. Mix well making sure all the pieces are well coated. Set aside and leave to marinate for 2 hours or overnight.",
+                    "duration": "2 hours"
+                },
+                {
+                    "prompt": "Heat the vegetable oil in a heavy based pan and add all the whole spices. As they start to crackle add the onions, SautŽ the onions on a medium heat for 10-12 minute until they soften and turn light brown. ",
+                    "duration": "10 to 12 minute"
+                },
+                {
+                    "prompt": "Add the garlic and ginger paste and fry stirring well for a couple of minutes. ",
+                    "duration": "couple of minutes"
+                },
+                {
+                    "prompt": "Add the powdered spices and cook for a further two minutes. ",
+                    "duration": "two minutes"
+                },
+                {
+                    "prompt": "At this stage add the marinated meat stir well making sure to mix the spices with the lamb pieces. "
+                },
+                {
+                    "prompt": "Tip in the tomato puree and fry sealing the lamb cubes for a 3-4 minutes. At this stage add the water. bring to a simmer and cover the sauce pan cooking the lamb for 45 minutes.",
+                    "duration": "3 to 4 minutes"
+                },
+                {
+                    "prompt": "Give it a stir half way through making sure the lamb is tender and the masala thickens. The masala should reduce and coat the lamb pieces."
+                },
+                {
+                    "prompt": "Preheat the oven to 180c. Ten minutes before the lamb is ready bring a large sauce pan with a litre of water to boil. Add the rice, bay leaf, cardamom pods and salt. Bring to a boil and cook the rice for 7-10 mins until three quarters done (the rice grain if broken should have a slight bite to it) Drain the rice and set aside.",
+                    "duration": "Ten minutes"
+                },
+                {
+                    "prompt": "Brush the base of a deep casserole with melted butter. "
+                },
+                {
+                    "prompt": "Cover the base with a layer of rice about a third followed by a third of the lamb along with its sauce followed by another layer of rice and a teaspoon of the saffron water."
+                },
+                {
+                    "prompt": "Repeat each layer finishing off with a layer of rice and a drizzle of saffron water, chopped mint and leftover melted butter. "
+                },
+                {
+                    "prompt": "Cover the dish with grease proof paper and a tight fitting lid. "
+                },
+                {
+                    "prompt": "Place the dish in the oven for a final cooking time of 25 minutes. ",
+                    "duration": "25 minutes"
+                },
+                {
+                    "prompt": "Once done fork the rice gently, garnish with coriander and serve warm with onion rings, mint chutney and lemon wedges."
+                }
+            ],
+            "url": "http://www.yummly.com/recipe/Gosht-ki-Biryani-1512854?columns=3&position=33%2F52",
+            "imagename": "GoshtKiBiryani_Main_24",
+            "serial #": "24",
+            "historical facts": "Biryani originated in Persia and might have taken couple of different routes to arrive in India. Biryani is derived from the Farsi word 'Birian'. Based on the name, and cooking style, one can conclude that the dish originated in Persia and/or Arabia."
+        }
+    ]
+}

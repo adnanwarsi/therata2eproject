@@ -1,0 +1,996 @@
+{
+    "record": [
+        {
+            "name": "Adobo sauce",
+            "desc": "A dark-red Mexican sauce made from ground chiles, herbs, and vinegar. Chipotle peppers are packed in cans of adobo sauce."
+        },
+        {
+            "name": "Al dente",
+            "desc": "Italian for \"to the tooth.\" It describes pasta that is cooked until it offers a slight resistance when bitten into, rather than cooked until soft."
+        },
+        {
+            "name": "Almond paste",
+            "desc": "A creamy mixture made of ground, blanched almonds and sugar that's o__en used as a filling in pastries, cakes, and confections. For best baking results, use an almond paste without syrup or liquid glucose."
+        },
+        {
+            "name": "Anchovy paste",
+            "desc": "A mixture of ground anchovies, vinegar, and seasonings. Anchovy paste is available  in tubes in the canned fish or gourmet section of the supermarket."
+        },
+        {
+            "name": "Artificial sweeteners",
+            "desc": "A category of sugar substitutes that have no nutritional value. Because they have unique attributes, they should not be substituted for other sweeteners unless a recipe calls for them specifically."
+        },
+        {
+            "name": "Arugula",
+            "desc": "A brightly-colored salad green with a slightly bitter, peppery mustard flavor. It is also called rocket and resembles radish leaves."
+        },
+        {
+            "name": "Bake",
+            "desc": "To cook food, covered or uncovered, using the direct, dry heat of an oven. The term is usually used to describe the cooking of cakes, other desserts, casseroles, and breads."
+        },
+        {
+            "name": "Baking ammonia",
+            "desc": "A compound also known as hartshorn powder that was once used as a leavening agent. It's most often used in Scandinavian baking and is available at pharmacies and through mail order. Cream of tartar is an acceptable substitute, although cookies made with it are less crisp than those made with baking ammonia. If you use baking ammonia for baking, use caution when opening the oven door because irritating ammonia-like fumes"
+        },
+        {
+            "name": "Baking powder",
+            "desc": "A combination of dry acid, baking soda, and starch that has the ability to release carbon dioxide in two stages: when liquid ingredients are added and when the mixture is heated."
+        },
+        {
+            "name": "Baking soda",
+            "desc": "A chemical leavening agent that creates carbon dioxide and is used in conjunction with acidic ingredients, such as buttermilk, sour cream, brown sugar, or fruit juices, to create the bubbles that make the product rise."
+        },
+        {
+            "name": "Balsamic vinegar",
+            "desc": "Syrupy and slightly sweet, this dark-brown vinegar is made from the juice of the white Trebbiano grape. It gets its body, color, and sweetness from being aged in wooden barrels."
+        },
+        {
+            "name": "Basmati rice",
+            "desc": "An aromatic, long grain brown or white rice from India and California. Basmati rice is nutty and fluffy. Use as you would regular long grain rice."
+        },
+        {
+            "name": "Baste",
+            "desc": "To moisten foods during cooking or grilling with fats or seasoned liquids to add flavor and prevent drying. In general, recipes in this cookbook do not call for basting meat and poultry with pan juices or drippings. That's because basting tools, such as brushes and bulb basters, could be sources of bacteria if contaminated when dipped into uncooked or undercooked meat and poultry juices, then allowed to sit at room temperature and used later for basting."
+        },
+        {
+            "name": "Batter",
+            "desc": "An uncooked, wet mixture that can be spooned or poured, as with cakes, pancakes, and muffins. Batters usually contain flour, eggs, and milk as their base. Some thin batters are used to coat foods before deep frying."
+        },
+        {
+            "name": "Bean sauce, bean paste",
+            "desc": "Popular in Asian cooking, both products are made from fermented soybeans and have a salty bean flavor. Japanese bean paste is called miso."
+        },
+        {
+            "name": "Bean threads",
+            "desc": "Thin, almost transparent noodles made from mung bean flour. They also are called bean noodles or cellophane noodles."
+        },
+        {
+            "name": "Beat",
+            "desc": "To make a mixture smooth by briskly whipping or stirring it with a spoon, fork, wire whisk, rotary beater, or electric mixer."
+        },
+        {
+            "name": "Bias-slice",
+            "desc": "To slice a food crosswise at a 45-degree angle."
+        },
+        {
+            "name": "Blackened",
+            "desc": "A popular Cajun cooking method in which seasoned fish or other foods are cooked over high heat in a super- heated heavy skillet until charred, resulting in a crisp, spicy crust. At home, this is best done outdoors because of the large amount of smoke produced."
+        },
+        {
+            "name": "Blanch",
+            "desc": "To partially cook fruits, vegetables, or nuts in boiling water or steam to intensify and set color and flavor. This is an important step in preparing fruits and vegetables for freezing. Blanching also helps loosen skins from tomatoes, peaches, and almonds."
+        },
+        {
+            "name": "Blend",
+            "desc": "To combine two or more ingredients by hand, or with an electric mixer or blender, until smooth and uniform in texture, flavor, and color."
+        },
+        {
+            "name": "Boil",
+            "desc": "To cook food in liquid at a temperature that causes bubbles to form in the liquid and rise in a steady pattern, breaking at the surface. A rolling boil occurs when liquid is boiling so vigorously that the bubbles can't be stirred down."
+        },
+        {
+            "name": "Bouillon",
+            "desc": "A bouillon cube is a compressed cube of dehydrated beef, chicken, fish, or vegetable stock. Bouillon granules are small particles of the same substance, but they dissolve faster. Both can be reconstituted in hot liquid to substitute for stock or broth."
+        },
+        {
+            "name": "Bouquet garni",
+            "desc": "A bundle of fresh herbs usually thyme, parsley, and bay leaf used to add flavor to soups, stews, stocks, and poaching liquids. They are often tied inside two pieces of leek leaf or in a piece of cheesecloth."
+        },
+        {
+            "name": "Braise",
+            "desc": "To cook food slowly in a small amount of liquid in a tightly covered pan on the range top or in the oven. Braising is recommended for less-tender cuts of meat."
+        },
+        {
+            "name": "Breading",
+            "desc": "A coating of crumbs, sometimes seasoned, on meat, fish, poultry, and vegetables. Breading is often made with soft or dry bread crumbs."
+        },
+        {
+            "name": "Brie",
+            "desc": "A soft, creamy cheese with an edible white rind. Brie from France is considered to be the best in the world."
+        },
+        {
+            "name": "Brine",
+            "desc": "Heavily salted water used to pickle or cure vegetables, meats, fish, and seafood."
+        },
+        {
+            "name": "Broil",
+            "desc": "To cook food a measured distance below direct, dry heat. When broiling, position the broiler pan and its rack so that the surface of the food (not the rack) is the specified distance from the heat source. Use a ruler to measure this distance."
+        },
+        {
+            "name": "Broth",
+            "desc": "The strained clear liquid in which meat, poultry, or fish has been simmered with vegetables and herbs. It is similar to stock and can be used interchangeably with it. Reconstituted bouillon can also be used when broth is specified."
+        },
+        {
+            "name": "Brown",
+            "desc": "To cook a food in a skillet, broiler, or oven to add flavor and aroma and develop a rich, desirable color on the outside and moistness on the inside."
+        },
+        {
+            "name": "Butter",
+            "desc": "For rich flavor, butter is usually the fat of choice. For baking, butter is recommended rather than margarine for consistent results. Salted and unsalted butter can be used interchangeably in recipes; however, if you use unsalted butter, you may want to increase the amount of salt in a recipe."
+        },
+        {
+            "name": "Butterfly",
+            "desc": "To split food, such as shrimp or pork chops, through the middle without completely separating the halves. Opened flat, the split halves resemble a butterfly."
+        },
+        {
+            "name": "Candied",
+            "desc": "A food, usually a fruit, nut, or citrus peel, that has been cooked or dipped in sugar syrup."
+        },
+        {
+            "name": "Capers",
+            "desc": "The buds of a spiny shrub that grows from Spain to China. Found next to the olives in the the supermarket, capers have an assertive flavor that can best be described as the marriage of citrus and olive, plus an added tang that comes from the salt and vinegar of their packaging brine. While the smaller buds bring more flavor than the larger buds, both can be used interchangeably in recipes."
+        },
+        {
+            "name": "Carve",
+            "desc": "To cut or slice cooked meat, poultry, fish, or game into serving-size pieces."
+        },
+        {
+            "name": "Cheesecloth",
+            "desc": "A thin 100-percent-cotton cloth with either a fine or coarse weave. Cheesecloth is used in cooking to bundle up herbs, strain liquids, and wrap rolled meats. Look for it among cooking supplies in supermarkets and specialty cookware shops."
+        },
+        {
+            "name": "Chiffonade",
+            "desc": "In cooking, this French word, meaning \"made of rags,\" refers to thin strips of fresh herbs or lettuce."
+        },
+        {
+            "name": "Chili oil",
+            "desc": "A fiery oil, flavored with chile peppers, that's used as a seasoning."
+        },
+        {
+            "name": "Chili paste",
+            "desc": "A condiment, available  in mild or hot versions, that's made from chile peppers, vinegar, and seasonings."
+        },
+        {
+            "name": "Chill",
+            "desc": "To cool food to below room temperature in the refrigerator or over ice. When recipes call for chilling foods, it should be done in the refrigerator."
+        },
+        {
+            "name": "Milk chocolate ",
+            "desc": "is at least 10-percent pure chocolate with added cocoa butter, sugar, and milk solids."
+        },
+        {
+            "name": "Semisweet and bittersweet chocolate ",
+            "desc": "can be used interchangeably. They contain at least 35-percent pure chocolate with added cocoa butter and sugar."
+        },
+        {
+            "name": "Sweet chocolate ",
+            "desc": "is dark chocolate that contains at least 15-percent pure chocolate with extra cocoa butter and sugar."
+        },
+        {
+            "name": "Unsweetened chocolate ",
+            "desc": "is used for baking and cooking rather than snacking. This ingredient contains pure chocolate and cocoa butter with no sugar added."
+        },
+        {
+            "name": "Unsweetened cocoa powder",
+            "desc": " is pure chocolate with most of the cocoa butter removed. Dutch-process or European-style cocoa powder has been treated to neutralize acids, making it mellower in flavor."
+        },
+        {
+            "name": "White chocolate",
+            "desc": "which has a mild flavor, contains cocoa butter, sugar, and milk solids. Products such as white baking bars, white baking pieces, white candy coating, and white confectionery bars are sometimes confused with white chocolate. While they are o__en used interchangeably in recipes, they are not truly white chocolate because they do not contain cocoa butter."
+        },
+        {
+            "name": "Chop",
+            "desc": "To cut foods with a knife, cleaver, or food processor into smaller pieces."
+        },
+        {
+            "name": "Chorizo (chuh-REE-zoh)",
+            "desc": "A spicy pork sausage used in Mexican and Spanish cuisine. Spanish chorizo is made with smoked pork, and Mexican chorizo is made with fresh pork."
+        },
+        {
+            "name": "Chutney",
+            "desc": "A condiment often used in Indian cuisine that's made of chopped fruit (mango is a classic), vegetables, and spices enlivened by hot peppers, fresh ginger, or vinegar."
+        },
+        {
+            "name": "Clarified butter",
+            "desc": "Sometimes called drawn butter, clarified butter is best known as a dipping sauce for seafood. It is butter that has had the milk solids removed. Because clarified butter can be heated to high temperatures without burning, it's also used for quickly browning meats. To clarify butter, melt the butter over low heat in a heavy saucepan without stirring. Skim o__ foam, if necessary. You will see a clear, oily layer on top of a milky layer. Slowly pour the clear liquid into a dish, leaving the milky layer in the pan. The clear liquid is the clarified butter; discard the milky liquid. Store clarified butter in the refrigerator up to 1 month."
+        },
+        {
+            "name": "Coat",
+            "desc": "To evenly cover food with crumbs, flour, or a batter. O__en done to meat, fish, and poultry before cooking."
+        },
+        {
+            "name": "Coconut milk",
+            "desc": "A product made from water and coconut pulp that's often used in Southeast Asian and Indian cooking. Coconut milk is not the clear liquid in the center of the coconut, nor should it be confused with cream of coconut, a sweetened coconut concoction often used to make mixed drinks such as pi–a coladas."
+        },
+        {
+            "name": "Cooking oil",
+            "desc": "Liquids at room temperature made from vegetables, nuts, or seeds. Common types for general cooking include corn, soybean, canola, sunflower, safflower, peanut, and olive. For baking, cooking oils cannot be used interchangeably with solid fats because they do not hold air when beaten."
+        },
+        {
+            "name": "Couscous (KOOS-koos)",
+            "desc": "A granular pasta popular in North Africa that's made from semolina. Look for it in the rice and pasta section of supermarkets."
+        },
+        {
+            "name": "Crme fra”che",
+            "desc": "A dairy product made from whipping cream and a bacterial culture, which causes the whipping cream to thicken and develop a sharp, tangy flavor. If you can't find crme fra”che in your supermarket, you can make a substitute by combining 1/2 cup whipping cream (do not use ultra-pasteurized cream) and 1/2 cup dairy sour cream. Cover the mixture and let it stand at room temperature for two to five hours or until it thickens. Cover and refrigerate for up to one week."
+        },
+        {
+            "name": "Crimp",
+            "desc": "To pinch or press pastry or dough together using your fingers, a fork, or another utensil. Usually done for a piecrust edge."
+        },
+        {
+            "name": "Crisp-tender",
+            "desc": "A term that describes the state of vegetables that have been cooked until just tender but still somewhat crunchy. At this stage, a fork can be inserted with a little pressure."
+        },
+        {
+            "name": "Crumbs",
+            "desc": "Fine particles of food that have been broken off a larger piece. Crumbs are often used as a coating, thickener, or binder, or as a crust in desserts. Recipes usually specify either soft or fine dry bread crumbs, which generally are not interchangeable."
+        },
+        {
+            "name": "Crush",
+            "desc": "To smash food into smaller pieces, generally using hands, a mortar and pestle, or a rolling pin. Crushing dried herbs releases their flavor and aroma."
+        },
+        {
+            "name": "Carmelize",
+            "desc": "To brown sugar, whether it is granulated sugar or the naturally occuring sugars in vegetables. Granulated sugar is cooked in a saucepan or skillet over low heat until melted and golden. Vegetables are cooked slowly over low heat in a small amount of fat until browned and smooth."
+        },
+        {
+            "name": "Cream",
+            "desc": "To beat a fat, such as butter or shortening either alone or with sugar, to a light, fluffy consistency. May be done by hand with a wooden spoon or with an electric mixer. This process incorporates air into the fat so baked products have a lighter texture and a better volume."
+        },
+        {
+            "name": "Curry paste",
+            "desc": "A blend of herbs, spices, and fiery chiles that's often used in Indian and Thai cooking. Look for curry paste in Asian markets. Curry pastes are available in many varieties and are sometimes classified by color (green, red, or yellow), by heat (mild or hot), or by a particular style of curry (such as Panang or Masaman)."
+        },
+        {
+            "name": "Cut in",
+            "desc": "To work a solid fat, such as shortening, butter, or margarine, into dry ingredients. This is usually done with a pastry blender, two knives in a crisscross fashion, your fingertips, or a food processor."
+        },
+        {
+            "name": "Dash",
+            "desc": "Refers to a small amount of seasoning that is added to food. It is generally between 1/16 and 1/8 teaspoon. The term is often used for liquid ingredients, such as bottled hot pepper sauce."
+        },
+        {
+            "name": "Deep-fry",
+            "desc": "To cook food by completely  covering with hot fat. Deep-frying is usually done at 375 degrees."
+        },
+        {
+            "name": "Deglaze",
+            "desc": "Adding a liquid such as water, wine, or broth to a skillet that has been used to cook meat. After the meat has been removed, the liquid is poured into the pan to help loosen the browned bits and make a flavorful sauce."
+        },
+        {
+            "name": "Demi-glace (DEHM-ee-glahs)",
+            "desc": "A thick, intense meat-flavor gel that's often used as a foundation for soups and sauces. Demi-glace is available in gourmet shops or through mail-order catalogs."
+        },
+        {
+            "name": "Dip",
+            "desc": "To immerse food for a short time in a liquid or dry mixture to coat, cool, or moisten it."
+        },
+        {
+            "name": "Direct Grilling",
+            "desc": "Method of quickly cooking food by placing it on a grill rack directly over the heat source. A charcoal grill is often left uncovered, while a gas grill is generally covered."
+        },
+        {
+            "name": "Dissolve",
+            "desc": "To stir a solid food and a liquid food together to form a mixture in which none of the solid remains. In some cases, heat may be needed in order for the solid to dissolve."
+        },
+        {
+            "name": "Double boiler",
+            "desc": "A two-pan arrangement where one pan nests partway inside the other. The lower pot holds simmering water that gently cooks heat-sensitive food in the upper pot."
+        },
+        {
+            "name": "Drawn",
+            "desc": "A term referring to a whole fish, with or without scales, that has had its internal organs removed. The term \"drawn butter\" refers to clarified butter."
+        },
+        {
+            "name": "Dredge",
+            "desc": "To coat a food, either before or after cooking, with a dry ingredient, such as flour, cornmeal, or sugar."
+        },
+        {
+            "name": "Dressed",
+            "desc": "Fish or game that has had guts (viscera) removed. In the case of fish, gills are removed, the cavity is cleaned, and the head and fins remain intact. The scales may or may not be removed."
+        },
+        {
+            "name": "Drip pan",
+            "desc": "A metal or disposable foil pan placed under food to catch drippings when grilling. A drip pan can also be made from heavy-duty foil."
+        },
+        {
+            "name": "Drizzle",
+            "desc": "To randomly pour a liquid, such as powdered sugar icing, in a thin stream over food."
+        },
+        {
+            "name": "Dust",
+            "desc": "To lightly coat or sprinkle a food with a dry ingredient, such as flour or powdered sugar, either before or after cooking."
+        },
+        {
+            "name": "Egg roll skins",
+            "desc": "Pastry wrappers used to encase a savory filling and make egg rolls. Look for these products in the produce aisle of the supermarket or at Asian markets. Egg roll skins are similar to, but larger than, wonton skins."
+        },
+        {
+            "name": "Egg whites, dried",
+            "desc": "Pasteurized dried egg whites can be used where egg whites are needed; follow package directions for reconstituting them. Unlike raw egg whites, which must be thoroughly cooked before serving to kill harmful bacteria, pasteurized dried egg whites can be used in recipes that do not call for egg whites to be thoroughly cooked. Keep in mind that meringue powder may not be substituted, as it has added sugar and starch. Find dried egg whites in powdered form in the baking aisle of many supermarkets and through mail-order sources."
+        },
+        {
+            "name": "Eggs",
+            "desc": "Keep in mind that you should avoid eating foods that contain raw eggs. Eggs should be cooked until both the yolk and white are firm; scrambled eggs should not be runny. Cook casseroles and other dishes that contain eggs until they register 160 degrees F on a food thermometer. If you have a recipe that calls for the eggs to be raw or undercooked (such as Caesar salads and homemade ice cream), use shell eggs that are clearly labeled as having been pasteurized to destroy salmonella; these are available at some retailers. Or use a widely available pasteurized egg product. If you have a recipe that calls for egg whites to be raw or undercooked, use pasteurized dried egg whites or pasteurized refrigerated liquid egg whites."
+        },
+        {
+            "name": "Emulsify",
+            "desc": "To combine two liquid or semiliquid ingredients, such as oil and vinegar, that don't naturally dissolve into each other. One way to do this is to gradually add one ingredient to the other while whisking rapidly with a fork or wire whisk."
+        },
+        {
+            "name": "Extracts, oils",
+            "desc": "Products based on the aromatic essential oils of plant materials that are distilled by various means. In extracts, the highly concentrated oils are usually suspended in alcohol to make them easier to combine with other foods in cooking and baking. Almond, anise, lemon, mint, orange, peppermint, and vanilla are some commonly available extracts. Some undiluted oils are also available, usually at pharmacies. These include oil of anise, oil of cinnamon, oil of cloves, oil of peppermint, and oil of wintergreen. Do not try to substitute oils for ground spices in recipes. Oils are so concentrated that they're measured in drops, not teaspoons. Oil of cinnamon, for example, is 50 times stronger than ground cinnamon. You can, however, substitute 1 or 2 drops of an oil for 1/2 teaspoon extract in frosting or candy recipes."
+        },
+        {
+            "name": "Fats, oils",
+            "desc": "See specific ingredients, such as butter, margarine, shortening, lard, or cooking oil."
+        },
+        {
+            "name": "Fava bean",
+            "desc": "A tan, flat bean that looks like a large lima bean. It is available dried, canned, and, occasionally, fresh."
+        },
+        {
+            "name": "Feta",
+            "desc": "A tangy, crumbly Greek cheese made of sheep's or goat's milk."
+        },
+        {
+            "name": "Fillet",
+            "desc": "A piece of meat or fish that has no bones. As a verb, fillet refers to the process of cutting meat or fish into fillets."
+        },
+        {
+            "name": "Fish Sauce",
+            "desc": "A pungent brown sauce made by fermenting fish, usually anchovies, in brine. It's often used in Southeast Asian cooking."
+        },
+        {
+            "name": "Flake",
+            "desc": "To gently break food into small, flat pieces."
+        },
+        {
+            "name": "Flavoring",
+            "desc": "An imitation extract made of chemical compounds. Unlike an extract or oil, a flavoring o__en does not contain any of the original food it resembles. Some common imitation flavorings available are banana, black walnut, brandy, cherry, chocolate, coconut, maple, pineapple, raspberry, rum, strawberry, and vanilla."
+        },
+        {
+            "name": "Flour",
+            "desc": "A milled food that can be made from many cereals, roots, and seeds, although wheat is the most popular. Store flour in an airtight container in a cool, dry place. All-purpose flour may be stored for up to 8 months. Bread flour, cake flour, gluten flour, whole wheat flour, and other whole grain flours may be stored up to 5 months. For longer storage, refrigerate or freeze the flour in a moisture- and vaporproof container. Bring chilled flour to room temperature before using in baking. Here are the types of flour most commonly used in cooking:"
+        },
+        {
+            "name": "All-purpose flour",
+            "desc": "This flour is made from a blend of soft and hard wheat flours and, as its name implies, can be used for many purposes, including baking, thickening, and coating. All-purpose flour usually is sold presifted and is available bleached or unbleached. Bleached flour has been made chemically whiter in appearance. Some cooks prefer the bleached flour to make their cakes and bread as white as possible, while other cooks prefer their flour to be processed as little as necessary. Both bleached and unbleached flour are suitable for home baking and can be used interchangeably."
+        },
+        {
+            "name": "Bread flour",
+            "desc": "This flour contains more gluten than all-purpose flour, making it ideal for baking breads, which rely on gluten for structure and height. If you use a bread machine, use bread flour instead of all-purpose flour for best results. Or use all-purpose flour and add 1 or 2 tablespoons of gluten flour (available in supermarkets or health food stores)."
+        },
+        {
+            "name": "Cake flour",
+            "desc": "Made from a soft wheat, cake flour produces a tender, delicate crumb because the gluten is less elastic. It's too delicate for general baking, but to use it for cakes, sift it before measuring and use 1 cup plus 2 tablespoons of cake flour for every 1 cup all-purpose flour specified."
+        },
+        {
+            "name": "Gluten flour",
+            "desc": "Because whole-grain flours are low in gluten, some whole-grain bread recipes often call for a little gluten flour to help the finished loaf attain the proper texture. Sometimes called wheat gluten, gluten flour is made by removing most of the starch from high-protein, hard-wheat flour. If you can't find gluten flour at a supermarket, look for it at a health food store."
+        },
+        {
+            "name": "Pastry flour",
+            "desc": "A soft wheat blend with less starch than cake flour. It is used for making pastry."
+        },
+        {
+            "name": "Self-rising flour",
+            "desc": "An all-purpose flour with salt and a leavener, such as baking powder, added. It is generally not used for making yeast products."
+        },
+        {
+            "name": "Specialty flours",
+            "desc": "Specialty flours, such as whole wheat, graham, rye, oat, buckwheat, and soy, generally are combined with all-purpose flour in baking recipes because none has sufficient gluten to provide the right amount of elasticity on its own."
+        },
+        {
+            "name": "Flour (verb)",
+            "desc": "To coat or dust a food or utensil with flour. Food may be floured before cooking to add texture and improve browning. Baking utensils sometimes are floured to prevent sticking."
+        },
+        {
+            "name": "Flute",
+            "desc": "To make a decorative impression in food, usually a piecrust."
+        },
+        {
+            "name": "Fold",
+            "desc": "A method of gently mixing ingredients without decreasing their volume. To fold, use a rubber spatula to cut down vertically  through the mixture from the back of the bowl. Move the spatula  across the bottom of the bowl, and bring it back up the other side, carrying some of the mixture from the bottom up over the surface. Repeat these steps, rotating the bowl one-fourth of a turn each time you complete the process."
+        },
+        {
+            "name": "Food coloring",
+            "desc": "Liquid, paste, or powdered edible dyes used to tint foods."
+        },
+        {
+            "name": "French",
+            "desc": "To cut meat away from the end of a rib or chop to expose the bone, as with a lamb rib roast."
+        },
+        {
+            "name": "Frost",
+            "desc": "To apply a cooked or uncooked topping, which is soft enough to spread but stiff enough to hold its shape, to cakes, cupcakes, or cookies."
+        },
+        {
+            "name": "Fry",
+            "desc": "To cook food in a hot cooking oil or fat, usually until a crisp brown crust forms. To panfry is to cook food, which may have a very light breading or coating, in a skillet in a small amount of hot fat or oil. To deep-fat fry (or French fry) is to cook a food until it is crisp in enough hot fat or oil to cover the food. To shallow fry is to cook a food, usually breaded or coated with batter, in about an inch of hot fat or oil. To oven fry is to cook food in a hot oven, using a small amount of fat to produce a healthier product."
+        },
+        {
+            "name": "Garlic",
+            "desc": "The strongly scented, pungent bulb of a plant related to an onion. A garlic clove is one of the several small segments that make up a garlic bulb. Elephant garlic is larger, milder, and more closely related to the leek. Store firm, fresh, plump garlic bulbs in a cool, dry, dark place; leave bulbs whole because individual cloves dry out quickly. Convenient substitutes are available; for each clove called for in a recipe use either 1/8 teaspoon garlic powder or 1/2 teaspoon bottled minced garlic."
+        },
+        {
+            "name": "Garnish",
+            "desc": "To add visual appeal to a finished dish."
+        },
+        {
+            "name": "Gelatin",
+            "desc": "A dry ingredient made from natural animal protein that can thicken or set a liquid. Gelatin is available in unflavored and flavored forms. When using, make sure the gelatin powder is completely dissolved. To dissolve one envelope of unflavored gelatin: Place gelatin in a small saucepan and stir in at least 1/4 cup water, broth, or fruit juice. Let it stand 5 minutes to soften, then stir it over low heat until the gelatin is dissolved. Do not mix gelatin with figs, fresh pineapple (canned pineapple is not a problem), fresh ginger, guava, kiwifruit, and papaya, as these foods contain an enzyme that prevents gelatin from setting up."
+        },
+        {
+            "name": "Giblets",
+            "desc": "The edible internal organs of poultry, including the liver, heart, and gizzard. (Although sometimes packaged with the giblets, the neck is not part of the giblets.) Giblets are sometimes used to make gravy."
+        },
+        {
+            "name": "Ginger",
+            "desc": "The root of a semitropical plant that adds a spicy-sweet flavor to recipes (also called gingerroot). Ginger should be peeled before using. To peel, cut off one end of the root and use a vegetable peeler to remove the brown outer layer in strips. To grate ginger, use the fine holes of a grater. To mince ginger, slice peeled ginger with the grain (lengthwise) into thin sticks. Stack the sticks in a bundle and cut them finely. Ginger"
+        },
+        {
+            "name": "Ginger, crystallized",
+            "desc": "A confection made from pieces of ginger (gingerroot) cooked in a sugar syrup, then coated with sugar. Also known as candied ginger. Store in a cool, dry, dark place."
+        },
+        {
+            "name": "GlacŽ (gla-SAY)",
+            "desc": "The French term for \"glazed\" or \"frozen.\" In the United States, it describes a candied food."
+        },
+        {
+            "name": "Glaze",
+            "desc": "A thin, glossy coating. Savory glazes are made with reduced sauces or gelatin; sweet glazes can be made with melted jelly or chocolate."
+        },
+        {
+            "name": "Grate",
+            "desc": "To rub food, such as hard cheeses, vegetables, or whole nutmeg or ginger, across a grating surface to make very fine pieces. A food processor also may be used."
+        },
+        {
+            "name": "Grease",
+            "desc": "To coat a utensil, such as a baking pan or skillet, with a thin layer of fat or oil. A pastry brush works well to grease pans. Also refers to fat released from meat and poultry during cooking."
+        },
+        {
+            "name": "Grind",
+            "desc": "To mechanically cut a food into smaller pieces, usually with a food grinder or a food processor."
+        },
+        {
+            "name": "Gumbo",
+            "desc": "The word gumbo is from an African word meaning \"okra.\" This creole stew contains okra, tomatoes, and onions as well as various meats or shellfish such as shrimp, chicken, or sausage. It is thickened with a roux."
+        },
+        {
+            "name": "Half-and-half",
+            "desc": "A mixture of equal parts cream and milk. It has about 12 percent milk fat and cannot be whipped."
+        },
+        {
+            "name": "Haricot vert",
+            "desc": "French for \"green string bean\", these beans are particularly thin and tender."
+        },
+        {
+            "name": "Heavy cream",
+            "desc": "Also called heavy whipping cream. Heavy cream contains at least 46 perecent milk fat and is the richest cream available. It can be whipped to twice its volume."
+        },
+        {
+            "name": "Hoisin Sauce",
+            "desc": "A sauce, popular in Asian cooking, that brings a multitude of sweet and spicy flavors to a dish: fermented soybeans, molasses, vinegar, mustard, sesame seeds, garlic, and chiles. Look for hoisin sauce alongside the soy sauce in most supermarkets or in Asian markets."
+        },
+        {
+            "name": "Hominy",
+            "desc": "Dried white or yellow corn kernels that have been soaked in lime or lye to remove the hull and germ. It is available canned or dried. Ground hominy is used to make grits."
+        },
+        {
+            "name": "Honey",
+            "desc": "A sweet, sticky sweetener that's produced by bees from floral nectar. Honey is now available in more than 300 varieties in the United States. Its flavor depends on the flowers from which the honey is derived; most honey is made from clover, but other sources include lavender, thyme, orange blossom, apple, cherry, buckwheat, and tupelo. Generally, the lighter the color, the milder the flavor. Store honey at room temperature in a dark place. If it crystallizes (becomes solid), reliquefy it by warming the honey jar slightly in the microwave oven or in a pan of very hot tap water. If the honey smells or tastes strange, toss it out."
+        },
+        {
+            "name": "Hors d'oeuvre (or-DERV)",
+            "desc": "French term for small, hot or cold portions of savory food served as an appetizer."
+        },
+        {
+            "name": "Ice",
+            "desc": "To drizzle or spread baked goods with a thin frosting."
+        },
+        {
+            "name": "Indirect grilling",
+            "desc": "Method of slowly cooking food in a covered grill over a spot where there are no coals. Usually the food is placed on the rack over a drip pan, with coals arranged around the pan."
+        },
+        {
+            "name": "Jelly roll",
+            "desc": "Dessert made by spreading a filling on a sponge cake and rolling it up into a log shape. When other foods are shaped \"jelly-roll-style,\" it refers to rolling them into a log shape with fillings inside."
+        },
+        {
+            "name": "Juice",
+            "desc": "The natural liquid extracted from fruits, vegetables, meats, and poultry. Also refers to the process of extracting juice from foods."
+        },
+        {
+            "name": "Knead",
+            "desc": "To work dough with the heels of your hands in a pressing and folding motion until it becomes smooth and elastic. This is an essential step in developing the gluten in many yeast breads."
+        },
+        {
+            "name": "Kosher salt",
+            "desc": "A coarse salt with no additives that many cooks prefer for its light, flaky texture and clean taste. It also has a lower sodium content than regular salt. Find it next to salt in the supermarket."
+        },
+        {
+            "name": "Lard",
+            "desc": "A product made from pork fat that is sometimes used for baking. It's especially noted for producing light, flaky piecrusts. Today, shortening is commonly used instead of lard."
+        },
+        {
+            "name": "Leavenings",
+            "desc": "Ingredients that are essential in helping batter and dough expand or rise during baking. If omitted, the baked products will be heavy and tough. See specific ingredients, such as yeast, baking powder, and baking soda, for more information."
+        },
+        {
+            "name": "Lemongrass",
+            "desc": "A highly aromatic, lemon-flavored herb often used in Asian cooking. To use, trim the fibrous ends and slice what remains into 3- to 4-inch sections. Cut each section in half lengthwise, exposing the layers. Rinse pieces der cold water to remove any grit and slice the lemongrass thinly. In a pinch, substitute 1/2 teaspoon finely shredded lemon peel for 1 tablespoon lemongrass."
+        },
+        {
+            "name": "Marble",
+            "desc": "To gently swirl one food into another. Marbling is usually done with light and dark batters for cakes or cookies."
+        },
+        {
+            "name": "Margarine",
+            "desc": "A product generally made from vegetable oil that was developed in the late 1800s as a substitute for butter. When baking, be sure to use a stick margarine that contains at least 80 percent fat. Check the nutritional information. It should have 100 calories per tablespoon."
+        },
+        {
+            "name": "Marinade",
+            "desc": "A seasoned liquid in which meat, poultry, fish, shellfish, or vegetables are soaked to flavor and sometimes tenderize them. Most marinades  contain an acid, such as wine or vinegar."
+        },
+        {
+            "name": "Marinate",
+            "desc": "To soak food in a marinade. When marinating foods, do not use a metal container, as it can react with acidic ingredients to give foods an off flavor. Always marinate foods in the refrigerator, never on the kitchen counter. To reduce cleanup, use a plastic bag set in a bowl or dish to hold the food you are marinating. Discard leftover marinade that has come in contact with raw meat. Or if it's to be used on cooked meat, bring leftover marinade to a rolling boil before using to destroy any bacteria that may be present."
+        },
+        {
+            "name": "Marsala",
+            "desc": "A fortified wine that can be either dry or sweet. Sweet Marsala is used both for drinking and cooking. Dry Marsala makes a nice pre-dinner drink."
+        },
+        {
+            "name": "Mash",
+            "desc": "To press or beat a food to remove lumps and make a smooth mixture. This can be done with a fork, potato masher, food mill, food ricer, or electric mixer."
+        },
+        {
+            "name": "Measure",
+            "desc": "To determine the quantity or size of a food or utensil."
+        },
+        {
+            "name": "Melt",
+            "desc": "To heat a solid food, such as chocolate, margarine, or butter, over very low heat until it becomes liquid or semi-liquid."
+        },
+        {
+            "name": "Buttermilk",
+            "desc": "Buttermilk is a low-fat or fat-free milk to which a bacterial culture has been added. It has a mildly acidic taste. Sour milk, made from milk and lemon juice or vinegar, can be substituted in baking recipes."
+        },
+        {
+            "name": "Evaporated milk",
+            "desc": "Made from whole milk, canned evaporated milk has had about half of its water removed; it lends a creamy richness to many recipes, including pumpkin pie. Measure it straight from the can for recipes calling for evaporated milk; to use it in place of fresh milk, dilute it as directed on the can (usually with an equal amount of water) to make the quantity called for in the recipe. Evaporated milk is also available in low- fat and fat-free versions. Evaporated milk is not interchangeable with sweetened condensed milk."
+        },
+        {
+            "name": "Fat-free half-and-half",
+            "desc": "Made mostly from skim milk, with carrageenan for body, this product can bring a creamy flavor to recipes without added fat. Experiment using it in cornstarch or flour-thickened soup, sauce, and gravy recipes that call for regular half-and-half."
+        },
+        {
+            "name": "Light cream and half-and-half",
+            "desc": "Light cream contains 18 to 30 percent milk fat. Half-and-half is a mixture of milk and cream. They're interchangeable in most recipes; however, neither contains enough fat to be whipped."
+        },
+        {
+            "name": "Nonfat dry milk powder",
+            "desc": "When reconstituted, this milk product can be used in cooking."
+        },
+        {
+            "name": "Sour cream and yogurt",
+            "desc": "Sour cream is traditionally made from light cream with a bacterial culture added, while yogurt is made from milk with a bacterial culture added. Both are available in low-fat and fat-free varieties."
+        },
+        {
+            "name": "Sweetened condensed milk",
+            "desc": "This product is made with whole milk that has had water removed and sugar added. It is also available in low-fat and fat-free versions. Sweetened condensed milk is not interchangeable with evaporated milk or fresh milk."
+        },
+        {
+            "name": "Whipping cream",
+            "desc": "It contains at least 30 percent milk fat and can be beaten into whipped cream."
+        },
+        {
+            "name": "Whole, low-fat or light, reduced-fat,  and fat-free milk",
+            "desc": " Because these milk types differ only in the amount   of fat they contain and in the richness of flavor they lend to foods, they may be used interchangeably in cooking. Recipes in this cookbook were tested using reduced-fat (2 percent) milk."
+        },
+        {
+            "name": "Mince",
+            "desc": "To chop food into very fine pieces, as with minced garlic."
+        },
+        {
+            "name": "Mix",
+            "desc": "To stir or beat two or more foods together until they are thoroughly combined. May be done with an electric mixer, a rotary beater, or by hand with a wooden spoon."
+        },
+        {
+            "name": "Moisten",
+            "desc": "To add enough liquid to a dry ingredient or mixture to make it damp but not runny."
+        },
+        {
+            "name": "Mortar and pestle",
+            "desc": "A set that includes a bowl-shape vessel (the mortar) to hold ingredients to be crushed by a club-shape utensil (the pestle)."
+        },
+        {
+            "name": "Mull",
+            "desc": "To slowly heat a beverage, such as cider, with spices and sugar."
+        },
+        {
+            "name": "Mushrooms, dried",
+            "desc": "Dried mushrooms swell into tender, flavorful morsels. Simply cover them in warm water and soak them for about 30 minutes. Rinse well and squeeze out the moisture. Remove and discard tough stems. Cook them in recipes as you would fresh mushrooms. Popular choices include oyster, wood ear, and shiitake."
+        },
+        {
+            "name": "Mushrooms, fresh",
+            "desc": "A plant in the fungus family, mushrooms come in many colors and shapes, with flavors ranging from mild and nutty to meaty, woodsy, and wild."
+        },
+        {
+            "name": "Nonstick cooking spray",
+            "desc": "This convenient product reduces the mess associated with greasing pans; it can also help cut down on fat in cooking. Use the spray only on unheated baking pans or skillets because it can burn or smoke if sprayed onto a hot surface. For safety, hold pans over a sink or garbage can when spraying to avoid making the floor or counter slippery."
+        },
+        {
+            "name": "Nuts",
+            "desc": "Dried seeds or fruits with edible kernels surrounded by a hard shell or rind. Nuts are available in many forms, such as chopped, slivered, and halved. Use the form called for in the recipe. In most recipes, the nuts are selected for their particular flavor and appearance; however, in general, walnuts may be substituted for pecans, and almonds for hazelnuts, and vice versa. When grinding nuts, take extra care not to overgrind them, or you may end up with a nut butter. If you're using a blender or processor to grind them, add 1 tablespoon of the sugar or flour from the recipe for each cup of nuts to help absorb some of the oil. Use a quick start-and-stop motion for better control over the fineness. For best results, grind the nuts in small batches and be sure to let the nuts cool after toasting and before grinding."
+        },
+        {
+            "name": "Parbroil",
+            "desc": "To boil a food, such as vegetables, until it is partially cooked"
+        },
+        {
+            "name": "Parchment paper",
+            "desc": "A grease- and heat-resistant paper used to line baking pans, to wrap foods in packets for baking, or to make disposable pastry bags."
+        },
+        {
+            "name": "Pare",
+            "desc": "To cut off the skin or outer covering of a fruit or vegetable, using a small knife or a vegetable peeler."
+        },
+        {
+            "name": "Parsnip",
+            "desc": "A white root vegetable that resembles a carrot. Parsnips have a mild, sweet flaor and can be cooked like potatoes."
+        },
+        {
+            "name": "Pectin",
+            "desc": "A natural substance found in some fruits that makes fruit-and-sugar mixtures used in jelly- or jam-making set up. Commercial pectin is also available."
+        },
+        {
+            "name": "Peel",
+            "desc": "The skin or outer covering of a vegetable or fruit (also called the rind). Peel also refers to the process of removing this covering."
+        },
+        {
+            "name": "Pesto",
+            "desc": "Traditionally an uncooked sauce made from crushed garlic, basil, and nuts blended with Parmesan cheese and olive oil. Today's pestos may call on other herbs or greens and may be homemade or purchased. Tomato pesto is also available. Pesto adds a heady freshness to many recipes."
+        },
+        {
+            "name": "Phyllo dough (FEE-loh)",
+            "desc": "Prominent in Greek, Turkish, and Near Eastern dishes, phyllo consists of tissue-thin sheets of dough that, when layered and baked, results in a delicate, flaky pastry. The word phyllo (sometimes spelled filo) is Greek for \"leaf.\" Although phyllo can be made at home, a frozen commercial product is available and much handier to use. Allow frozen phyllo dough to thaw while it is still wrapped; once unwrapped, sheets of phyllo dough quickly dry out and become unusable. To preserve sheets of phyllo, keep the stack covered with plastic wrap while you prepare your recipe. Rewrap any remaining sheets and return them to the freezer"
+        },
+        {
+            "name": "Pinch",
+            "desc": "A small amount of a dry ingredient (the amount that can be pinched between a finger and the thumb)."
+        },
+        {
+            "name": "Pine nut",
+            "desc": "A high-fat nut that comes from certain varieties of pine trees. Their flavor ranges from mild and sweet to pungent. They go rancid quickly; store in the refrigerator or freezer. In a pinch, substitute chopped almonds or, in cream sauces, walnuts."
+        },
+        {
+            "name": "Pipe",
+            "desc": "To force a semisoft food, such as whipped cream or frosting, through a pastry bag to decorate food."
+        },
+        {
+            "name": "Pit",
+            "desc": "To remove the seed from fruit."
+        },
+        {
+            "name": "Plump",
+            "desc": "To allow a food, such as raisins, to soak in a liquid, which generally increases its volume."
+        },
+        {
+            "name": "Poach",
+            "desc": "To cook a food by partially or completely submerging it in a simmering liquid."
+        },
+        {
+            "name": "Pound",
+            "desc": "To strike a food with a heavy utensil to crush it. Or, in the case of meat or poultry, to break up connective tissue in order to tenderize or flatten it."
+        },
+        {
+            "name": "Precook",
+            "desc": "To partially or completely cook a food before using it in a recipe."
+        },
+        {
+            "name": "Preheat",
+            "desc": "To heat an oven or a utensil to a specific temperature before using it."
+        },
+        {
+            "name": "Process",
+            "desc": "To preserve food at home by canning, or to prepare food in a food processor."
+        },
+        {
+            "name": "Proof",
+            "desc": "To allow a yeast dough to rise before baking. Also a term that indicates the amount of alcohol in a distilled liquor."
+        },
+        {
+            "name": "Prosciutto",
+            "desc": "Ham that has been seasoned, salt-cured, and air-dried (not smoked). Pressing the meat gives it a firm, dense texture. Parma ham from Italy is considered to be the best."
+        },
+        {
+            "name": "Provolone",
+            "desc": "A southern Italian cheese made from cow's milk. Provolone is firm and creamy with a mild, smoky flavor. Because it melts so well, it is an excellent cooking cheese."
+        },
+        {
+            "name": "Puff pastry",
+            "desc": "A butter-rich, multilayered pastry. When baked, the butter produces steam between the layers, causing the dough to puff up into many flaky layers. Because warm, softened puff pastry dough becomes sticky and unmanageable, roll out one sheet of dough at a time, keeping what you're not using wrapped tightly in plastic wrap in the refrigerator."
+        },
+        {
+            "name": "Puree",
+            "desc": "To process or mash a food until it is as smooth as possible. This can be done using a blender, food processor, sieve, or food mill; also refers to the resulting mixture."
+        },
+        {
+            "name": "Reconstitute",
+            "desc": "To bring a concentrated or condensed food, such as frozen fruit juice, to its original strength by adding water."
+        },
+        {
+            "name": "Reduce",
+            "desc": "To decrease the volume of a liquid by boiling it rapidly to cause evaporation. As the liquid evaporates, it thickens and intensifies in flavor. The resulting richly flavored liquid, called a reduction, can be used as a sauce or as the base of a sauce. When reducing liquids, use the pan size specified in the recipe, as the surface area of the pan a__ects how quickly the liquid will evaporate."
+        },
+        {
+            "name": "Rice",
+            "desc": "To force food that has been cooked through a perforated utensil known as a ricer, giving the food a somewhat ricelike shape."
+        },
+        {
+            "name": "Rice noodles, rice sticks",
+            "desc": "Thin noodles, popular in Asian cooking, that are made from finely ground rice and water. When fried, they puff into light, crisp strands. They can also be soaked to use in stir-fries and soups. Thicker varieties are called rice sticks. Find in Asian markets; substitute vermicelli or capellini for thin rice noodles, linguine or fettuccine for thicker rice sticks."
+        },
+        {
+            "name": "Rice papers",
+            "desc": "These round, flat, edible papers, made from the pith of a rice-paper plant, are used for wrapping spring rolls."
+        },
+        {
+            "name": "Rice vinegar",
+            "desc": "A mild-flavored vinegar made from fermented rice. Rice vinegar is interchangeable with rice wine vinegar, which is made from fermented rice wine. Seasoned rice vinegar, with added sugar and salt, can be used in recipes calling for rice vinegar, though you may wish to adjust the seasonings. If you can't find rice vinegar, substitute white vinegar or white wine vinegar."
+        },
+        {
+            "name": "Rind",
+            "desc": "The skin or outer coating, usually rather thick, of a food."
+        },
+        {
+            "name": "Roast, roasting",
+            "desc": "A large piece of meat or poultry that's usually cooked by roasting. Roasting refers to a dry-heat cooking method used to cook foods, uncovered, in an oven. Tender pieces of meat work best for roasting."
+        },
+        {
+            "name": "Roll, roll out",
+            "desc": "To form a food into a shape. Dough, for instance, can be rolled into ropes or balls. The phrase \"roll out\" refers to mechanically flattening a food, usually a dough or pastry, with a rolling pin."
+        },
+        {
+            "name": "Roux (roo)",
+            "desc": "A French term that refers to a mixture of flour and a fat cooked to a golden- or rich-brown color and used for a thickening in sauces, soups, and gumbos."
+        },
+        {
+            "name": "Salsa",
+            "desc": "A sauce usually made from finely chopped tomatoes, onions, chiles, and cilantro. It is often used in Mexican and Southwestern cuisine."
+        },
+        {
+            "name": "Saute",
+            "desc": "From the French word sauter, meaning \"to jump.\" Sauteed food is cooked and stirred in a small amount of fat over fairly high heat in an open, shallow pan. Food cut into uniform size sautes the best."
+        },
+        {
+            "name": "Scald",
+            "desc": "To heat a liquid, often milk, to a temperature just below the boiling point, when tiny bubbles just begin to appear around the edge of the liquid."
+        },
+        {
+            "name": "Score",
+            "desc": "To cut narrow slits, often in a diamond pattern, through the outer surface of a food to decorate it, tenderize it, help it absorb flavor, or allow fat to drain as it cooks."
+        },
+        {
+            "name": "Sea salt",
+            "desc": "This variety of salt is derived from the evaporation of sea water. Some cooks prefer it over table salt for its clean, salty flavor."
+        },
+        {
+            "name": "Sear",
+            "desc": "To brown a food, usually meat, quickly on all sides using high heat. This helps seal in the juices and may be done in the oven, under a broiler, or on top of the range."
+        },
+        {
+            "name": "Section",
+            "desc": "To separate and remove the membrane of segments of citrus fruits. To section oranges, use a paring knife to remove the peel and white rind. Working over a bowl to catch the juice, cut between one orange section and the membrane, slicing to the center of the fruit. Turn the knife and slide it up the other side of the section along the membrane, cutting outward. Repeat with remaining sections."
+        },
+        {
+            "name": "Sherry",
+            "desc": "A fortified wine that ranges from dry to sweet, and light to dark. Sherry can be enjoyed as a predinner or after- dinner drink, and it is also used in cooking."
+        },
+        {
+            "name": "Shortening",
+            "desc": "A vegetable oil that has been processed into solid form. Shortening commonly is used for baking or frying. Plain and butter-flavor types can be used interchangeably. Store in a cool, dry place. Once opened, use within 6 months. Discard if it has an odor or appears discolored."
+        },
+        {
+            "name": "Shred, finely shred",
+            "desc": "To push food across a shredding surface to make long, narrow strips. Finely shred means to make long thin strips. A food processor also may be used. Lettuce and cabbage may be shredded by thinly slicing them."
+        },
+        {
+            "name": "Shrimp paste",
+            "desc": "A pungent seasoning made from dried, salted shrimp that's been pounded into a paste. Shrimp paste gives Southeast Asian dishes an authentic, rich flavor. The salty shrimp taste mellows during cooking. In a pinch, substitute anchovy paste, though it's not as boldly flavored."
+        },
+        {
+            "name": "Shuck",
+            "desc": "To remove the shells from seafood, such as oysters and clams, or the husks from corn."
+        },
+        {
+            "name": "Sieve",
+            "desc": "To separate liquids from solids, usually using a sieve."
+        },
+        {
+            "name": "Sift",
+            "desc": "To put one or more dry ingredients, especially flour or powdered sugar, through a sifter or sieve to remove lumps and incorporate air."
+        },
+        {
+            "name": "Simmer",
+            "desc": "To cook food in a liquid that is kept just below the boiling point; a liquid is simmering when a few bubbles form slowly and burst just before reaching the surface."
+        },
+        {
+            "name": "Skewer",
+            "desc": "A long, narrow metal or wooden stick that can be inserted through pieces of meat or vegetables for grilling. If using bamboo or wooden skewers, soak them in cold water for 30 minutes before you thread them to prevent burning."
+        },
+        {
+            "name": "Skim",
+            "desc": "To remove a substance, such as fat or foam, from the surface of a liquid."
+        },
+        {
+            "name": "Slice",
+            "desc": "A flat, usually thin, piece of food cut from a larger piece. Also the process of cutting flat, thin pieces"
+        },
+        {
+            "name": "Snip",
+            "desc": "To cut food, often fresh herbs or dried fruit, with kitchen shears or scissors into very small, uniform pieces using short, quick strokes."
+        },
+        {
+            "name": "Soba noodles",
+            "desc": "Made from wheat and buckwheat flours, soba noodles are a favorite Japanese fast food. In a pinch, substitute a narrow whole wheat ribbon pasta, such as linguine."
+        },
+        {
+            "name": "Somen noodles",
+            "desc": "Made from wheat flour, these dried Japanese noodles are very fine and most often white. In a pinch, substitute angel hair pasta"
+        },
+        {
+            "name": "Light cream",
+            "desc": "Also called coffee or table cream. It usually contains about 20 percent milk fat and cannot be whipped."
+        },
+        {
+            "name": "Soymilk",
+            "desc": "Made of the liquid pressed from ground soybeans, soymilk can be a good substitute for cow's milk for people who do not consume dairy products. Plain, unfortified soymilk offers high-quality proteins and B vitamins. Substituting soymilk for regular milk is possible in some cases, though the flavor may be affected. Experiment to see what is acceptable to you."
+        },
+        {
+            "name": "Springform pan",
+            "desc": "A round pan with high sides and a removable bottom. The bottom is removed by releasing a spring that holds the sides tight around it. This makes it easy to remove food from the pan."
+        },
+        {
+            "name": "Steam",
+            "desc": "To cook a food in the vapor given off by boiling water."
+        },
+        {
+            "name": "Steep",
+            "desc": "To allow a food, such as tea, to stand in water that is just below the boiling point in order to extract flavor or color."
+        },
+        {
+            "name": "Stew",
+            "desc": "To cook food in liquid for a long time until tender, usually in a covered pot. The term also refers to a mixture prepared this way."
+        },
+        {
+            "name": "Stir",
+            "desc": "To mix ingredients with a spoon or other utensil to combine them, to prevent ingredients from sticking during cooking, or to cool them after cooking."
+        },
+        {
+            "name": "Stir-fry",
+            "desc": "A method of quickly cooking small pieces of food in a little hot oil in a wok or skillet over medium-high heat while stirring constantly."
+        },
+        {
+            "name": "Stock",
+            "desc": "The strained clear liquid in which meat, poultry, or fish has been simmered with vegetables or herbs. It is similar to broth but is richer and more concentrated. Stock and broth can be used interchangeably; reconstituted bouillon can also be substituted for stock."
+        },
+        {
+            "name": "Brown sugar",
+            "desc": "A mix of granulated sugar and molasses. Dark brown sugar has more molasses, and hence, more molasses flavor than light brown sugar (also known as golden brown sugar). Unless otherwise specified, recipes in this cookbook were tested using light brown sugar. In general, either can be used in recipes that call for brown sugar, unless one or the other is specified."
+        },
+        {
+            "name": "Tip",
+            "desc": " To help keep brown sugar soft, store it in a heavy plastic bag or a rustproof, airtight container and seal well. If it becomes hard, you can resoften it by emptying the hardened sugar into a rustproof container and placing a piece of soft bread in the container; the sugar will absorb the moisture and soften in a day or two. After the sugar has softened, remove the bread and keep the container tightly closed."
+        },
+        {
+            "name": "Coarse sugar",
+            "desc": "Often used for decorating baked goods, coarse sugar (sometimes called pearl sugar) has much larger grains than regular granulated sugar; look for it where cake-decorating supplies are sold."
+        },
+        {
+            "name": "Granulated sugar",
+            "desc": "This white, granular, crystalline sugar is what to use when a recipe calls for sugar without specifying a particular type. White sugar is most commonly available in a fine granulation, though superfine (also called ultrafine or castor sugar), a finer grind, is also available. Because superfine sugar dissolves readily, it's ideal for frostings, meringues, and drinks."
+        },
+        {
+            "name": "Powdered sugar",
+            "desc": "Also known as confectioner's sugar, this is granulated sugar that has been milled to a fine powder, then mixed with cornstarch to prevent lumping. Sift powdered sugar before using."
+        },
+        {
+            "name": "Raw sugar",
+            "desc": "In the United States, true raw sugar is not sold to consumers. Products labeled and sold as raw sugar, such as Demerara sugar and turbinado sugar, have been refined in some way. Cleaned through a steaming process, turbinado sugar is a coarse sugar with a subtle molasses flavor. It is available in many health food stores."
+        },
+        {
+            "name": "Vanilla sugar",
+            "desc": "Infused with flavor from a dried vanilla bean, vanilla sugar tastes great stirred into coffee drinks and sprinkled over baked goods. To make vanilla sugar, fill a 1-quart jar with 4 cups sugar. Cut a vanilla bean in half lengthwise and insert both halves into sugar. Secure lid and store in a cool, dry place for several weeks before using. It will keep indefinitely."
+        },
+        {
+            "name": "Scrape",
+            "desc": "To use a sharp or blunt instrument to rub the outer coating from a food, such as carrots."
+        },
+        {
+            "name": "Thickeners",
+            "desc": "Food substances used to give a thicker consistency to sauces, gravies, puddings, and soups. Common thickeners include:"
+        },
+        {
+            "name": "Flour and cornstarch",
+            "desc": "All-purpose flour and cornstarch are starches commonly used to thicken saucy mixtures. Cornstarch produces a more translucent mixture than flour and has twice the thickening power. Before adding one to a hot mixture, stir cold water into a small amount. You can also combine either flour or cornstarch with cold water in a screw-top jar and shake until thoroughly blended. It is critical that the starch- water mixture be free of lumps to prevent lumps in your sauce or gravy."
+        },
+        {
+            "name": "Quick-cooking tapioca",
+            "desc": "This is a good choice for foods that are going to be frozen because, unlike flour- and cornstarch-thickened mixtures, frozen tapioca mixtures retain their thickness when reheated."
+        },
+        {
+            "name": "Tip",
+            "desc": "When using tapioca as a thickener for crockery cooking and freezer-bound foods, you can avoid its characteristic lumpy texture by grinding the tapioca with a mortar and pestle before adding to the recipe."
+        },
+        {
+            "name": "Toast",
+            "desc": "The process of browning, crisping, or drying a food by exposing it to heat. Toasting coconut, nuts, and seeds helps develop their flavor. Also the process of exposing bread to heat so it becomes browner, crisper, and drier."
+        },
+        {
+            "name": "Tomatoes, dried",
+            "desc": "Sometimes referred to as sun-dried tomatoes, these shriveled-looking tomato pieces boast an intense flavor and chewy texture. They're available packed in olive oil or dry. Follow recipe directions for rehydrating dry tomatoes. If no directions are given, cover with boiling water, let stand about 10 minutes or until pliable, then drain well and pat dry. Snip pieces with scissors if necessary. Generally, dry and oil-packed tomatoes can be used interchangeably, though the dry tomatoes will need to be rehydrated, and the oil-packed will need to be drained and rinsed."
+        },
+        {
+            "name": "Tortilla",
+            "desc": "A small, thin, flat bread, popular in Mexican cooking, that is made from corn or wheat flour and usually is wrapped around a filling. To warm and soften flour tortillas, wrap a stack of 8 to 10 in foil and heat in a 350 degree F oven for 10 minutes."
+        },
+        {
+            "name": "Toss",
+            "desc": "To mix ingredients lightly by lifting and dropping them using two utensils."
+        },
+        {
+            "name": "Vermouth",
+            "desc": "White wine that has been fortified and flavored with herbs and spices. Dry vermouth is white and is used as a before-dinner drink or in nonsweet drinks, such as a martini. Sweet vermouth is reddish brown and can be drunk straight or used in sweet mixed drinks. Vermouth often is used as a cooking ingredient."
+        },
+        {
+            "name": "Vinegar",
+            "desc": "A sour liquid that is a byproduct of fermentation. Through fermentation the alcohol from grapes, grains, apples, and other sources is changed to acetic acid to create vinegar."
+        },
+        {
+            "name": "Weeping",
+            "desc": "When liquid separates out of a solid food, such as jellies, custards, and meringues."
+        },
+        {
+            "name": "Whip",
+            "desc": "To beat a food lightly and rapidly using a wire whisk, rotary beater, or electric mixer in order to incorporate air into the mixture and increase its volume."
+        },
+        {
+            "name": "Wonton, wonton wrappers",
+            "desc": "Stuffed savory Asian pastries. The wrappers, paper-thin skins used to make wontons, can be found in the produce aisle or in Asian markets. Wonton wrappers are similar to, but smaller than, egg roll skins."
+        },
+        {
+            "name": "Yeast",
+            "desc": "A tiny, single-celled organism that feeds on the sugar in dough, creating carbon dioxide gas that makes dough rise. There are three common forms of yeast."
+        },
+        {
+            "name": "Active dry yeast",
+            "desc": "This is the most popular form; these tiny, dehydrated granules are mixed with flour or dissolved in warm water before they're used."
+        },
+        {
+            "name": "Bread-machine yeast",
+            "desc": "This highly active yeast was developed especially for use in doughs processed in bread machines."
+        },
+        {
+            "name": "Quick-rising active dry yeast",
+            "desc": "This is a more active strain of yeast than active dry yeast, and it substantially cuts down on the time it takes for dough to rise. This yeast is usually mixed with the dry ingredients before the warm liquids are added. The recipes in this book were tested using active dry yeast."
+        },
+        {
+            "name": "Zest",
+            "desc": "The colored outer portion of citrus fruit peel. It is rich in fruit oils and often used as a seasoning. To remove the zest, scrape a grater or fruit zester across the peel; avoid the white membrane beneath the peel because it is bitter."
+        }
+    ]
+}

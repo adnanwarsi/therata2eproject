@@ -1,0 +1,116 @@
+Intent_RecipeDescribe describe
+Intent_RecipeDescribe please describe
+Intent_RecipeDescribe give me the description
+Intent_RecipeDescribe give me the description please
+Intent_RecipeDescribe description
+Intent_RecipeDescribe description please
+Intent_RecipeDescribe detail
+Intent_RecipeDescribe details
+Intent_RecipeDescribe details please
+Intent_RecipeDescribe detail please
+
+Intent_JumpToDirections go to directions
+Intent_JumpToDirections go to the directions
+Intent_JumpToDirections go forward to directions
+Intent_JumpToDirections go forward to the directions
+Intent_JumpToDirections go straight to the directions
+Intent_JumpToDirections go straight to directions
+Intent_JumpToDirections go to end
+Intent_JumpToDirections go to the end
+Intent_JumpToDirections jump to directions
+Intent_JumpToDirections jump to the directions
+Intent_JumpToDirections jump forward to directions
+Intent_JumpToDirections jump forward to the directions
+Intent_JumpToDirections jump straight to the directions
+Intent_JumpToDirections jump straight to directions
+Intent_JumpToDirections jump to end
+Intent_JumpToDirections jump to the end
+Intent_JumpToDirections skip to end
+Intent_JumpToDirections skip to the end
+Intent_JumpToDirections skip to directions
+Intent_JumpToDirections skip to the directions
+Intent_JumpToDirections skip forward to directions
+Intent_JumpToDirections skip forward to the directions
+Intent_JumpToDirections skip ingredients
+Intent_JumpToDirections skip the ingredients
+
+AMAZON.StartOverIntent begin again
+AMAZON.StartOverIntent go to the beginning
+AMAZON.StartOverIntent go to beginning
+AMAZON.StartOverIntent go back to the beginning
+AMAZON.StartOverIntent go back to beginning
+AMAZON.StartOverIntent jump to the beginning
+AMAZON.StartOverIntent jump to beginning
+AMAZON.StartOverIntent jump back to the beginning
+AMAZON.StartOverIntent jump back to beginning
+AMAZON.StartOverIntent start again
+AMAZON.StartOverIntent go to the start
+AMAZON.StartOverIntent go to start
+AMAZON.StartOverIntent go back to the start
+AMAZON.StartOverIntent go back to start
+AMAZON.StartOverIntent jump to the start
+AMAZON.StartOverIntent jump to start
+AMAZON.StartOverIntent jump back to the start
+AMAZON.StartOverIntent jump back to start
+
+AMAZON.NextIntent continue
+AMAZON.NextIntent proceed
+AMAZON.NextIntent more
+AMAZON.NextIntent OK
+AMAZON.NextIntent carry on
+AMAZON.NextIntent keep going
+AMAZON.NextIntent move on
+AMAZON.NextIntent done
+AMAZON.NextIntent give me next step
+AMAZON.NextIntent give me the next step
+AMAZON.NextIntent give me next ingredient
+AMAZON.NextIntent give me the next ingredient
+AMAZON.NextIntent tell me next step
+AMAZON.NextIntent tell me the next step
+AMAZON.NextIntent tell me next ingredient
+AMAZON.NextIntent tell me the next ingredient
+AMAZON.NextIntent move on to next step
+AMAZON.NextIntent move on to the next step
+AMAZON.NextIntent go to next step
+AMAZON.NextIntent go to the next step
+AMAZON.NextIntent move on to next ingredient
+AMAZON.NextIntent move on to the next ingredient
+AMAZON.NextIntent go to next ingredient
+AMAZON.NextIntent go to the next ingredient
+
+Intent_ListChoice {choicenumber}
+Intent_ListChoice item {choicenumber}
+Intent_ListChoice item number {choicenumber}
+Intent_ListChoice recipe {choicenumber}
+Intent_ListChoice recipe number {choicenumber}
+
+Intent_GlossaryLookup What is {helptext}
+Intent_GlossaryLookup What is a {helptext}
+Intent_GlossaryLookup Can you tell me what is {helptext}
+Intent_GlossaryLookup Can you tell me what is a {helptext}
+
+Intent_SubstitutesLookup Can you tell me a substitute ingredient for {substitutelookuptext}
+Intent_SubstitutesLookup Can you tell me a substitute for {substitutelookuptext}
+Intent_SubstitutesLookup what can I replace {substitutelookuptext} with
+Intent_SubstitutesLookup what can I use in place of {substitutelookuptext}
+
+Intent_OrderingIngredients order that please
+Intent_OrderingIngredients order that
+Intent_OrderingIngredients order it
+Intent_OrderingIngredients order it please
+Intent_OrderingIngredients get it for me
+Intent_OrderingIngredients please get it for me
+Intent_OrderingIngredients can you get it for me
+Intent_OrderingIngredients can you order that
+Intent_OrderingIngredients can you order that please
+Intent_OrderingIngredients please order that
+Intent_OrderingIngredients please order it
+
+AMAZON.CancelIntent abandon please
+AMAZON.CancelIntent abandon
+AMAZON.CancelIntent abandon recipe please
+AMAZON.CancelIntent abandon recipe
+AMAZON.CancelIntent abort
+AMAZON.CancelIntent abort please
+AMAZON.CancelIntent abort recipe
+AMAZON.CancelIntent abort recipe please

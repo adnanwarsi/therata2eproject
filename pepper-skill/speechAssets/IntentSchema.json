@@ -1,0 +1,88 @@
+{
+  "intents": [
+    {
+      "intent": "Intent_ListChoice",
+      "slots": [
+        {
+          "name": "choicenumber",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "Intent_RecipeDescribe",
+      "slots": []
+    },
+    {
+      "intent": "Intent_JumpToDirections",
+      "slots": []
+    },
+    {
+      "intent": "Intent_GlossaryLookup",
+      "slots": [
+        {
+          "name": "helptext",
+          "type": "GLOSSARYITEMS"
+        }
+      ]
+    },
+    {
+      "intent": "Intent_SubstitutesLookup",
+      "slots": [
+        {
+          "name": "substitutelookuptext",
+          "type": "SUBSTITUTESITEMS"
+        }
+      ]
+    },
+    {
+      "intent": "Intent_OrderingIngredients",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.ResumeIntent",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.NextIntent",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.RepeatIntent",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.PreviousIntent",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.StartOverIntent",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.YesIntent",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.NoIntent",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.CancelIntent",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.PauseIntent",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.StopIntent",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.HelpIntent",
+      "slots": []
+    }
+  ]
+}
+
