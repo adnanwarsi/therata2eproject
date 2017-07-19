@@ -1,0 +1,20 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'RedPepper' do
+  # Comment this line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for RedPepper
+    pod 'Alamofire', '~> 4.0'
+    pod 'RNActivityView'
+    pod 'SwiftyJSON', '~> 3.1'
+    pod 'TPKeyboardAvoiding', '~> 1.3'
+    pod 'REFrostedViewController', '~> 2.4'
+    pod 'Cosmos'
+    pod 'Kingfisher', '~> 3.1'
+    pod 'TSMessages', :git => 'https://github.com/KrauseFx/TSMessages.git'
+    pod "MobilePlayer"
+    pod 'FBSDKCoreKit', '~> 4.16'
+    pod 'FBSDKLoginKit', '~> 4.16'
+end

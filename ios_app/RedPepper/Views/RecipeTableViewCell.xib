@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11201" systemVersion="15G31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11161"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Raleway-Bold.ttf">
+            <string>Raleway-Bold</string>
+        </array>
+        <array key="Raleway-Regular.ttf">
+            <string>Raleway-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="RecipeTableViewCell" rowHeight="215" id="KGk-i7-Jjw" customClass="RecipeTableViewCell" customModule="Red_Pepper" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="215"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <frame key="frameInset" width="320" height="214"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="default" translatesAutoresizingMaskIntoConstraints="NO" id="eg5-JM-OSZ"/>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="ohY-uV-jp2" customClass="GradientView" customModule="Red_Pepper" customModuleProvider="target">
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="85" id="6Wg-qd-tyR"/>
+                        </constraints>
+                    </view>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="JS4-ma-xW4">
+                        <constraints>
+                            <constraint firstAttribute="width" constant="40" id="NEG-Xh-LCl"/>
+                            <constraint firstAttribute="height" constant="50" id="Yga-09-l5A"/>
+                        </constraints>
+                        <state key="normal" image="trash"/>
+                        <connections>
+                            <action selector="trashButtonTapped:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="WTc-2H-gSy"/>
+                        </connections>
+                    </button>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qqX-h9-9LL">
+                        <constraints>
+                            <constraint firstAttribute="width" constant="40" id="fUM-Fm-www"/>
+                            <constraint firstAttribute="height" constant="50" id="vjE-e2-yy8"/>
+                        </constraints>
+                        <state key="normal" image="up"/>
+                        <connections>
+                            <action selector="microButtonTapped:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="0ID-jY-bt0"/>
+                        </connections>
+                    </button>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Kex-Yw-8dn">
+                        <fontDescription key="fontDescription" name="Raleway-Bold" family="Raleway" pointSize="18"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="g1U-8U-muS">
+                        <fontDescription key="fontDescription" name="Raleway-Regular" family="Raleway" pointSize="13"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="g1U-8U-muS" firstAttribute="top" secondItem="Kex-Yw-8dn" secondAttribute="bottom" constant="-1" id="0rJ-yL-n0J"/>
+                    <constraint firstItem="eg5-JM-OSZ" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="8lk-tJ-ZeI"/>
+                    <constraint firstItem="JS4-ma-xW4" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="DQI-S4-mm7"/>
+                    <constraint firstAttribute="trailing" secondItem="ohY-uV-jp2" secondAttribute="trailing" id="DW1-DQ-K1n"/>
+                    <constraint firstItem="eg5-JM-OSZ" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="DkU-4l-tK1"/>
+                    <constraint firstItem="Kex-Yw-8dn" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="10" id="GRI-y2-Zmq"/>
+                    <constraint firstAttribute="bottom" secondItem="eg5-JM-OSZ" secondAttribute="bottom" id="IMz-dJ-zVK"/>
+                    <constraint firstAttribute="trailing" secondItem="Kex-Yw-8dn" secondAttribute="trailing" constant="10" id="Ia0-ce-QAz"/>
+                    <constraint firstItem="qqX-h9-9LL" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="LGe-i9-Hvn"/>
+                    <constraint firstAttribute="trailing" secondItem="JS4-ma-xW4" secondAttribute="trailing" id="YjK-K1-MGg"/>
+                    <constraint firstAttribute="bottom" secondItem="g1U-8U-muS" secondAttribute="bottom" constant="15" id="Z93-oz-RQQ"/>
+                    <constraint firstItem="g1U-8U-muS" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="10" id="aXZ-I2-WpM"/>
+                    <constraint firstAttribute="trailing" secondItem="eg5-JM-OSZ" secondAttribute="trailing" id="dp4-7t-aOu"/>
+                    <constraint firstAttribute="bottom" secondItem="ohY-uV-jp2" secondAttribute="bottom" id="dtP-lk-w1F"/>
+                    <constraint firstAttribute="trailing" secondItem="g1U-8U-muS" secondAttribute="trailing" constant="10" id="fld-dr-QRP"/>
+                    <constraint firstItem="ohY-uV-jp2" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="y6A-Mf-9tm"/>
+                    <constraint firstItem="qqX-h9-9LL" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="yzf-ag-dev"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="microButton" destination="qqX-h9-9LL" id="CvS-AF-eea"/>
+                <outlet property="recipeDescLabel" destination="g1U-8U-muS" id="IVs-OT-8S8"/>
+                <outlet property="recipeImageView" destination="eg5-JM-OSZ" id="Kr8-xG-mNo"/>
+                <outlet property="recipeNameLabel" destination="Kex-Yw-8dn" id="Ljw-5g-Ra6"/>
+            </connections>
+            <point key="canvasLocation" x="25" y="51.5"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="default" width="375" height="225"/>
+        <image name="trash" width="19" height="21"/>
+        <image name="up" width="20" height="17"/>
+    </resources>
+</document>

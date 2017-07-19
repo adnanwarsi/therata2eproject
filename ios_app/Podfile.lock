@@ -1,0 +1,63 @@
+PODS:
+  - Alamofire (4.0.1)
+  - Bolts (1.8.4):
+    - Bolts/AppLinks (= 1.8.4)
+    - Bolts/Tasks (= 1.8.4)
+  - Bolts/AppLinks (1.8.4):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.8.4)
+  - Cosmos (7.0.0)
+  - FBSDKCoreKit (4.17.0):
+    - Bolts (~> 1.7)
+  - FBSDKLoginKit (4.17.0):
+    - FBSDKCoreKit
+  - HexColors (2.3.0)
+  - Kingfisher (3.2.0)
+  - MobilePlayer (1.2.0)
+  - REFrostedViewController (2.4.8)
+  - RNActivityView (0.0.6)
+  - SwiftyJSON (3.1.1)
+  - TPKeyboardAvoiding (1.3)
+  - TSMessages (0.9.13):
+    - HexColors (~> 2.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - Cosmos
+  - FBSDKCoreKit (~> 4.16)
+  - FBSDKLoginKit (~> 4.16)
+  - Kingfisher (~> 3.1)
+  - MobilePlayer
+  - REFrostedViewController (~> 2.4)
+  - RNActivityView
+  - SwiftyJSON (~> 3.1)
+  - TPKeyboardAvoiding (~> 1.3)
+  - TSMessages (from `https://github.com/KrauseFx/TSMessages.git`)
+
+EXTERNAL SOURCES:
+  TSMessages:
+    :git: https://github.com/KrauseFx/TSMessages.git
+
+CHECKOUT OPTIONS:
+  TSMessages:
+    :commit: 949e7559c60a8863f33c5fd2cbc55e8efbb4b53f
+    :git: https://github.com/KrauseFx/TSMessages.git
+
+SPEC CHECKSUMS:
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  Cosmos: 2c8299147138758f6ebbb247cf1aeed77998bdf9
+  FBSDKCoreKit: 30a21d2d7b92984b3d80497113433c00824c35e9
+  FBSDKLoginKit: 42b7129ac0373ca99eaf4cbebf4d07bd42371f59
+  HexColors: 6ad3947c3447a055a3aa8efa859def096351fe5f
+  Kingfisher: 50407d1d5dbc34965009d425a286342ff36a84ea
+  MobilePlayer: 069b13482499f14c25b6ce53f63a91e17975b073
+  REFrostedViewController: a893b4979ba1f200c547aef9ff4c3fd5a18f5923
+  RNActivityView: 889126dc047fc6fa10aac88a13ebff677c53bf82
+  SwiftyJSON: f0be2e604f83e8405a624e9f891898bf6ed4e019
+  TPKeyboardAvoiding: a5138f318c06fb3e151f886e18ce4a72695d9cbe
+  TSMessages: eb3cf27b6900684a21bad4fe9ea426e287b8c839
+
+PODFILE CHECKSUM: 3aa0bca62b2dd57d2d47494065ae369d76167363
+
+COCOAPODS: 1.0.1
