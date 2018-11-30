@@ -2,6 +2,8 @@
 
 Pepper is a cooking assistance service that showcases a Voice based navigation through a Recipe.
 
+https://github.com/adnanwarsi/therata2eproject/blob/master/Pepper%20product.pdf
+
 Features include:
 Ability to capture user's preferences for Diet, Cuisine, Complexity of recipes,  Ways to interact with the voice solution, Infotainment and Notification timing.
 
