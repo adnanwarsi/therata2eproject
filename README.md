@@ -35,6 +35,7 @@ User app to select recepies on the internet and submit as one the favorites. The
 
 ### Alexa Skill
 Voice enabled interface to the receipe sleected for cooking. The Skill assists the user with food preparation by walking through the ingredients and pre-preparatiojn steps. Then it helps the user in a human voice, as if guided by a chef expert, while the user goes through the cooking steps, including appropriate wait times and reminders.
+https://github.com/adnanwarsi/therata2eproject/blob/master/Red%20Pepper%20-%20Converstation%20Flow%20Diagram.pdf
 
 ### Backend Server 
 A detailed AWS Lambda server in Python that provides the backend functionality for the Alexa Skill and iOS app for the Pepper 
